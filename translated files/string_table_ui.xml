@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-<string id="cant_walk"><text>I can’t go on... Need to rest.</text></string>
-<string id="cant_walk_weight"><text>Can’t take another step! Too heavy...</text></string>
+<string id="cant_walk"><text>I can't go on... Need to rest.</text></string>
+<string id="cant_walk_weight"><text>Can't take another step! Too heavy...</text></string>
 <string id="dar_poltergeist_hold_the_door"><text>Something is holding the door shut</text></string>
 <string id="Global Map"><text>Global Map</text></string>
 <string id="gun_jammed"><text>Weapon jammed. Reload required.</text></string>
