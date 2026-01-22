@@ -1,88 +1,88 @@
 															   <!--Кордон-->
 
-<string id="treasure_1000_1"><text>Схрон: Вагон над мостом \nВо время перегруппировки спрятал боеприпасы в вагоне. Не забыть.</text></string>
-<string id="treasure_1000_2"><text>Схрон: Вагон над мостом \nПід час перегрупування сховав боєприпаси у вагоні. Не забути.</text></string>
-<string id="treasure_1000_3"><text>Схрон: Вагон над мостом \nНочью по-тихому сложил сюда свои арты. Тут точно никто не достанет.</text></string>
+<string id="treasure_1000_1"><text>Stash: Railcar above the bridge \nDuring regrouping I hid ammunition in the railcar. Don’t forget.</text></string>
+<string id="treasure_1000_2"><text>Stash: Railcar above the bridge \nDuring regrouping I hid ammunition in the railcar. Don’t forget.</text></string>
+<string id="treasure_1000_3"><text>Stash: Railcar above the bridge \nQuietly stashed my artifacts here at night. No one will get to them here for sure.</text></string>
 
-<string id="treasure_1001_1"><text>Схрон: Вещи погибшего \nСрисовал как кровосос сталкера высушил. Хабарок жмура так себе.. Решил припрятать до поры.</text></string>
-<string id="treasure_1001_2"><text>Схрон: Вещи погибшего \nВозле железнодорожного тоннеля в лесу накрылся в аномалии сталкер, шмотки его спрятал. Куртка, да дробь.</text></string>
-<string id="treasure_1001_3"><text>Схрон: Вещи погибшего \nБачив, як біля залізничного тунелю в лісі накрився в аномалії якийсь сталкер. Шмотки нібито непогані були.</text></string>
+<string id="treasure_1001_1"><text>Stash: Fallen man’s belongings \nSaw how a bloodsucker dried out a stalker. The dead man’s loot is so-so… Decided to stash it for now.</text></string>
+<string id="treasure_1001_2"><text>Stash: Fallen man’s belongings \nNear the railway tunnel in the forest a stalker got caught in an anomaly. I hid his gear. A jacket and some buckshot.</text></string>
+<string id="treasure_1001_3"><text>Stash: Fallen man’s belongings \nSaw how some stalker got caught in an anomaly near the railway tunnel in the forest. His gear seemed pretty decent.</text></string>
 
-<string id="treasure_1002_1"><text>Схрон: Крест у лагеря бандюков \nБіля табору бандитів під хрестом я сховав хабар.</text></string>
-<string id="treasure_1002_2"><text>Схрон: Крест у лагеря бандюков \nОдиночка попался борзый, решил артефакт закрысить, а мог бы жить. Теперь лежит под крестом и арт стережёт.</text></string>
-<string id="treasure_1002_3"><text>Схрон: Крест у лагеря бандюков \nРазвели лоха на арты. Пока не свалим пусть лежат.</text></string>
+<string id="treasure_1002_1"><text>Stash: Cross near the bandit camp \nNear the bandit camp, under the cross, I hid the loot.</text></string>
+<string id="treasure_1002_2"><text>Stash: Cross near the bandit camp \nA lone stalker got cocky, decided to skim off an artifact, could’ve lived. Now he lies under the cross, guarding the artifact.</text></string>
+<string id="treasure_1002_3"><text>Stash: Cross near the bandit camp \nWe scammed a sucker out of some artifacts. Let them lie here until we move on.</text></string>
 
-<string id="treasure_1003_1"><text>Схрон: Бандитский склад \nУ Митяя хабар слямзил. Пока не запалили, решил сховать...</text></string>
-<string id="treasure_1003_2"><text>Схрон: Бандитский склад \nПерехоплена бандитами скриня виявлена на горищі центральної будівлі. Треба підготувати загін і відбити її.</text></string>
-<string id="treasure_1003_3"><text>Схрон: Бандитский склад \nЗавтра пахан явится за общаком. Не обломится ему мой артефакт.</text></string>
+<string id="treasure_1003_1"><text>Stash: Bandit cache \nLifted the loot off Mitya. Until they notice, I decided to stash it...</text></string>
+<string id="treasure_1003_2"><text>Stash: Bandit cache \nA crate seized by bandits was found in the attic of the central building. Need to prepare a squad and take it back.</text></string>
+<string id="treasure_1003_3"><text>Stash: Bandit cache \nTomorrow the boss will come for the common fund. He’s not getting my artifact.</text></string>
 
-<string id="treasure_1004_1"><text>Схрон: Под крестом \nЗажмурили вояку. По хабару фуфло совсем, но маслят как грязи. Часть решили прикопать.</text></string>
-<string id="treasure_1004_2"><text>Схрон: Под крестом \nОблапошил сталкера на два артефакта. В общак кидать - жаба душит. Спрятал тут.</text></string>
-<string id="treasure_1004_3"><text>Схрон: Под крестом \nКоли ми з братухами відбивалися від собак у погонах, я зарив деяке добро під хрестом. Нехай полежить.</text></string>
+<string id="treasure_1004_1"><text>Stash: Under the cross \nDropped a soldier. The loot is complete junk, but there’s oil like dirt. Decided to bury part of it.</text></string>
+<string id="treasure_1004_2"><text>Stash: Under the cross \nTricked a stalker out of two artifacts. Handing them over to the common fund—no way. Hid them here.</text></string>
+<string id="treasure_1004_3"><text>Stash: Under the cross \nWhen my brothers and I were fighting off the dogs in uniform, I buried some goods under the cross. Let it sit there.</text></string>
 
-<string id="treasure_1005_1"><text>Схрон: Убежище на чердаке \nРюкзак я сунув на горище. Повернуся якось потім, бо поки - ніяк.</text></string>
-<string id="treasure_1005_2"><text>Схрон: Убежище на чердаке \nБачыу як ваенны празрачную хавау. Фига яму, а не гарэлачка.  Схавау на крыше аднаго з дамоу. Потым з хлопцами пасядим, ваяку таму спасиба скажам.</text></string>
-<string id="treasure_1005_3"><text>Схрон: Убежище на чердаке \nХабар засунул на чердак. Вернусь потом, пока никак.</text></string>
+<string id="treasure_1005_1"><text>Stash: Attic shelter \nI shoved the backpack into the attic. I’ll come back for it later—can’t right now.</text></string>
+<string id="treasure_1005_2"><text>Stash: Attic shelter \nSaw how a soldier hid some clear booze. No way he’s getting it. I stashed it on the roof of one of the houses. Later I’ll sit down with the guys and thank that soldier.</text></string>
+<string id="treasure_1005_3"><text>Stash: Attic shelter \nStashed the loot in the attic. I’ll come back later—for now it’s not possible.</text></string>
 
-<string id="treasure_1006_1"><text>Схрон: Сейф на ферме \nНа ферме нашёл полузакопанный сейф, буду пока там хранить добро. Пока сховал куртку, ремкомплекты оружейные, ТОЗ и 40 дроби.</text></string>
-<string id="treasure_1006_2"><text>Схрон: Сейф на ферме \nНа фермі знайшов напівзакопаний сейф - поки що зберігатиму добро у ньому.</text></string>
-<string id="treasure_1006_3"><text>Схрон: Сейф на ферме \nВояки - гады... Подстрелили. Ханку сам не упру. Пока не оклемаюсь придется бросить тут.</text></string>
+<string id="treasure_1006_1"><text>Stash: Safe on the farm \nFound a half-buried safe on the farm. I’ll store my goods there for now. So far I stashed a jacket, weapon repair kits, a TOZ, and 40 rounds of buckshot.</text></string>
+<string id="treasure_1006_2"><text>Stash: Safe on the farm \nFound a half-buried safe on the farm — for now I’ll keep my goods in it.</text></string>
+<string id="treasure_1006_3"><text>Stash: Safe on the farm \nSoldiers are bastards… Shot me. I can’t haul the booze myself. Until I recover, I’ll have to leave it here.</text></string>
 
-<string id="treasure_1007_1"><text>Схрон: Контейнер в вагоне \nРебятки шепнули, что в вагоне на мосту кто-то что-то прячет, надо заглянуть на обратном пути. Только боязно что то, киселей там море.....</text></string>
-<string id="treasure_1007_2"><text>Схрон: Контейнер в вагоне \nВчера тёрли с Хоботом за жизнь, так этот фраерок лоханулся, брякнул про шмот на Кордоне, в вагоне. Про кисели промолчал, гадёнышь</text></string>
-<string id="treasure_1007_3"><text>Схрон: Контейнер в вагоне \nБеня с пьяну лоханулся, брякнул про свой схрон на Кордоне. Видимо знает, что туда из за киселей ни кто не полезет...</text></string>
+<string id="treasure_1007_1"><text>Stash: Container in a railcar \nThe guys whispered that someone is hiding something in the railcar on the bridge. Need to check it on the way back. Kinda scary though — there are tons of slime anomalies there…</text></string>
+<string id="treasure_1007_2"><text>Stash: Container in a railcar \nYesterday I was chatting with Khobot about life, and that sucker slipped up and blurted out about gear on the Cordon, in a railcar. Kept quiet about the slime anomalies, the bastard.</text></string>
+<string id="treasure_1007_3"><text>Stash: Container in a railcar \nBenya screwed up while drunk and blurted out about his stash on the Cordon. Figures he knows nobody will go there because of the slime anomalies…</text></string>
 
-<string id="treasure_1008_1"><text>Схрон: Товар сталкера \nСховав товар під самим дахом, у будиночку біля мосту.</text></string>
-<string id="treasure_1008_2"><text>Схрон: Товар сталкера \nСпрятал всё, о чём условились с Кирюхой, в домике возле моста, под самой крышей. Артефакт и патронов малость.</text></string>
-<string id="treasure_1008_3"><text>Схрон: Товар сталкера \nВояки совсем оборзели. Пришлось рвать когти от облавы. Весь навар оставили на крыше.</text></string>
+<string id="treasure_1008_1"><text>Stash: Stalker’s goods \nHid the goods right under the roof, in the little house near the bridge.</text></string>
+<string id="treasure_1008_2"><text>Stash: Stalker’s goods \nHid everything I agreed on with Kiryukha in the little house near the bridge, right under the roof. An artifact and a small amount of ammo.</text></string>
+<string id="treasure_1008_3"><text>Stash: Stalker’s goods \nThe soldiers have gone completely nuts. Had to run from a raid. Left all the profit on the roof.</text></string>
 
-<string id="treasure_1009_1"><text>Схрон: Вещи около моста \nВо фортануло. Собаки вояку раздербанили. Все его пожитки сныкал тут.</text></string>
-<string id="treasure_1009_2"><text>Схрон: Вещи около моста \nШмаття сховав в одному з ящиків неподалік мосту. Усе, зав'язую. Іду з Зони, прощайте, братчики! Не забуду маму рідну!</text></string>
-<string id="treasure_1009_3"><text>Схрон: Вещи около моста \nЧе та я очкую за имущество. Братва косо поглядывает. Припрятал часть от греха.</text></string>
+<string id="treasure_1009_1"><text>Stash: Items near the bridge \nGot lucky. Dogs tore a soldier apart. I stashed all his belongings here.</text></string>
+<string id="treasure_1009_2"><text>Stash: Items near the bridge \nHid the gear in one of the crates near the bridge. That’s it, I’m done. Leaving the Zone, farewell brothers! I won’t forget my dear mother!</text></string>
+<string id="treasure_1009_3"><text>Stash: Items near the bridge \nI’m getting nervous about my property. The boys are giving me sideways looks. Hid part of it just in case.</text></string>
 
-<string id="treasure_1010_1"><text>Схрон: Рюкзак возле деревни \nНедалеко от лагеря новичков сгинул какой-то сталкер, надо бы посмотреть его добро. Он, говорят, из рейда пёр.</text></string>
-<string id="treasure_1010_2"><text>Схрон: Рюкзак возле деревни \nМне тут Вася один наметочку дал на рюкзачок, говорил мол проклятый он, поэтому мало охотников брать. Что уж там такого ценного не знаю.</text></string>
-<string id="treasure_1010_3"><text>Схрон: Рюкзак возле деревни \nНедалеко від табору новачків загинув якийсь сталкер… треба б подивитися його добро.</text></string>
+<string id="treasure_1010_1"><text>Stash: Backpack near the village \nNot far from the rookie camp some stalker got lost or killed. Might be worth checking out his stuff. They say he was coming back from a raid.</text></string>
+<string id="treasure_1010_2"><text>Stash: Backpack near the village \nSome guy named Vasya tipped me off about a backpack. Said it’s cursed, so not many want to take it. No idea what’s so valuable in it.</text></string>
+<string id="treasure_1010_3"><text>Stash: Backpack near the village \nNot far from the rookie camp some stalker died… might be worth checking out his stuff.</text></string>
 
-<string id="treasure_1011_1"><text>Схрон: Чердак в деревне \nНа горищі схованка, я довідався в Лихого. Він багато язиком теліпав, то ми його і пришили.</text></string>
-<string id="treasure_1011_2"><text>Схрон: Чердак в деревне \nНа чердаке, в доме Вергаса организовал себе НЗ на черный день.</text></string>
-<string id="treasure_1011_3"><text>Схрон: Чердак в деревне \nУзнал у Лихого про тайник на чердаке. Вроде броник там новенький лежит.</text></string>
+<string id="treasure_1011_1"><text>Stash: Attic in the village \nThere’s a stash in the attic. I learned about it from Likhoy. He talked too much, so we took care of him.</text></string>
+<string id="treasure_1011_2"><text>Stash: Attic in the village \nSet up an emergency stash for a rainy day in the attic, in Vergas’s house.</text></string>
+<string id="treasure_1011_3"><text>Stash: Attic in the village \nFound out from Likhoy about a stash in the attic. Supposedly there’s a brand-new armor vest there.</text></string>
 
-<string id="treasure_1012_1"><text>Схрон: Удобное место \nКайфовое местечко для тайника приметил на чердаке. Там столько раз уже лазили, что вряд ли станут искать. Положил пока немного барахла на пробу. Сопрут - не жалко.</text></string>
-<string id="treasure_1012_2"><text>Схрон: Удобное место \nКайфовое местечко для тайника приметил на чердаке. Там столько раз уже лазили, что вряд ли станут искать. Положил пока немного барахла на пробу. Сопрут - не жалко.</text></string>
-<string id="treasure_1012_3"><text>Схрон: Удобное место \nКайфовое местечко для тайника приметил на чердаке. Там столько раз уже лазили, что вряд ли станут искать. Положил пока немного барахла на пробу. Сопрут - не жалко.</text></string>
+<string id="treasure_1012_1"><text>Stash: Convenient spot \nSpotted a sweet place for a stash in the attic. So many people have crawled around there already that it’s unlikely anyone will search it. Put a bit of junk there as a test. If it gets stolen — no big loss.</text></string>
+<string id="treasure_1012_2"><text>Stash: Convenient spot \nSpotted a sweet place for a stash in the attic. So many people have crawled around there already that it’s unlikely anyone will search it. Put a bit of junk there as a test. If it gets stolen — no big loss.</text></string>
+<string id="treasure_1012_3"><text>Stash: Convenient spot \nSpotted a sweet place for a stash in the attic. So many people have crawled around there already that it’s unlikely anyone will search it. Put a bit of junk there as a test. If it gets stolen — no big loss.</text></string>
 
-<string id="treasure_1013_1"><text>Схрон: Тайник Ворпала \nНа чердаке тайник сталкерский, узнал от Ворпала. Наши разведку местности проводили. Проверим.</text></string>
-<string id="treasure_1013_2"><text>Схрон: Тайник Ворпала \nКузнецову собирал, да не пригодилось.</text></string>
-<string id="treasure_1013_3"><text>Схрон: Тайник Ворпала \nНа горищі схованка, довідався від Ворпала. Наші розвідку місцевості проводили. Перевіримо.</text></string>
+<string id="treasure_1013_1"><text>Stash: Vorpal’s cache \nA stalker stash in the attic, learned about it from Vorpal. Our guys were scouting the area. We’ll check it.</text></string>
+<string id="treasure_1013_2"><text>Stash: Vorpal’s cache \nWas collecting it for Kuznetsov, but it never came in handy.</text></string>
+<string id="treasure_1013_3"><text>Stash: Vorpal’s cache \nThere’s a stash in the attic, found out about it from Vorpal. Our guys were scouting the area. We’ll check it.</text></string>
 
-<string id="treasure_1014_1"><text>Схрон: Ценности командира \nКажуть, у командира є хитра шухляда в кабінеті, то там коштовного добра навалом!</text></string>
-<string id="treasure_1014_2"><text>Схрон: Ценности командира \nГоворят, у командира есть хитрый ящик в кабинете, и там ценного добра навалом.</text></string>
-<string id="treasure_1014_3"><text>Схрон: Ценности командира \nГоворят, у командира есть хитрый ящик в кабинете, и там ценного добра навалом.</text></string>
+<string id="treasure_1014_1"><text>Stash: Commander’s valuables \nThey say the commander has a clever hidden drawer in his office, and it’s full of valuable goods!</text></string>
+<string id="treasure_1014_2"><text>Stash: Commander’s valuables \nThey say the commander has a clever hidden drawer in his office, and it’s full of valuable goods.</text></string>
+<string id="treasure_1014_3"><text>Stash: Commander’s valuables \nThey say the commander has a clever hidden drawer in his office, and it’s full of valuable goods.</text></string>
 
-<string id="treasure_1015_1"><text>Схрон: У сельской дороги \nКовальчук говорил вчера у лагеря новичков накрылся сталкер, под мостом хорошим хабаром хвастался.</text></string>
-<string id="treasure_1015_2"><text>Схрон: У сельской дороги \nНеподалік від табору новачків загинув якийсь сталкер, треба б подивитися, що він ніс. Хто таких узагалі сюди пропускає?</text></string>
-<string id="treasure_1015_3"><text>Схрон: У сельской дороги \nВитюня сказывал, один умник за дорогой организовал себе схрон среди камней. Закрысил небось хабар то.</text></string>
+<string id="treasure_1015_1"><text>Stash: By the country road \nKovalchuk said yesterday that a stalker got taken out near the rookie camp, bragging about some good loot under the bridge.</text></string>
+<string id="treasure_1015_2"><text>Stash: By the country road \nNot far from the rookie camp some stalker died, might be worth checking what he was carrying. Who even lets people like that in here?</text></string>
+<string id="treasure_1015_3"><text>Stash: By the country road \nVityunya said some smartass set up a stash by the road among the rocks. Probably skimmed some loot.</text></string>
 
-<string id="treasure_1016_1"><text>Схрон: Воровской чердак \nПринесла нелёгкая бандюков. Пришлось на чердаке спрятать хабар. Теперь бы улучить момент и забрать.</text></string>
-<string id="treasure_1016_2"><text>Схрон: Воровской чердак \nУ Вялого подрезал приборчик, впарю кому левому.</text></string>
-<string id="treasure_1016_3"><text>Схрон: Воровской чердак \nНа горищі в бандитів сховав хабар, поки їх не було. Тепер би вибрати момент і забрати.</text></string>
+<string id="treasure_1016_1"><text>Stash: Thieves’ attic \nDamn bandits showed up. Had to hide the loot in the attic. Now I just need to pick the right moment to grab it.</text></string>
+<string id="treasure_1016_2"><text>Stash: Thieves’ attic \nLifted a little device off Vyaly. I’ll sell it to some outsider.</text></string>
+<string id="treasure_1016_3"><text>Stash: Thieves’ attic \nHid the loot in the bandits’ attic while they were gone. Now I just need to choose the moment and take it back.</text></string>
 
-<string id="treasure_1017_1"><text>Схрон: Газовая труба \nЗнайшов у трубі, недалеко від ферми. От гауптвахта закінчиться - обов'язково повернуся.</text></string>
-<string id="treasure_1017_2"><text>Схрон: Газовая труба \nЧудам падстрэлиу ваеннага. Ён па мне першы страляць начау. Яго снарагу прыхавау у ржавай трубе. Буду возвращацца да таргоуца, абмяняю на што-небудзь палезнае.</text></string>
-<string id="treasure_1017_3"><text>Схрон: Газовая труба \nОбнаружил инвентарь в трубе, недалеко от фермы. Вот гауптвахта закончится - обязательно вернусь, заберу.</text></string>
+<string id="treasure_1017_1"><text>Stash: Gas pipe \nFound it in a pipe not far from the farm. Once my time in the guardhouse is over, I’ll definitely come back.</text></string>
+<string id="treasure_1017_2"><text>Stash: Gas pipe \nBy accident I shot a soldier. He fired at me first. I hid his gear in a rusty pipe. When I head back to the trader, I’ll swap it for something useful.</text></string>
+<string id="treasure_1017_3"><text>Stash: Gas pipe \nDiscovered some gear in a pipe not far from the farm. Once the guardhouse stint is over, I’ll definitely come back and take it.</text></string>
 
-<string id="treasure_1018_1"><text>Схрон: Спрятанные вещи \nВ перевернутой машине видел рюкзак рядом с трупами, надо бы глянуть что в нём, только вот радиация там ого-го.</text></string>
-<string id="treasure_1018_2"><text>Схрон: Спрятанные вещи \nНедалеко від поста скинув рюкзак… треба скоріше забрати, поки командир не перевів нас на інше місце.</text></string>
-<string id="treasure_1018_3"><text>Схрон: Спрятанные вещи \nНаблюдау расправу ваенных над бандытами. Салдаты пабрезговали абыскивать тела. Пасля таго як салдаты сышли, з аднаго з трупау зняу касцюм Доуга.</text></string>
+<string id="treasure_1018_1"><text>Stash: Hidden items \nSaw a backpack in an overturned car next to some bodies. Should check what’s inside, but the radiation there is nasty.</text></string>
+<string id="treasure_1018_2"><text>Stash: Hidden items \nDropped a backpack not far from the checkpoint… need to grab it quickly before the commander moves us to another location.</text></string>
+<string id="treasure_1018_3"><text>Stash: Hidden items \nWatched soldiers deal with bandits. The soldiers didn’t bother searching the bodies. After they left, I took a Duty suit off one of the corpses.</text></string>
 
-<string id="treasure_1019_1"><text>Схрон: Вышка на КПП \nЯщик с хозяйством на вышке. Забрать во вторник, перед сменой.</text></string>
-<string id="treasure_1019_2"><text>Схрон: Вышка на КПП \nЗабыл бинокль свой на вышке у Свалки, когда гавриков высматривали.</text></string>
-<string id="treasure_1019_3"><text>Схрон: Вышка на КПП \nНа вишці тимчасово залишив ящик. Заберу, коли зможу.</text></string>
+<string id="treasure_1019_1"><text>Stash: Checkpoint tower \nA crate with supplies is on the tower. Pick it up on Tuesday, before the shift.</text></string>
+<string id="treasure_1019_2"><text>Stash: Checkpoint tower \nForgot my binoculars on the tower at the Garbage while we were scouting for goons.</text></string>
+<string id="treasure_1019_3"><text>Stash: Checkpoint tower \nLeft a crate on the tower temporarily. I’ll pick it up when I can.</text></string>
 
-<string id="treasure_1020_1"><text>Схрон: Рюкзак на дереве \nДостали крысы всё тащить из ящика у костра. Своё тут буду хранить.</text></string>
-<string id="treasure_1020_2"><text>Схрон: Рюкзак на дереве \nКум сегодня брехал у костра, шо закинул котомку с хабаром на дерево рядом с деревней.</text></string>
-<string id="treasure_1020_3"><text>Схрон: Рюкзак на дереве \nШкуру закинул на дерево, от глаз завидущих.</text></string>
+<string id="treasure_1020_1"><text>Stash: Backpack in a tree \nTired of rats stealing everything from the box by the campfire. I’ll store my stuff here.</text></string>
+<string id="treasure_1020_2"><text>Stash: Backpack in a tree \nKum was bragging by the campfire today that he tossed a bag with loot into a tree near the village.</text></string>
+<string id="treasure_1020_3"><text>Stash: Backpack in a tree \nTossed the gear up into a tree, away from prying eyes.</text></string>
 
 															   <!--Свалка-->
 
