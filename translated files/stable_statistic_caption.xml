@@ -68,6 +68,8 @@
 <string id="gigant_normal"><text>Pseudogiant</text></string>
 <string id="gigant_strong"><text>Experienced Pseudogiant</text></string>
 
+
+
 <string id="unknown_stalker"><text>Creature unknown to science</text></string>
 
 <string id="zombied_novice"><text>Zombied, Novice</text></string>
@@ -95,10 +97,10 @@
 <string id="dolg_veteran"><text>Duty, Veteran</text></string>
 <string id="dolg_master"><text>Duty, Master</text></string>
 
-<string id="ecolog_novice"><text>Scientist, Novice</text></string>
-<string id="ecolog_experienced"><text>Scientist, Experienced</text></string>
-<string id="ecolog_veteran"><text>Scientist, Veteran</text></string>
-<string id="ecolog_master"><text>Scientist, Master</text></string>
+<string id="ecolog_novice"><text>Ecologist, Novice</text></string>
+<string id="ecolog_experienced"><text>Ecologist, Experienced</text></string>
+<string id="ecolog_veteran"><text>Ecologist, Veteran</text></string>
+<string id="ecolog_master"><text>Ecologist, Master</text></string>
 
 <string id="freedom_novice"><text>Freedom, Novice</text></string>
 <string id="freedom_experienced"><text>Freedom, Experienced</text></string>

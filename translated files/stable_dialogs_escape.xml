@@ -22,7 +22,7 @@
 <string id="esc_lager_no_talk_401"><text>Get lost, we're all gonna go up in smoke because of you.</text></string>
 <string id="esc_lager_no_talk_402"><text>Don't sweat it, you'll fight 'em off.</text></string>
 
-<string id="esc_provodnik_start_101"><text>Hello, stalker. Hm, life's certainly taken its toll on you. You here to see me? People call me Guide—what should I call you?</text></string>
+<string id="esc_provodnik_start_101"><text>Hello, stalker. Hm, life's certainly taken its toll on you. You here to see me? People call me Guide, what should I call you?</text></string>
 <string id="esc_provodnik_start_102"><text>Same to you. I'm the Marked One. Haven't heard of me?</text></string>
 <string id="esc_provodnik_start_103"><text>Marked One... I think I've heard you've been stirring up quite a ruckus. What did you want from me? You seem pretty resourceful yourself.</text></string>
 <string id="esc_provodnik_start_104"><text>I'm looking for Strelok. Ever heard of him? Word is, you had a photograph. One with this Strelok in it.</text></string>
@@ -52,11 +52,11 @@
 <!-- Ïåòðóõà -->
 <string id="escape_factory_assault_start_101"><text>Hey there, buddy. Wolf already gave us the heads-up. You got any more questions for me?</text></string>
 <string id="escape_factory_assault_start_102"><text>What's the situation? Where's Nimble? What's the plan?</text></string>
-<string id="escape_factory_assault_start_103"><text>Bandits grabbed Nimble. They didn't scrap him right away, they're shaking him down for something. Seems they want something from him. So, we're gonna try and knock the sense out of those punks... You with me?</text></string>
+<string id="escape_factory_assault_start_103"><text>The Bandits kidnapped Nimble. They didn't scrap him right away, they're shaking him down for something. Seems they want something from him. So, we're gonna try and knock the sense out of those punks... You with me?</text></string>
 <string id="escape_factory_assault_start_104"><text>Think we can talk to them? Seems to me if the lead starts flying, they'll finish Nimble off instantly!</text></string>
 <string id="escape_factory_assault_start_105"><text>They're just thugs! You can't reason with 'em, you'll just catch a bullet for your trouble... We'll try to pull this off fast so they don't even have time to scratch their heads. Get it?</text></string>
 <string id="escape_factory_assault_start_106"><text>Yeah. How many bandits are in the camp?</text></string>
-<string id="escape_factory_assault_start_107"><text>Seven or eight guys. Two near the gates, two in the right building by the fire, and two in the building on the left—that's where they're holding Nimble. Someone usually wanders around the yard too... that's about it. So, shall we get to it, God willing?</text></string>
+<string id="escape_factory_assault_start_107"><text>Seven or eight guys. Two near the gates, two in the right building by the fire, and two in the building on the left, that's where they're holding Nimble. Someone usually wanders around the yard too... that's about it. So, shall we get to it, God willing?</text></string>
 <string id="escape_factory_assault_start_1071"><text>Let's do it. Get your boys ready.</text></string>
 <string id="escape_factory_assault_start_1072"><text>No. I'll try to handle it myself to keep things quiet.</text></string>
 <string id="escape_factory_assault_start_1082"><text>Suit yourself. If things go south, just holler... Rambo.</text></string>
@@ -71,7 +71,7 @@
 <string id="escape_factory_assault_start_201"><text>Well? Did you go? What's the verdict?</text></string>
 <string id="escape_factory_assault_start_2011"><text>We haven't come up with anything yet...</text></string>
 <string id="escape_factory_assault_start_2012"><text>What else... we gotta storm the place, that's what!</text></string>
-<string id="escape_factory_assault_start_2020"><text>Ha! Exactly what I said! So, shall we? The boys and I will try to create a distraction from the right, and you flank 'em from the left...</text></string>
+<string id="escape_factory_assault_start_2020"><text>Ha! Exactly what I said! So, shall we? The boys and I will try to create a distraction from the right, and you flank them from the left...</text></string>
 <string id="escape_factory_assault_start_2013"><text>Yeah, I talked to him. Basically, I'm gonna try to find that PDA the bandits are after myself. I'm heading to the Gut.</text></string>
 <string id="escape_factory_assault_start_20131"><text>The hunters there demand a toll for passage, you got any? Here, take this pseudodog tail; give it to them if they ask. They'll let you through no questions asked. Just don't loiter near the ATP! Give it a wide berth!</text></string>
 <string id="escape_factory_assault_start_20132"><text>Right, got it, I'll keep my distance. I'm off.</text></string>
@@ -86,7 +86,7 @@
 <string id="escape_factory_assault_start_2016"><text>It's all sorted. The bandits let Nimble go and they're moving out.</text></string>
 <string id="escape_factory_assault_start_20161"><text>Damn, you're a real ace! I didn't think you had it in you to settle it like that... Seriously—you've got my respect, Marked One! Swing by sometime and we'll have a drink.</text></string>
 <string id="escape_factory_assault_start_20162"><text>I'll drop in. If I get the chance.</text></string>
-<string id="escape_factory_assault_start_2017"><text>Found some kind of PDA, I'm gonna go show them. Keep your eyes peeled, we might have to fight our way out.</text></string>
+<string id="escape_factory_assault_start_2017"><text>I Found some kind of PDA, I'm gonna go show them. Keep your eyes peeled, we might have to fight our way out.</text></string>
 <string id="escape_factory_assault_start_20171"><text>Don't you worry! We've got your back.</text></string>
 <string id="escape_factory_assault_start_20172"><text>I hope so...</text></string>
 <string id="escape_factory_assault_start_2018"><text>Wolf is dead, I don't know what to do...</text></string>
@@ -103,8 +103,8 @@
 <string id="escape_lager_guard_start_dialog_101"><text>Hold it right there, stalker! No one in the camp is gonna talk to you right now.</text></string>
 <string id="escape_lager_guard_start_dialog_1021"><text>Why not?</text></string>
 <string id="escape_lager_guard_start_dialog_1022"><text>Fine, have it your way.</text></string>
-<string id="escape_lager_guard_start_dialog_103"><text>You'd have to be a complete idiot to shoot the breeze with a passenger from a "Death Truck"! You go prove you're worth dealing with first.</text></string>
-<string id="escape_lager_guard_start_dialog_1041"><text>What "Death Truck"? I don't remember anything... nothing at all.</text></string>
+<string id="escape_lager_guard_start_dialog_103"><text>You'd have to be a complete idiot to shoot the breeze with a passenger from a Death Truck! You go prove you're worth dealing with first.</text></string>
+<string id="escape_lager_guard_start_dialog_1041"><text>What Death Truck? I don't remember anything... nothing at all.</text></string>
 <string id="escape_lager_guard_start_dialog_1051"><text>Hell if I know... but they're nasty business, not much in this world is worse than those...\nAnyway, I shouldn't be talking about this with you! Call me superstitious, but you'd better beat it right now, pal, while we're still being nice about it.</text></string>
 <string id="escape_lager_guard_start_dialog_1042"><text>What do I have to do to make you guys trust me?</text></string>
 <string id="escape_lager_guard_start_dialog_1052"><text>Let Sidorovich vet you while we keep an eye out. If you're a straight shooter, don't go waving your gun around for no reason, and generally have a head on your shoulders, we'll find common ground eventually. Don't sweat it.</text></string>
@@ -117,7 +117,7 @@
 <!-- Ôàíàò -->
 <string id="escape_lager_leader_hello_101"><text>Listen, Marked One, talk about good timing! Wolf said you're a tough nut to crack. We could really use your skills right about now.</text></string>
 <string id="escape_lager_leader_hello_102"><text>What's happened? and who are you, exactly?</text></string>
-<string id="escape_lager_leader_hello_103"><text>I'm Fanatic. I'm in charge here now that Wolf's gone. Yesterday, a few guys showed up—looked like bandits, but serious types, d-damn it... They came and laid it on thick: said we have one day to clear out of the camp, that this is their base now. They're supposed to come back today, and as you can guess, it won't end with just talk this time.</text></string>
+<string id="escape_lager_leader_hello_103"><text>I'm Fanatic. I'm in charge here now that Wolf's gone. Yesterday, a few guys showed up, looked like bandits, but serious types, d-damn it... They came and laid it on thick: said we have one day to clear out of the camp, that this is their base now. They're supposed to come back today, and as you can guess, it won't end with just talk this time.</text></string>
 <string id="escape_lager_leader_hello_104"><text>So, what have you decided to do?</text></string>
 <string id="escape_lager_leader_hello_105"><text>We've decided to set an ambush, because I'm afraid we won't hold out in a head-on fight. The ones who came were well-equipped, and you could tell they know which end of a gun to hold... And here—I've got mostly kids. Anyway, we decided to hunker down quietly in the houses, make it look like we left, and attack when the moment is right. We're desperate for fighters like you right now. We'll settle up afterward, don't you worry! So, will you help?</text></string>
 <string id="escape_lager_leader_hello_106"><text>It's all very strange. Why would anyone want this half-ruined village on the edge of the Zone, especially right under the military's nose? Seems to me it was just an excuse to start trouble... they're looking for something, or someone.</text></string>
