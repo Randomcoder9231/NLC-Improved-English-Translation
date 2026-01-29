@@ -1,0 +1,608 @@
+<string id="stalker_000"><text>Note:\nThey say there’s an entrance in the Valley to an underground tunnel that leads straight into the Sarcophagus... Might be worth checking out.</text></string>
+
+<string id="stalker_001"><text>Note:\nImportant:\nPick up the package from Seriy and pass it to his brother.\nAt the Bar, closer to midnight, he goes by Rutik. Ask the Barkeep.</text></string>
+
+<string id="stalker_002"><text>Note:\nPass Kuznetsov regards from Predybailo.\nVerbatim: told me to bow with respect.\nHe’ll let you through for free.</text></string>
+
+<string id="stalker_003"><text>Note:\nOnce the network is back up, pass this to everyone:\nEmission after 3 a.m.\nInfo from the Freedomers at the Barrier.</text></string>
+
+<string id="stalker_004"><text>Note:\nRecipe from the Swamp Doctor:\nApply a Jellyfish (all properties reduced to zero) to your feet overnight. Clears up fungus.</text></string>
+
+<string id="stalker_005"><text>Note:\nDo not sell:\n“Titanium Kolobok” — this one’s for Sultan.</text></string>
+
+<string id="stalker_006"><text>Incoming:\nLyoha! Turns out the Guide is a beast! Can you believe it, he wiped out a pack of dogs past the bridge! Alone!!! O_o</text></string>
+<string id="stalker_006_1"><text>Outgoing:\nNah, that’s BS! There were three of them — the Guide and a couple other stalkers. Still badass though. I think *that* guy was there too, you know, the fancy one… What’s his name… You know who I mean.</text></string>
+<string id="stalker_006_2"><text>Incoming:\nNope.</text></string>
+<string id="stalker_006_3"><text>Outgoing:\nHe stopped by our village not long ago, had a Vintorez with him, said hi by the campfire and then took off fast…</text></string>
+<string id="stalker_006_4"><text>Incoming:\nAnd who’s Vintorez?</text></string>
+<string id="stalker_006_5"><text>Outgoing:\nMan, you’re such a rookie! It’s a sniper rifle, insanely good. Costs a fortune though. I’ll make enough and buy one someday. Hey, move to our village already — why’re you rotting on that farm?</text></string>
+<string id="stalker_006_6"><text>Incoming:\nNah, you’ve got military patrols there. They don’t come here.</text></string>
+<string id="stalker_006_7"><text>Outgoing:\nSo what about the military? Sidorovich runs things here — all good.</text></string>
+<string id="stalker_006_8"><text>Incoming:\nNope, I’m fine where I am.</text></string>
+<string id="stalker_006_9"><text>Outgoing:\nYour loss.</text></string>
+
+<string id="stalker_007"><text>Outgoing:\nKolyan, you know anyone from Freedom?</text></string>
+<string id="stalker_007_1"><text>Incoming:\nI do, but that stays between us. What do you need?</text></string>
+<string id="stalker_007_2"><text>Outgoing:\nNeed to get in touch with Screw. Need small screwdrivers — Phillips and Torx. Really small, like watchmaker ones.</text></string>
+<string id="stalker_007_3"><text>Incoming:\nDo you really have to go to the Warehouses for that? Nobody closer has them?</text></string>
+<string id="stalker_007_4"><text>Outgoing:\nSeems like no. I asked around, annoyed everyone with those screwdrivers already. And why go myself? Stalkers go there anyway — someone can pass them along.</text></string>
+<string id="stalker_007_5"><text>Incoming:\nYou realize how much they’ll charge you for that? Anyway, if you really need it, I’ll tell my guy. He’ll message you and say he’s from me.</text></string>
+<string id="stalker_007_6"><text>Outgoing:\nYeah, thanks!</text></string>
+
+<string id="stalker_008"><text>Incoming:\nVityok, we’re screwed, save us! Borov’s guys boxed us in the Valley, near the factory. We won’t fight back, there’s too many of them — we’ll surrender. Find two “Night Stars” and bring them here. Be by the bulldozer near the little swamp tomorrow morning. Hand the artifacts to their courier, I’ll settle up with you later.</text></string>
+<string id="stalker_008_1"><text>Outgoing:\nNo need to search. Chemist’s got two Night Stars. I’ll borrow them. But keep in mind — it goes on your tab.</text></string>
+<string id="stalker_008_2"><text>Incoming:\nThat’s fine. Just keep it quiet, don’t tell our guys. We dug up something interesting — no need for noise. ;)</text></string>
+<string id="stalker_008_3"><text>Outgoing:\nDidn’t get a thing, but I smell profit. :) I’m in. Just be careful there, don’t start flexing, or you’ll get shot. And the two Night Stars will be wasted. :))</text></string>
+<string id="stalker_008_4"><text>Incoming:\nThx. That’s it — don’t message me again.</text></string>
+
+<string id="stalker_009"><text>Incoming:\nSanyok, hey! Heard the news? Turns out Sakharov is growing watermelons inside the bunker perimeter!</text></string>
+<string id="stalker_009_1"><text>Outgoing:\nWhat nonsense? He’s not growing any watermelons, I was there just yesterday.</text></string>
+<string id="stalker_009_2"><text>Incoming:\nDid you go *behind* the bunker? Exactly. He’s got a whole melon patch there. Write to him, make a deal, buy a watermelon — you’ll never get anything tasty from beyond the perimeter.</text></string>
+<string id="stalker_009_3"><text>Outgoing:\nI doubt it… I can’t message him, but if I’m there soon I’ll check. And why’d you even think he has a melon patch? Oh… got it. Some kind of joke?</text></string>
+<string id="stalker_009_4"><text>Incoming:\nNot a joke. Someone told me today, and supposedly some Marked One told them.</text></string>
+<string id="stalker_009_5"><text>Outgoing:\nYeah, great source… People say he’s not all there in the head. Still, I’ll check.</text></string>
+
+<string id="stalker_010"><text>Incoming:\nHey, Valyukha… You were collecting something for Sidorovich, right?</text></string>
+<string id="stalker_010_1"><text>Outgoing:\nHey. Yeah, I was. Why? Heading there? Maybe you could deliver it? I really can’t leave right now…</text></string>
+<string id="stalker_010_2"><text>Incoming:\nNo need to rush. They say he died last night.</text></string>
+<string id="stalker_010_3"><text>Outgoing:\nWho?! Sidorovich?! Get outta here! No way… What from?</text></string>
+<string id="stalker_010_4"><text>Incoming:\nNo idea. Got a message from a Cordon guy: “Sidorovich died at night. Funeral — Monday, 10 a.m., at the Cordon.”</text></string>
+<string id="stalker_010_5"><text>Outgoing:\nDamn… So what now? Who do we bring loot to?</text></string>
+<string id="stalker_010_6"><text>Incoming:\nNo clue, but someone will take over for sure. Nature abhors a vacuum… you know the rest.</text></string>
+<string id="stalker_010_7"><text>Outgoing:\nYou’re full of it!.. I asked around. Look:\n“To everyone! I’m alive and well, not planning to die. The joker has been identified and punished. — Sidorovich”\nHa! See?</text></string>
+<string id="stalker_010_8"><text>Incoming:\nYeah… Bastards. Nothing sacred.</text></string>
+
+<string id="stalker_011"><text>Outgoing:\nSidorovich!?</text></string>
+<string id="stalker_011_1"><text>Incoming:\nYeah?</text></string>
+<string id="stalker_011_2"><text>Outgoing:\nWhen’s the next time you’re sending letters outside?</text></string>
+<string id="stalker_011_3"><text>Incoming:\nThe day after tomorrow. Then on the 27th.</text></string>
+<string id="stalker_011_4"><text>Outgoing:\nHow much?</text></string>
+<string id="stalker_011_5"><text>Incoming:\nIs it just a letter? Or a package?</text></string>
+<string id="stalker_011_6"><text>Outgoing:\nJust a letter. Home.</text></string>
+<string id="stalker_011_7"><text>Incoming:\nSame as usual. Bring it — we’ll work it out. The 27th will be cheaper.</text></string>
+<string id="stalker_011_8"><text>Outgoing:\nIf I give it to Seriy at the Garbage today and he comes to you — will it go out the day after tomorrow?</text></string>
+<string id="stalker_011_9"><text>Incoming:\nWhat am I, Federal Express? How should I know… I’ll try. Don’t seal the letter, put the money inside. And remember — I read letters and cross out anything unnecessary if needed. Don’t put anything else in the envelope besides money. Only the letter goes beyond the perimeter — everything else stays with me.</text></string>
+<string id="stalker_011_10"><text>Outgoing:\nYeah, I know, I sent one recently.</text></string>
+<string id="stalker_011_11"><text>Incoming:\nAlright then. Bring it today, I’ll try to send it the day after tomorrow morning.</text></string>
+<string id="stalker_011_12"><text>Outgoing:\nThanks!</text></string>
+
+<string id="stalker_012"><text>Incoming:\nLyoha! Tomorrow we’re heading to Agroprom. The military’s got rockets for launchers — need about ten… no, better twenty.</text></string>
+<string id="stalker_012_1"><text>Outgoing:\nYeah right, I’m already running. Why do you need rockets?</text></string>
+<string id="stalker_012_2"><text>Incoming:\nDuty threw us a job. Voronin’s birthday is coming up. They want fireworks. I agreed. You in? Pays well.</text></string>
+<string id="stalker_012_3"><text>Outgoing:\nThey do pay well, sure — but the military shoots well too. And not fireworks, but heavy calibers from APCs. I’ve got doubts… Feels like you just want to stock up under this excuse. We need launchers there like last year’s snow.</text></string>
+<string id="stalker_012_4"><text>Incoming:\nWe’re not stealing! I messaged a guy there — for some vodka he’ll get you anything, even a “Topol.”</text></string>
+<string id="stalker_012_5"><text>Outgoing:\nNope, not going. And I don’t recommend it to you either. You’ll get shot — and worst of all, they’ll take the vodka.</text></string>
+<string id="stalker_012_6"><text>Incoming:\nMan, you’re such a wuss! Why’d you even come to the Zone then? Should’ve stayed home…</text></string>
+<string id="stalker_012_7"><text>Outgoing:\nNone of your business. And don’t offer me this kind of crap again.</text></string>
+
+<string id="stalker_013"><text>Incoming:\nMityai, you write poetry, right? Hi.</text></string>
+<string id="stalker_013_1"><text>Outgoing:\nWell, sometimes… Hi.</text></string>
+<string id="stalker_013_2"><text>Incoming:\nI need something about the Zone, but for a girl, you know?</text></string>
+<string id="stalker_013_3"><text>Outgoing:\nWhat’s there to get? And where’d you even find a girl, tell me — maybe I could too… Alright, something like: “The Zone is scary, death at every step, but I love you and think only of you, even in my deadliest hour.” That work?</text></string>
+<string id="stalker_013_4"><text>Incoming:\nYeah, something like that. How’d you figure it out?</text></string>
+<string id="stalker_013_5"><text>Outgoing:\nI actually wrote something like that just recently. Here, from my latest:\nWe lit a fire near the village.\nResin on the logs like tears,\nWith a guitar I sang a song\nAbout your smile and your eyes.\nYou’re far away right now,\nBetween us stand the checkpoints,\nIt’s not easy for me to reach you,\nAs long as I’ve got bolts in my pocket.\nThat’s just an excerpt. Will it do?</text></string>
+<string id="stalker_013_6"><text>Incoming:\nYeah, that’s exactly what I need! Can you give me the whole poem?</text></string>
+<string id="stalker_013_7"><text>Outgoing:\nFour thousand. Or a “Flash.”</text></string>
+<string id="stalker_013_8"><text>Incoming:\nDamn, you’re really ripping me off!</text></string>
+<string id="stalker_013_9"><text>Outgoing:\nThen write it yourself!</text></string>
+<string id="stalker_013_10"><text>Incoming:\nAlright, I’ll think about it. I’ll ping you again.</text></string>
+
+<string id="stalker_014"><text>Incoming:\nSakharov is a bastard!!!</text></string>
+<string id="stalker_014_1"><text>Outgoing:\nHey. What’s wrong? What did he do to you?</text></string>
+<string id="stalker_014_2"><text>Incoming:\nMade a deal with the professor for a good job. Came to see him — and there’s already some Duty guy sitting there. Sakharov goes, “Sorry, friend, you’re late, it’s already been taken.” And both of them are smirking. Especially the Dutyer — smug face!</text></string>
+<string id="stalker_014_3"><text>Outgoing:\nWell, what did you expect? Obvious: whoever came first got the job. Sakharov favors Duty.</text></string>
+<string id="stalker_014_4"><text>Incoming:\nThat’s not how business is done. We had an agreement!</text></string>
+<string id="stalker_014_5"><text>Outgoing:\nAh, forget it. Come with me to the Garbage the day after tomorrow — Bes needs something there. He’s gathering a big group.</text></string>
+<string id="stalker_014_6"><text>Incoming:\nTo shoot bandits or what? Is Bes even there? Heard he left…</text></string>
+<string id="stalker_014_7"><text>Outgoing:\nNah, probably not bandits — it’s quiet there now. But something’s needed… And why do you care if it’s Bes or not? We’re broke. There’ll be work, and people to talk to.</text></string>
+<string id="stalker_014_8"><text>Incoming:\nYou and your talking… Alright, let’s go. In the morning?</text></string>
+<string id="stalker_014_9"><text>Outgoing:\nYeah. You at the Bar now? I’ll find you there tomorrow at eight. We’ll reach the Garbage right around noon.</text></string>
+<string id="stalker_014_10"><text>Incoming:\nDeal. I’ll be waiting.</text></string>
+
+<string id="stalker_015"><text>Incoming:\nHey! We need food supplies. How’s that looking right now?</text></string>
+<string id="stalker_015_1"><text>Outgoing:\nHey yourself! Things are… not great. What exactly do you need?</text></string>
+<string id="stalker_015_2"><text>Incoming:\nSomething non-perishable. Mostly canned food. Dry rations. Alcohol.</text></string>
+<string id="stalker_015_3"><text>Outgoing:\nHeading far?</text></string>
+<string id="stalker_015_4"><text>Incoming:\nAbout three or four days. Five of us. Plus another seven at the site — need supplies for them too.</text></string>
+<string id="stalker_015_5"><text>Outgoing:\nNope, I’m almost cleaned out. Sidor’s getting a delivery tomorrow. Or rather, tonight.</text></string>
+<string id="stalker_015_6"><text>Incoming:\nThat’s a long walk to him.</text></string>
+<string id="stalker_015_7"><text>Outgoing:\nThen don’t walk. Order delivery.</text></string>
+<string id="stalker_015_8"><text>Incoming:\nToo expensive. And no guarantee it’ll get through. Heard dogs are breeding like crazy at the Garbage again?</text></string>
+<string id="stalker_015_9"><text>Outgoing:\nKolyan, I can’t help you anyway. So — Sidor. Or you can try the Barkeep. :)</text></string>
+<string id="stalker_015_10"><text>Incoming:\nVery funny.</text></string>
+<string id="stalker_015_11"><text>Outgoing:\n:)) So — Sidor. No question.</text></string>
+<string id="stalker_015_12"><text>Incoming:\nThanks, that really helped.</text></string>
+
+<string id="stalker_016"><text>Outgoing:\nIgoryosha, save me!</text></string>
+<string id="stalker_016_1"><text>Incoming:\nWhat now?</text></string>
+<string id="stalker_016_2"><text>Outgoing:\nI need to lay low, urgently. Disappear for about two weeks.</text></string>
+<string id="stalker_016_3"><text>Incoming:\nUh… and what do you want from me?</text></string>
+<string id="stalker_016_4"><text>Outgoing:\nLong story short, you or one of your guys might get approached, asking about me. They know I ran jobs with you. Tell them I headed toward Agroprom… Say I definitely went there… Or better yet, add that someone from Agroprom said dogs tore me up, or something like that…</text></string>
+<string id="stalker_016_5"><text>Incoming:\nDon’t even say that! Is it really that bad?</text></string>
+<string id="stalker_016_6"><text>Outgoing:\nYeah, bad :( Tell your guys too, make sure everyone says the same thing — went to Agroprom and hasn’t come back.</text></string>
+<string id="stalker_016_7"><text>Incoming:\nAlright. And where do I find you if needed?</text></string>
+<string id="stalker_016_8"><text>Outgoing:\nSorry, can’t say yet. I’ll find you myself. Once things settle down…</text></string>
+<string id="stalker_016_9"><text>Incoming:\nGot it… Take care.</text></string>
+<string id="stalker_016_10"><text>Outgoing:\nIf everything works out, I’ll repay you. Won’t forget it.</text></string>
+<string id="stalker_016_11"><text>Incoming:\nDon’t sweat it. We’ll settle up later.</text></string>
+
+<string id="stalker_017"><text>Incoming:\nSo, what’d you dig up?</text></string>
+<string id="stalker_017_1"><text>Outgoing:\nWhere?</text></string>
+<string id="stalker_017_2"><text>Incoming:\nWhere, where… in Karaganda. In that underground lab you were talking about, remember?</text></string>
+<string id="stalker_017_3"><text>Outgoing:\nAre you stupid? I was just repeating rumors. We weren’t even planning to… You go down there and you won’t come back.</text></string>
+<string id="stalker_017_4"><text>Incoming:\nThen why talk about it at all? I heard some hotshot went down there. Supposedly hauled back so much he could buy out the whole Zone.</text></string>
+<string id="stalker_017_5"><text>Outgoing:\nHa! Keep listening to fairy tales… Someone’s just inflating their price. Cheap talk. From what I’ve heard, nobody can even find the entrance, and you’re telling me “hauled back”… Just chatter.</text></string>
+<string id="stalker_017_6"><text>Incoming:\nAnd how do you know the entrance can’t be found? That means someone looked — not just to check, but to go down.</text></string>
+<string id="stalker_017_7"><text>Outgoing:\nThen you go find out and head in, since you’re so brave.</text></string>
+<string id="stalker_017_8"><text>Incoming:\nCome on… Still, if you hear anything — you’ll let me know?</text></string>
+<string id="stalker_017_9"><text>Outgoing:\nYou bet!</text></string>
+
+<string id="stalker_018"><text>Incoming:\nHi.</text></string>
+<string id="stalker_018_1"><text>Outgoing:\nYeah…</text></string>
+<string id="stalker_018_2"><text>Incoming:\nHeard about Cartaviy? What do you think?</text></string>
+<string id="stalker_018_3"><text>Outgoing:\nWhat’s there to say — he lost it. Walked straight into an anomaly.</text></string>
+<string id="stalker_018_4"><text>Incoming:\nYou think he did it himself?</text></string>
+<string id="stalker_018_5"><text>Outgoing:\nAbsolutely. Guys were nearby, saw him tossing bolts. Thought he was trying to go around it — turns out he was marking it to be sure. Then he took a running leap straight in.</text></string>
+<string id="stalker_018_6"><text>Incoming:\nDamn… Lost his mind?</text></string>
+<string id="stalker_018_7"><text>Outgoing:\nHe was already pretty “off” before that. Screamed at night, and during the day kept ranting about some piece of the Monolith. Got all beaten down, like…</text></string>
+<string id="stalker_018_8"><text>Incoming:\nRemember about a month ago, another guy was going on about some Monolith fragments?</text></string>
+<string id="stalker_018_9"><text>Outgoing:\nBobos? Or whatever his name was — Gundos?</text></string>
+<string id="stalker_018_10"><text>Incoming:\nYeah, him. I saw him recently — unrecognizable. Almost the same thing: screaming at night, babbling nonsense about the Monolith during the day. Then they found him hanged a few days ago. Someone said he seriously pissed someone off and got strung up by thugs. But I think he did it himself. He was like a shadow lately — who could he have crossed that badly… Lost it too. There’s something in common here…</text></string>
+<string id="stalker_018_11"><text>Outgoing:\nProbably a coincidence.</text></string>
+<string id="stalker_018_12"><text>Incoming:\nSo what is that piece of the Monolith? Some kind of artifact?</text></string>
+<string id="stalker_018_13"><text>Outgoing:\nOh, here we go… I don’t know and I don’t want to. “Jellyfish” artifacts are enough for me.</text></string>
+<string id="stalker_018_14"><text>Incoming:\nStill?</text></string>
+<string id="stalker_018_15"><text>Outgoing:\nIt’s just nonsense. Why listen to every lunatic?</text></string>
+<string id="stalker_018_16"><text>Incoming:\nStill, not for nothing… Alright, forget it. I’ll look into it myself, let you know.</text></string>
+<string id="stalker_018_17"><text>Outgoing:\nTo hell with that! Don’t you dare! I don’t even want to know — I’ll sleep better that way.</text></string>
+
+<string id="stalker_019"><text>Outgoing:\nWhen will the money be ready? I’m waiting.</text></string>
+<string id="stalker_019_1"><text>Incoming:\nHey! We agreed — on the 30th!</text></string>
+<string id="stalker_019_2"><text>Outgoing:\nI need it now.</text></string>
+<string id="stalker_019_3"><text>Incoming:\nWhere am I supposed to get it right now? I only have a job the day after tomorrow.</text></string>
+<string id="stalker_019_4"><text>Outgoing:\nI don’t care how, but the money’s needed the day after tomorrow. I helped you out, didn’t I? Now you help me.</text></string>
+<string id="stalker_019_5"><text>Incoming:\nI don’t have it now! And there’s nothing to sell, you know that!</text></string>
+<string id="stalker_019_6"><text>Outgoing:\nYou’ve got an assault rifle? Go to Sidor — he was offering good money to take out some bastard.</text></string>
+<string id="stalker_019_7"><text>Incoming:\nNo, I’m not a hired gun. I won’t go. Why don’t *you* go yourself?</text></string>
+<string id="stalker_019_8"><text>Outgoing:\nI’m busy with other things right now! I owe the boys a pile of cash the day after tomorrow. I’m going on a job too — I’ll be back the morning after tomorrow. I’ll have part of the money, plus your debt. I don’t care, got it? Find it however you want, or I’ll hand your debt over to the boys.</text></string>
+<string id="stalker_019_9"><text>Incoming:\nHave you completely lost your mind?</text></string>
+<string id="stalker_019_10"><text>Outgoing:\nThat’s it. You’ve been warned.</text></string>
+
+<string id="stalker_020"><text>Incoming:\nYou at Agro? What the hell is going on at Agroprom?!</text></string>
+<string id="stalker_020_1"><text>Outgoing:\nThere’s plenty of weird stuff there. Which part interests you? :)</text></string>
+<string id="stalker_020_2"><text>Incoming:\nThe part where the military reinforced the checkpoint from the Garbage. Full-time guard, day and night. Nobody I ask knows why. You know anything? Maybe someone on your end heard something?</text></string>
+<string id="stalker_020_3"><text>Outgoing:\nDoesn’t ring a bell. Can’t negotiate your way through?</text></string>
+<string id="stalker_020_4"><text>Incoming:\nThey won’t even let us close. Almost shot me — fired warning shots over my head.</text></string>
+<string id="stalker_020_5"><text>Outgoing:\nYeah… I just asked Sidor — he’s playing dumb. Says he’ll look into it. Really weird. Maybe they’re running an operation? Try going there tomorrow — they probably won’t keep reinforcements long. Almost certainly a one-off op.</text></string>
+<string id="stalker_020_6"><text>Incoming:\nTomorrow?! One of ours, Sanya Stepnoy, fell into some well there, broke his leg, can’t get out. He’ll bleed out! Ask Sidor to at least let *me* through!</text></string>
+<string id="stalker_020_7"><text>Outgoing:\nSidor says — not before the day after tomorrow. Turns out army brass has been crawling around there for two days already, get it? Don’t even try — elite спецназ is guarding the place.</text></string>
+<string id="stalker_020_8"><text>Incoming:\nScum. Looks like Sanya’s going to die. What a stupid way to go…</text></string>
+<string id="stalker_020_9"><text>Outgoing:\nWhat can I do? The Zone, brother…</text></string>
+
+<string id="stalker_021"><text>Incoming:\nHey. Been to the swamp in the Valley lately?</text></string>
+<string id="stalker_021_1"><text>Outgoing:\nWell… what do you want?</text></string>
+<string id="stalker_021_2"><text>Incoming:\nIn the Dark Valley near the swamps, all the grass turned yellow overnight. In the morning we were heading there for artifacts, got to the bridge and turned back. Don’t know if it’s safe. Everything around is green, but near the swamps it’s yellow — unnatural. Like someone painted it.</text></string>
+<string id="stalker_021_3"><text>Outgoing:\nAny Flesh roaming around there?</text></string>
+<string id="stalker_021_4"><text>Incoming:\nNo one. Like everything died out. That’s what’s scary. But overnight a whole breeding ground of artifacts appeared there. Even capsules lying around — can you imagine?</text></string>
+<string id="stalker_021_5"><text>Outgoing:\nMessage Semenov. He knows this kind of stuff.</text></string>
+<string id="stalker_021_6"><text>Incoming:\nAlready did. No reply. And we want to go, but we’re scared, and mom says no.</text></string>
+<string id="stalker_021_7"><text>Outgoing:\nTo hell with it — don’t go. As they say, you only live once.</text></string>
+<string id="stalker_021_8"><text>Incoming:\nYeah. Still hurts though…</text></string>
+
+<string id="stalker_022"><text>Incoming:\nSo, where are you? Didn’t forget our talk, did you?</text></string>
+<string id="stalker_022_1"><text>Outgoing:\nWhich one? Remind me. I wasn’t quite myself yesterday, might’ve forgotten…</text></string>
+<string id="stalker_022_2"><text>Incoming:\nWhat, were you wasted yesterday? We agreed to go on a run. That’s no way to do business.</text></string>
+<string id="stalker_022_3"><text>Outgoing:\nYeah, maybe a bit. I remember the run — just remind me where and why…</text></string>
+<string id="stalker_022_4"><text>Incoming:\nOh, screw you! I’m not going with you. You’ve probably already had a hair-of-the-dog, and I’m supposed to drag you along? No thanks. I went all the way to the farm like an idiot, thought you’d be there already… You screwed me over.</text></string>
+<string id="stalker_022_5"><text>Outgoing:\nWhy so offended? Alright, I’ll square up with you later — got some ammo in my stash… Don’t worry. I really can’t go today. We’ll sync up some other time.</text></string>
+<string id="stalker_022_6"><text>Incoming:\nForget it, chatterbox. All talk, that’s all you’re good at…</text></string>
+
+<string id="stalker_023"><text>Outgoing:\nHeard a chopper went down?</text></string>
+<string id="stalker_023_1"><text>Incoming:\nHeard. So?</text></string>
+<string id="stalker_023_2"><text>Outgoing:\nThey say it was hauling food for the military. Provisions and all that. Could stock up for free. You in?</text></string>
+<string id="stalker_023_3"><text>Incoming:\nAnd how do you know it was food, and for the military?</text></string>
+<string id="stalker_023_4"><text>Outgoing:\nVovan dragged in a whole crate of canned meat — barely made it. Now he’s strutting around all proud. Soldiers are guarding the crash site. The crate got flung far away, so he grabbed it.</text></string>
+<string id="stalker_023_5"><text>Incoming:\nMaybe it wasn’t from the chopper. Maybe it was just lying around.</text></string>
+<string id="stalker_023_6"><text>Outgoing:\nYeah, right… what just lies around in the Zone? Definitely from the helicopter. And if there was one crate, there’s more.</text></string>
+<string id="stalker_023_7"><text>Incoming:\nSure, the military will just hand it over. They’re dying to see you.</text></string>
+<string id="stalker_023_8"><text>Outgoing:\nWe’ll negotiate, trade. Worth a try… Maybe there’s some unguarded stuff lying around.</text></string>
+<string id="stalker_023_9"><text>Incoming:\nNope, I’m not going. You can try explaining we’re “on business”… They’ll shoot us as looters.</text></string>
+<string id="stalker_023_10"><text>Outgoing:\nSuit yourself. Don’t come begging later.</text></string>
+
+<string id="stalker_024"><text>Outgoing:\nHey bro. I’m in trouble. :(</text></string>
+<string id="stalker_024_1"><text>Incoming:\nWhat now?</text></string>
+<string id="stalker_024_2"><text>Outgoing:\nI was at that place, saw it. Can’t get it alone, and there are tons of snorks. Barely fought my way out. One of them bit me. :(</text></string>
+<string id="stalker_024_3"><text>Incoming:\nSo burn the bite with iodine or antiseptic and bandage it.</text></string>
+<string id="stalker_024_4"><text>Outgoing:\nI did. Just scared something bad might happen. I won’t turn into a snork, will I?</text></string>
+<string id="stalker_024_5"><text>Incoming:\nYou probably stabbed yourself on a branch out of fear when you saw the snork :) All that crap about ghouls, werewolves and such — fairy tales. What, you think you’ll grow a trunk now? A dog bit me once, didn’t turn me into a dog. Forget it. You’re alive — that’s what matters. Heal up, then we’ll go together.</text></string>
+<string id="stalker_024_6"><text>Outgoing:\nA dog’s one thing, a snork’s another. They say their saliva is toxic. I won’t grow a trunk, sure, but what if I start degrading and end up like them…</text></string>
+<string id="stalker_024_7"><text>Incoming:\nStop whining!</text></string>
+<string id="stalker_024_8"><text>Outgoing:\nMaloy was telling how a bloodsucker clipped him once. Says his blood doesn’t clot right anymore. Gets worse every day. He’s scared to even cut sausage — afraid he’ll cut himself and won’t be able to stop the bleeding.</text></string>
+<string id="stalker_024_9"><text>Incoming:\nMaloy made that bloodsucker story up himself. If a bloodsucker really “clipped” him, dogs would’ve eaten Maloy long ago. He’s always been a liar and a coward.</text></string>
+<string id="stalker_024_10"><text>Outgoing:\nEasy for you to say — you weren’t bitten by a snork…</text></string>
+<string id="stalker_024_11"><text>Incoming:\nTell the guys that if you start growling, they should shoot you so you don’t bite anyone. :)</text></string>
+<string id="stalker_024_12"><text>Outgoing:\nYou just joke around. My whole arm’s swollen. :(</text></string>
+<string id="stalker_024_13"><text>Incoming:\nDamn it! Enough! I’m logging off — tired of your whining.</text></string>
+
+<string id="stalker_025"><text>Incoming:\nHow are things with you? What are you up to?</text></string>
+<string id="stalker_025_1"><text>Outgoing:\nNothing. Sitting around, waiting.</text></string>
+<string id="stalker_025_2"><text>Incoming:\nWaiting for what? The weather?</text></string>
+<string id="stalker_025_3"><text>Outgoing:\nNah… waiting for some truck.</text></string>
+<string id="stalker_025_4"><text>Incoming:\nWhat?!</text></string>
+<string id="stalker_025_5"><text>Outgoing:\nWell, we made a deal with some eggheads. They tossed us a job: according to their calculations, some kind of truck should pass through here. We’re supposed to spot it and record everything. They gave us seven days’ worth of food for it. How they calculate this stuff — no idea. Just said if no truck shows up this week, then there’s no point waiting anymore.</text></string>
+<string id="stalker_025_6"><text>Incoming:\nAre you completely nuts?! They’re probably trying to catch the “death truck”!</text></string>
+<string id="stalker_025_7"><text>Outgoing:\nSo what? Freebie. Our job’s just to wait and take photos — we’re not planning on catching corpses… And if it works out, there’s pay too. Think about it: do nothing for a week, just sit in one spot. Don’t even have to scavenge for food.</text></string>
+<string id="stalker_025_8"><text>Incoming:\nAnd what exactly are you going to photograph — dust from the wheels?</text></string>
+<string id="stalker_025_9"><text>Outgoing:\nNah… the road runs into a blockage here. It’ll either crash, stop, or turn around. If it shows up at all. It’s fine… We won’t even eat all that food — we’re doing nothing and not even drinking vodka. Plenty will be left, even if we don’t film anything. And if we do, we get paid too. Either way, profit.</text></string>
+<string id="stalker_025_10"><text>Incoming:\nAnd how do they know a truck will pass there?</text></string>
+<string id="stalker_025_11"><text>Outgoing:\nAsk them. Maybe because they’ve seen them everywhere else, but not here yet? I don’t know. That’s why they’re the eggheads — to calculate stuff.</text></string>
+<string id="stalker_025_12"><text>Incoming:\nI wouldn’t have agreed… you heard what they say about those trucks?</text></string>
+<string id="stalker_025_13"><text>Outgoing:\nYou didn’t want to go to the Valley either — always shaking, “this is there, that is there”… That’s why you’re always broke. Smart people find easy jobs and don’t shake like you…</text></string>
+<string id="stalker_025_14"><text>Incoming:\nI’m not shaking. Still wouldn’t wait for a truck.</text></string>
+<string id="stalker_025_15"><text>Outgoing:\nRelax — all those stories are BS… Alright, I’ll tell you later.</text></string>
+<string id="stalker_025_16"><text>Incoming:\nAlright.</text></string>
+
+<string id="stalker_026"><text>Incoming:\nHey, bro. How’s it going over there?</text></string>
+<string id="stalker_026_1"><text>Outgoing:\nStill screwed :(( Waiting for some kind of doctor. The guys said he’s coming.</text></string>
+<string id="stalker_026_2"><text>Incoming:\nA real doctor?</text></string>
+<string id="stalker_026_3"><text>Outgoing:\nNo idea. Not like I’ve got a choice right now.</text></string>
+<string id="stalker_026_4"><text>Incoming:\nDamn… At least the place you’re holed up — is it safe?</text></string>
+<string id="stalker_026_5"><text>Outgoing:\nIt’s okay. The guys left food and water — I can last a couple of days… probably… At least comms still work. They said they’ll come back.</text></string>
+<string id="stalker_026_6"><text>Incoming:\nWhy didn’t they drag you out right away?</text></string>
+<string id="stalker_026_7"><text>Outgoing:\nDidn’t dare… Said they’re afraid I’ll fall apart if they move me… heh.</text></string>
+<string id="stalker_026_8"><text>Incoming:\nYou’re joking at a time like this? Well, that’s something… Hang in there.</text></string>
+<string id="stalker_026_9"><text>Outgoing:\nWhat else can I do… To be honest, I’m remembering my whole life right now…</text></string>
+<string id="stalker_026_10"><text>Incoming:\nAnd?</text></string>
+<string id="stalker_026_11"><text>Outgoing:\nIt’s all messed up… and nothing can be fixed anymore, damn it… :(</text></string>
+<string id="stalker_026_12"><text>Incoming:\nHey, cut it out! Everything will be fine — the doctor will come and we’ll get you out.</text></string>
+<string id="stalker_026_13"><text>Outgoing:\nCome on… who are you trying to fool… You, uh… write to her, you know who…</text></string>
+<string id="stalker_026_14"><text>Incoming:\nEnough! Just hold on! At least these couple of days, I’m begging you… He’ll come for sure. I’ll find him myself and drag him to you by the collar!</text></string>
+<string id="stalker_026_15"><text>Outgoing:\nI’ll try…</text></string>
+
+<string id="stalker_027"><text>Incoming:\nHey there :)</text></string>
+<string id="stalker_027_1"><text>Outgoing:\nWho’s this? What do you want?</text></string>
+<string id="stalker_027_2"><text>Incoming:\nIt’s Kolyan. Remember Agroprom?</text></string>
+<string id="stalker_027_3"><text>Outgoing:\nAh! Hey, buddy, sorry — didn’t recognize you. You had a different nick, I think… Thanks again for the meds, you really helped me out.</text></string>
+<string id="stalker_027_4"><text>Incoming:\nNo problem :) Hey, do you know Lyokha the Cat?</text></string>
+<string id="stalker_027_5"><text>Outgoing:\nUmm… the one who bragged he stabbed a boar to death with a bayonet for a bet? Yeah, sat by the fire a couple times. Why?</text></string>
+<string id="stalker_027_6"><text>Incoming:\nYeah, him. I’m looking for him. If you see him, tell him Kolyan Denezhka smashed his PDA against a wall while drunk, got a new one, and well… rebuilding the address book. Tell him not to message me for now if he’s looking. And yeah, new nick for sure — decided to change it with the new PDA, people were getting annoying…</text></string>
+<string id="stalker_027_7"><text>Outgoing:\nI’ll pass it on. And you… how are you yourself?</text></string>
+<string id="stalker_027_8"><text>Incoming:\nCan’t reach him. Thanks. Take care.</text></string>
+
+<string id="stalker_028"><text>Incoming:\nSo, did you decide? Going with us or what?</text></string>
+<string id="stalker_028_1"><text>Outgoing:\nHow long is the trek exactly? And what’s it like there overall?</text></string>
+<string id="stalker_028_2"><text>Incoming:\nWho’s going to tell you the truth, brother? Luck decides. But like Mokryak says: a week of fear — and your whole face is in marmalade. So, you in?</text></string>
+<string id="stalker_028_3"><text>Outgoing:\nIf everyone goes, then I’m in too, obviously! When do we move?</text></string>
+<string id="stalker_028_4"><text>Incoming:\nTomorrow we stock up. You gear up too — nobody’s carrying your sausage and ammo for you. And be there sharp the day after tomorrow — don’t be late!</text></string>
+<string id="stalker_028_5"><text>Outgoing:\nI will.</text></string>
+
+<string id="stalker_029"><text>Outgoing:\nSeal, for God’s sake, you’re an idiot. What the hell did you do?</text></string>
+<string id="stalker_029_1"><text>Incoming:\nWhat are you on about?</text></string>
+<string id="stalker_029_2"><text>Outgoing:\nYou were yapping by the campfire yesterday like a nightingale about how there’s loot at the Farm you could haul away with dump trucks! Do you know how many people will rush there now? It’s probably packed already. Even dogs and cats are bolting from there, eyes popping — never seen so many stalkers in one place! Why’d you blab? Now there’s nothing left but trampled grass!</text></string>
+<string id="stalker_029_3"><text>Incoming:\nWatch your mouth…</text></string>
+<string id="stalker_029_4"><text>Outgoing:\nBottom line, Seal, that’s not how things are done. What’s ours stays ours — no need to talk.</text></string>
+<string id="stalker_029_5"><text>Incoming:\nYou telling me what to do? Do I owe you something? About yesterday — did you clear the path with me at the Farm? Or cover my back while I was scouting?</text></string>
+<string id="stalker_029_6"><text>Outgoing:\nDid you share the last thing with me? If good people asked me to look out for you, then I did. Now I see who — no, what — you really are…</text></string>
+<string id="stalker_029_7"><text>Incoming:\nThat’s it then. I don’t know you anymore.</text></string>
+
+<string id="stalker_030"><text>Incoming:\nYou know where I can get a suit fixed?</text></string>
+<string id="stalker_030_1"><text>Outgoing:\nWhere else? Head to the Bar. What, didn’t you know?</text></string>
+<string id="stalker_030_2"><text>Incoming:\nI know. No chance though. Those red-and-black guys declared me persona non grata. Got a message from a Dutyer today. They figured me out…</text></string>
+<string id="stalker_030_3"><text>Outgoing:\nDamn… what happened? How’d that go down?</text></string>
+<string id="stalker_030_4"><text>Incoming:\nStepped into an anomaly, barely crawled out. Suit’s torn to shreds, just rags hanging. I collapsed nearby, heard bushes rustling — panicked and fired a double tap. Didn’t even think.</text></string>
+<string id="stalker_030_5"><text>Outgoing:\nKilled anyone?</text></string>
+<string id="stalker_030_6"><text>Incoming:\nDon’t know. They hit the dirt instantly and lobbed a couple grenades back. When I realized I’d fired at Duty, I bolted on all fours. The anomaly saved me — shrapnel got pulled upward, and I crawled like that all the way to the Garbage. Now I’m laid up. Turns out I broke my left arm too.</text></string>
+<string id="stalker_030_7"><text>Outgoing:\nHoly hell… alright, hang on, I’ll check something…</text></string>
+<string id="stalker_030_8"><text>Outgoing:\nAlright, here’s the deal. Talked to a guy named Prokhor. He said one of them got his arm pierced — Lyopyokha the Gray. But he saw him later, nothing serious hit — he’s up and already patrolling near their base. They’re reasonable guys overall. I explained your situation, we talked it through. So — once you recover a bit, come by. I’ve got about three liters. From you — two artifacts each, so get ready. They’re not asking for more.</text></string>
+<string id="stalker_030_9"><text>Incoming:\nBrother, thank you! I owe you big time!</text></string>
+<string id="stalker_030_10"><text>Outgoing:\nIt’s fine, we’ll settle it :))</text></string>
+
+<string id="stalker_031"><text>Исходящее: \nВчера знаешь чего видел? Аномалия какая-то новая. Искры такие белые вверх-вниз летают. Я туда камушек кинул, а он сначала повисел пару минут, потом раскрутился, и фьють! - нет его.</text></string>
+<string id="stalker_031_1"><text>Входящее: \nТебе с твоими опытами прилетит как-нибудь по башке таким камешком, и долазаешься ты. Иди к учёным, просись в лаборанты, будешь науку двигать вперёд, осчастливливая человечество. :))</text></string>
+<string id="stalker_031_2"><text>Исходящее: \nПробирки им мыть? Не, спасибо, я уж сам как-нибудь справлюсь, да и о себе сначала позаботиться нужно. Мне так, интересно просто - такая невиданная штука, не пойми с чего да откуда. Помнишь, я тогда выброс сфотать пытался?</text></string>
+<string id="stalker_031_3"><text>Входящее: \nА... когда на таймер свою мыльницу выставлял, помню. Так ты ж сказал, что накрылась твоя мыльница после этого.</text></string>
+<string id="stalker_031_4"><text>Исходящее: \nЯ тоже так думал, бросил в схорне, а тут перебирать барахло своё начал, да взял и включил...</text></string>
+<string id="stalker_031_5"><text>Входящее: \nНу?</text></string>
+<string id="stalker_031_6"><text>Исходящее: \nТам первые кадры темень, потом засветка - муть белая, сплошная, а вот два последних - лицо.</text></string>
+<string id="stalker_031_7"><text>Входящее: \nЧьё?</text></string>
+<string id="stalker_031_8"><text>Исходящее: \nВроде женское. И не поймёшь, я ж фотик на небо целил, в общем, увидимся - покажу.</text></string>
+
+<string id="stalker_032"><text>Запись: \nНа кой чёрт я сюда припёрся? Ррромантик, ё-моё... Ещё когда на вокзале меня обул мутный тип, обещая провести "без проблем",.. и провёл. Без проблем, да. Эх, без лоха и жизнь плоха! А жрать охота - жуть. Нет же тут ни-хре-на. На этом Кордоне, где сидим мы, ошалевшие от происходящего, тоска же несусветная. Благо хоть старший здесь, Волком звать, поддерживает какой-никакой порядок. Народ тут всякий. Вчера один жук шарил по мешкам, скрысить хотел чего-то, мужики его поймали, да шлёпнули за околицей. Гуманизма здесь нет, это да... И страшно. Очень страшно.</text></string> 
+<string id="stalker_032_1"><text>Запись: \nВидел, как парнишке одному в аномалии ногу раздробило, он за артефактом сунулся дурачок, не подумав... Кричал он страшно, бедняга. А куда мы его? Ну успели оттянуть, оттащили, забинтовали, я своих бинтов пару дал, ну, а дальше что? Выше колена ему жгутом перетянули и в дом отнесли. Ходили, глаза друг от друга прятали. Два дня орал, несчастный! Кому он теперь нужен, когда сами сидим тут как идиоты. Чёрт дёрнул сюда приехать... Зачем? Пойди, возьми эти артефакты, когда сам не знаешь, что он с тобой вытворит - то ли облучит насмерть, то ли мозги наизнанку вывернет...</text></string> 
+<string id="stalker_032_2"><text>Запись: \nА мутанты? Их же не берёт ничего, нечисть эту! На днях одну собаку пристрелить не могли втроём. Да какая это собака, это ж вообще не пойми кто - говорят, слепая, а бегает как ракета, гнилая какая-то вся, жуть берёт. Воняет невозможно. Да я и сам воняю, не помыться нигде. Да пошло оно всё на фиг! Домой нужно двигать...</text></string>
+
+<string id="stalker_033"><text>Запись: \nЗабавно... Это похоже на гонку за ускользающим хвостом поезда... да вообще чёрт знает, на что это похоже! ...Пару месяцев назад был в агентстве, говорят, что цены растут, ха! Достал всё, что кровно насобирал да нажил, пришёл к ним такой весь из себя богатый, а оказалось, что я могу купить лишь однокомнатную хрущёвку на окраине... Таньке, пожалуй, всё равно, куда я снова подался "на заработки". Север? Вахта? Да хоть в космос. Лишь бы денег привёз, и ладно.</text></string> 
+<string id="stalker_033_1"><text>Запись: \nМашину ей недавно купил, так она шествует из магазина до машины, от машины до квартиры с поднятым носом, и на соседей не смотрит... смешно. Откуда я знаю, что она сейчас не прочь завести романчик со слесарем автосервиса? Я же в том сервисе не был никогда... И Любашка моя, пожалуй, так и выскочит замуж без квартиры. Я никак не успеваю сделать ей свадебный подарок :) ВСЁ! Не могу больше. Устал. А Танька блудит, это точно. Хотя, понять можно, но с другой стороны...</text></string>
+<string id="stalker_033_2"><text>Запись: \nСмешно, версия о переохлаждении после авральной вахты её устроила. Поморщилась и спросила, собираюсь ли я в больницу. Собираюсь, как же. Тут ведь специалистов по лучевым болезням - пруд пруди. Эх, житуха! Вся надежда на арты... А Таньке я зубы вышибу, курве! Узнаю, что со слесарем, зашибу! А ведь я вру. Сам себе же вру. Мне же абсолютно всё равно, с кем и как там она. Всё-таки я болен, видимо. Те три минуты под выбросом даром не пройдут, мне все так говорили. Сны эти кошмарные...</text></string>
+<string id="stalker_033_3"><text>Запись: \nНаверное, это подсознание пытается встряхнуть меня. И правда, в Зону как на работу ходить стал, привык и воспринимаю её как обыденность. Ни мутанты, ни аномалии уже не волнуют. Главное - хабар и бабло за хабар! А ведь внутри горит уверенность, что не это главное. Раньше я Зону боялся до усрачки, а сейчас уже не могу без неё. Адреналиновой зависимостью здесь и не пахнет, это что-то другое...</text></string>
+<string id="stalker_033_4"><text>Запись: \nИ эти кошмары - это нечто! Спать без водки не могу уже. Такая круговерть по ночам в голове, ну до соплей прямо. Мужики раз сапогом кинули, потому что орал как резаный. Понятно, что не сладко тут никому, но уж слишком сильно верещал, говорят...</text></string>
+
+<string id="stalker_034"><text>Запись: \nНе понимаю, откуда это всё берётся? Только мне такое снится или всем? Все ощущения во сне такие же, как и наяву. Только вытворяю я там жуть что. Недавно приснилось, что на Кордоне я зачем-то искал Ваню Небова, и просил он меня что-то ему принести. Ничего я носить не собирался, а подкинул мужикам в костёр гранату, пока они там сидели. Помню стеклянные селёдочные глаза мёртвого Вани, помню, как обшаривал его труп, скользя на крови возле костра... Бред? Бред! Дурь какая-то...</text></string>
+<string id="stalker_034_1"><text>Запись: \n...Зашёл на Кордон. Всё там по-прежнему, Ваня собирался на Болота, просил меня составить ему компанию... Я долго мялся, затем рассказал о своём кошмаре. Он почему-то очень встревожился, засобирался куда-то сразу... У меня такое чувство, что ему всё равно куда было идти, лишь бы от меня подальше.</text></string>
+<string id="stalker_034_2"><text>Запись: \n...Водка-дерьмо. Пьёшь и не пьянеешь... Вчера по локалке было сообщение о смерти какого-то бывшего чистонебовца. Кое-как достучался до тех, кто был там, говорят о гранате в костре. Трое убитых, двое раненых. Страшно вдруг стало...</text></string>
+<string id="stalker_034_3"><text>Запись: \n...Не смог с собой справиться и уснул. Во сне шарахался по каким-то подземельям, убивал каких-то людей в кожаных куртках и спортивных штанах, причём одеты все одинаково и лица у всех одинаковые, и страшно напоминают кого-то. Чётко помню, как мне пулей пробило голову. В сравнении с телом - это не совсем больно, тупой удар, и всё... почему-то всегда сон начинается с потухшего костра или какого-то фитиля...</text></string>
+<string id="stalker_034_4"><text>Запись: \nЧёртовы сны! Я уж думаю, не схожу ли с ума помаленьку... Всё так реально... и всё как-то связано с реальностью. А где реальней, я уж и не разберу... я определённо схожу с ума. Больше не могу уже. Убил двадцать человек в военной форме в каком-то трёхэтажном здании. Орёт громкоговоритель... слышно, как кружит где-то вертолёт... А я медленно проваливаюсь, проваливаюсь, проваливаюсь... прямо в подземелье. И вижу полупрозрачную фигуру... И кругом кровь. Всё в крови... </text></string>
+<string id="stalker_034_5"><text>Запись: \nЛежу четвёртый день (или пятый, не помню уже), сил нет подняться. Кажется, это всё, конец...</text></string>
+
+<string id="stalker_035"><text>Запись: \nСидим в старом, но ещё более-менее крепком погребе, прячемся от выброса. Господи, ну и вонь! Мы воняем хуже бомжей... В костюмах этих тело не дышит абсолютно, и от страха вдобавок вечно мокрые. С гигиеной здесь вообще тоска. Старые матрасы, накиданные прямо на сгнившие доски пола, кишат насекомыми. Мокрицы и сороконожки уже никакого раздражения не вызывают, а вот вши... Скорей бы выброс закончился, ну скорей бы!</text></string>
+<string id="stalker_035_1"><text>Запись: \n...Лежал полдня в какой-то гнилой луже, прячась от патруля. Группа военных зачищала место для работы учёных. И смыться вовремя не успел. Даже дышал с оглядкой и окоченел до полусмерти. Последние полбутылки выпил как воду. Знобит.</text></string>
+<string id="stalker_035_2"><text>Запись: \n...Нашёл возле аномалии артефакт. Светло-жёлтый комок не пойми чего с красными каплями на нём. Летал в сантиметрах десяти над землёй, покачиваясь и кружась. Потыкал в него прутиком, арт как воздушный шарик подпрыгнул и покатился-полетел к аномалии. Схватил, дурень, его рукой, и меня шваркнуло то ли током, то ли мешком с кирпичами. Очнулся - морда в крови, из носа текло, а арт, слава Богу, не делся никуда - так и скакал рядом. Закатил его палкой в полиэтиленовый пакет, в котором был хлеб.</text></string>
+<string id="stalker_035_3"><text>Запись: \n...Чёрт, они не отстают... Когда пробирался назад, мечтая о торге со скупщиком, из-за развалившегося сарая вышел мрачный тип с охотничьим ружьём и потребовал отдать хабар. В подобных условиях налёт цивилизованности слетает с человека очень быстро, я уже имел счастье в этом убедиться, поэтому ещё задолго до деревни обрез держал наизготовку. Видимо, этот тип и понять ничего не успел. Или не сумел выстрелить? Этому ведь тоже нужно учиться...</text></string>
+<string id="stalker_035_4"><text>Запись: \n...Дружки этого типчика загнали меня в овраг. Они-то не так и страшны на самом деле, а вот зверьё местное - это действительно опасно... И похоже, меня уже почуяли. Надо рвать когти пока не поздно...</text></string>
+
+<string id="stalker_036"><text>Исходящее: \nХохму хочешь?</text></string>
+<string id="stalker_036_1"><text>Входящее: \nЧего? Давай...</text></string>
+<string id="stalker_036_2"><text>Исходящее: \nНа Кордоне Сидорович одному кексу зелёному "Кровь камня" заказал. Тот его и спрашивает: "А что, бывает разве у камня кровь?"...</text></string>
+<string id="stalker_036_3"><text>Входящее: \nА где смеяться?</text></string>
+<string id="stalker_036_4"><text>Исходящее: \nДа погоди ты... Сидрыч такой ему: "Здесь, сынок, Зона. Здесь всё возможно". И этот баклан пошёл за дорогу и давай со всей дури по камням стрелять, кровь добывать :)) Патронов перевёл кучу, так кровь из камня и не добыл. Хорошо ещё, что патруль военный вовремя заметил и свалил быренько куда-то в сторону АТП.</text></string>
+<string id="stalker_036_5"><text>Входящее: \n:) Артист... Есть же идиотов...</text></string>
+
+<string id="stalker_037"><text>Входящее: \nПривет, не занят?</text></string>
+<string id="stalker_037_1"><text>Исходящее: \nНе, сидим сейчас у костерка, чаю раздобыли. Ох и хорош, давно не пили. Всё водка, да водка, надоела уже :) Чего хотел-то?</text></string>
+<string id="stalker_037_2"><text>Входящее: \nЯ даже не знаю, как сказать... Ты после последнего выброса как сам?</text></string>
+<string id="stalker_037_3"><text>Исходящее: \nНормально вроде... а с тобой чего? Зацепило?</text></string>
+<string id="stalker_037_4"><text>Входящее: \nВроде бы нет, а чего-то очкую всё время. Жуть берёт. Сны кошмарные, думки гоняю про фиг знает чего. Вот такая фигня, для примеру: на базе у нас генератор крякнул. Пока то, да сё, уж вечер. А лампочки-то светятся! Днём незаметно было, а как стемнело - вот тебе и здрасьте - светятся. Тени от этих ламп синие какие-то и будто сами шевелятся, я тебе отвечаю! Я стою, на свою тень смотрю, а она мне рукой машет... Я аж отлить и то уже один боюсь идти, всё время возле парней трусь, а они косятся... Что за хрень?</text></string>
+<string id="stalker_037_5"><text>Исходящее: \nАнтирадов нет, конечно? Всё водочкой поправляешься? Ну вот и допоправлялся...</text></string>
+<string id="stalker_037_6"><text>Входящее: \nВ смысле?</text></string>
+<string id="stalker_037_7"><text>Исходящее: \nВ смысле пить меньше надо! На чай переходи, как мы тут. Вот и вся проблема.</text></string>
+<string id="stalker_037_8"><text>Входящее: \nБелочка, думаешь? Фу ты! А я уж... Испугался даже. Ну, спасибо, успокоил...</text></string>
+
+<string id="stalker_038"><text>Входящее: \nДавеча в Кишке наткнулся на полёгшую рейдовую группу военсталкеров. Их до меня и обшмонали знатно, да и собачки уже ими закусили. И дёрнул чёрт меня в овражек рядышком спуститься. Нашёл там здоровенный железный чемодан, весь печатями обклеенный. Вскрыть на месте не удалось. Так прикинь, я его в свою нычку на Кордоне упёр. Весь изматерился пока нёс: в нём кило 25 будет! Теперь вот сижу и думаю: а на хрена? Чего мне теперь с этим чемоданом делать?</text></string>
+<string id="stalker_038_1"><text>Исходящее: \nСидоровичу отдай.</text></string>
+<string id="stalker_038_2"><text>Входящее: \nКак же я сам не допёр! Он же за такие финтифлюшки очень хорошо платит. Спасибо, капитан Очевидность! :)</text></string>
+
+<string id="stalker_039"><text>Входящее: \nНу тебя ещё долго ждать на жопе ровно? Без тебя ведь уйдём.</text></string>
+<string id="stalker_039_1"><text>Исходящее: \nДа хрен знает. Может и не стоит ждать. Третьи сутки нет Кузнецова на посту под мостом! И сменщика его завалили. Теперь легальный переход насыпи не светит! Выиграл у Стаса два раза весь запас водки (хотел обменять на патроны у Кузнецова). Теперь придётся напиться.</text></string>
+<string id="stalker_039_2"><text>Входящее: \nНу тогда тебе мимо рта не проносить! Покедова.</text></string>
+<string id="stalker_039_3"><text>Исходящее: \nИ вам удачи. Всё одно патронов с гулькин хрен. Куда с таким боезапасом в рейд идти. В другой раз.</text></string>
+
+<string id="stalker_040"><text>Исходящие: \nПо варке артов. Некоторые при вываливании блымают, некоторые не блымают. Подбираем и по новой. Обычно на второй-третий круг после выкладывания второго (по рецепту) ингредиента (например, для КЦ это бинт) идёт приёмная длинная вспышка, и остальные ингредиенты аномалия сразу затягивает.</text></string>
+<string id="stalker_040_1"><text>Входящее: \nКЦ? \nБлымают?</text></string>
+<string id="stalker_040_2"><text>Исходящие: \nКЦ - каменный цветок. \nБлымают (укр.) - означает мелькать, сверкать (о свете). (гугля и тут рулит)</text></string>
+<string id="stalker_040_3"><text>Входящее: \nА, понятно. А аномалию как подбирать? Говорят, не во всякой сварить можно.</text></string>
+<string id="stalker_040_4"><text>Исходящие: \n Аномалию (любую) для варки надо подбирать так, чтобы: \n1. Ингредиенты не разбегались; \n2. Результат варки можно было легко подобрать - т.е. если варим в "Карусели", стоять надо чуть ниже, а то сваренный арт может улететь в космос. </text></string>
+
+<string id="stalker_041"><text>Исходящие: \nНу не могу пройти дальше северного блокпоста! Только сунусь, а они уже тут-как-тут. Приходится взад улепётывать.</text></string>
+<string id="stalker_041_1"><text>Входящие: \nКто "они" то? Бандюганы - мародёры?</text></string>
+<string id="stalker_041_2"><text>Исходящие: \nДа если бы! С этими хоть договориться можно. Тушканы...</text></string>
+<string id="stalker_041_3"><text>Входящие: \nТушканы? Ну ты, брат, даёшь... А отстрелять их не пробовал?</text></string>
+<string id="stalker_041_4"><text>Исходящие: \nПробовал. Но уж больно они неубийственные, да и я сопля ещё та - хрен попадаю.</text></string>
+<string id="stalker_041_5"><text>Входящие: \nНу так слушай, "сопля", гнездо у них там. Его они и защищают. Поэтому удила закуси и бегом, пока гнездо не минуешь. Тушканы сами отстанут. Ну куснут за нежную ягодицу пару раз. Но это ничего. Потом будешь девкам шрамы показывать - хвастаться.</text></string>
+<string id="stalker_041_6"><text>Исходящие: \nСпасибо, дядя, за совет. Щас опробую рекомендацию.</text></string>
+<string id="stalker_041_7"><text>Входящие: \nДавай. И как пройдёшь - звякни. Тут на тебя уже водку ставят...</text></string>
+
+<string id="stalker_042"><text>Запись: \nМного раз слышал, что нычку можно заминировать, но как правильно это сделать? Просто гранаты положить? Так именно их у меня и украли... \nМожет, зря я в Зону пришёл... Не моё это...</text></string>
+
+<string id="stalker_043"><text>Исходящие: \nЧто за фигня? На Агро шарится Лёха Тамбовский. Выхожу на Свалку - и кто бы вы думали? Лёха Тамбовский, но рожа и прикид другой. Опять штучки Зоны?</text></string>
+<string id="stalker_043_1"><text>Входящие: \nНе. Просто два Лёхи. И оба из Тамбова.</text></string>
+
+<string id="stalker_044"><text>Исходящие: \nАра, слушай - тяжким трудом сорок бутылка добыл. Из Бар 20 несу, ещё 20 Стас у Сидор сторожит. Пришёл Кордон - нэт Сидор...командировка. Сутки сплю - нэт Сидор. Два сплю - нэт Сидор. Тры сплю - апять нэт! На четвёртый утро вэрнулса, турыст! На хабар, отдавай водка! Бегом к насыпи - Ковальчук... Ден сплю - Ковальчук, два сплю - Ковальчук. На третий - ура! Кузя вернулся. На, Кузя, бери свой водка, дай АК-47. Вах, хорошо! Всего пят сутка спал.</text></string>
+
+<string id="stalker_045"><text>Исходящие: \nУ меня тут сложилась патовая ситуация... Набрал у Стаса водяры - и к Кузнецову меняться. А того нет. Вместо него молодой какой-то стоит. Пошёл три дня поспал. Опять этот же. Снова три дня спал - тот же Ковальчук... Чего делать-то? Куда водку сбывать?</text></string>
+<string id="stalker_045_1"><text>Входящие: \nВот пока ты спишь, Кузя и дежурит.</text></string>
+
+<string id="stalker_046"><text>Запись: \nСидорович уехал. На два дня. Вынужден везде таскать с собой ящик от Прапора. Тяжеленный, зараза! Провиант на исходе. У сталкеров в деревне всё повыкупил, что дали. На Свалку пришлось сбегать и у бандюков силой просить. И всё равно не хватает. А схрон на крыше обчистили. Только спички и пару журналов с девками оставили. Зато теперь все с водкой у костра сидят. А всё жалуются: "Чёта грустно, давай выпьем". Вот и угостили бы, что ли... Вторые сутки прошли - Сидора нет. Да и будет ли?</text></string>
+
+<string id="stalker_047"><text>Письмо: Часть 1 \nС приветами и пожеланиями долгих лет и одних удач твой друган на все времена! Ранее я тебе уже отписывался, что "пригрели" мою нычку на Свалке и унесли массу "ништяков", включая АК в холодце вываренный, фуфайку сталкерскую Доцентом модернизированную, "Пружину", Сайгу и прочие водки-аптечки-колбаски. Спрашивал у бывалых - стоит ли расстраиваться и дознание чинить? "Самаритяне" намекнули - стоит. \nНу и решил я расследование начать с Ангара на Свалке. Обхожу этак я коллег, здоровкаюсь, разговоры разговариваю, а сам посматриваю - кто какой ствол в руках держит.</text></string>
+<string id="stalker_047_1"><text>Письмо: Часть 2 \nНу и набредаю на некого Барабашку. Рожа, прямо скажем... Нет, я тоже не Штирлиц, но у этого либо предки французы, либо сам по себе несёт печать генетической деградации. И что показательно, помахивает, вальяжно этак, Сайгой. Однако ещё сильней он меня напряг, когда предложил купить фуфаечку, ну точь-в-точь моя. Конечно, может и просто такой же прикид, но не валяются же они тут на каждом углу...</text></string>
+<string id="stalker_047_2"><text>Письмо: Часть 3 \nНу-с, ладненько, думаю. А пошарю-ка я по ближним нычкам. Натурально, в первой же обнаруживаю (троекратное УРА!!!) автомат мой варёный и прочее кровное, включая "Пружину". И маячок. Естественно, мессага приходит насчёт "по мордасам". Подписано мусью Барабашкой. Что, собственно и требовалось. Кстати, при экспроприации, помимо угроз и совет пришёл, что, мол, теперь с владельцем тайничка лучше не встречаться. Ага, ЩАЗ! Как там в мультике: "Вот Вас-то мне и надобно! Вы, сударь, съесть изволили МОЮ морковь..."</text></string>
+<string id="stalker_047_3"><text>Письмо: Часть 4 \nВзял я в руки калашок (между прочим, уже отремонтированный и снаряжённый, спасибо Барабашке!) и отправляюсь на стрелку с "выражденцем". А он меня уже встречает и салютует из своей (моей) Сайги мне в голову. Убить - не убил, так, зацепил малость. А зря. Пульнул я короткой очередью - и нет Барабашки. Все вокруг довольны, никто за него не обиделся - не я первый начал. Так я справедливость собственными руками восстановил...</text></string>
+
+<string id="stalker_048"><text>Исходящие: \nПодскажите, как себя ведут учёные на Янтаре в плане воровства? Думаю сделать схрон прямо в бункере. Надеюсь, наука не сильно в Зоне оголодала.</text></string>
+<string id="stalker_048_1"><text>Входящие: \nДа вроде бы не воруют. Лично я хранил оружие, броник и прочий хлам. И всё нормуль.</text></string>
+<string id="stalker_048_2"><text>Входящие: \nДолговцы воруют и перепрятывают где-нить рядом - прямо как дети. Как злые дети - минируют гады! И потом просто найдёшь, но просто так не возьмёшь. :(( А наука там нормальная, даже и не догадываются, что у них что-то кто-то прячет. Правда, если это не водка.</text></string>
+
+<string id="stalker_049"><text>Исходящие: \nОбратно идти снова через тоже самый туннель с "Электрами"? Но как?</text></string>
+<string id="stalker_049_1"><text>Входящие: \nСлухай сюды, сынку. Достаёшь болт и ждёшь, когда погаснет перед тобой последняя "Электра". Бежишь вперёд и останавливаешься с таким расчётом перед работающей "Электрой", чтобы осталось место для появления очередной. Следишь, когда погаснет "Электра" позади работающей. В этот момент кидаешь болт в работающую "Электру", разряжая её, и рвёшь когти через неё. Аналогично со второй серией "Электр" - и ты у Сидора.</text></string>
+<string id="stalker_049_2"><text>Исходящие: \nНу ни хрена себе... Да не в жизнь не пройти.</text></string>
+<string id="stalker_049_3"><text>Входящие: \nСсышь? И не стесняешься об этом на весь эфир...</text></string>
+<string id="stalker_049_4"><text>Исходящие: \nДа, жить хочу, не стесняюсь об этом говорить и не планирую начинать стесняться.</text></string>
+<string id="stalker_049_5"><text>Входящие: \nНу и иди... Унижайся за тушёнку...</text></string>
+<string id="stalker_049_6"><text>Исходящие: \nНу и пойду. И не за тушёнку... За колбасу...</text></string>
+
+<string id="stalker_050"><text>Исходящие: \nАркаша, ты огнемётом пользоваться пробовал? Есть смысл в аренду брать?</text></string>
+<string id="stalker_050_1"><text>Входящие: \nОгнемётом не пробовал - слишком тяжёл, а у меня в костюме сталка, каждый грамм на учёте.</text></string>
+<string id="stalker_050_2"><text>Исходящие: \nОк! Понял. Значит и мне нет смысла связываться.</text></string>
+
+<string id="stalker_051"><text>Входящие: \nПахом, су... сын собаки! Притащил ему банку с "Холодцом", на прилавок вывалил, а он только хмыкнул и даже говорить не хочет.</text></string>
+<string id="stalker_051_1"><text>Исходящие: \nПахом повторять не любит. И не любит когда его плохо слушают. Он говорил про ПАРУ БАНОК, а ты одну притащил.</text></string>
+<string id="stalker_051_2"><text>Входящие: \nЯ думал, это просто разговорный оборот... А Пахом, однако, принципиальный! </text></string>
+
+<string id="stalker_052"><text>Запись: \nПо ремонту: \nНе забываем убирать "всё не родное" с оружия - патроны, прицелы и т.д. - вернут заряженным, а вот "обвесы" в благотворительность пойдут ежели забыть. И главное, доказывать потом затрахаешься, и ничего не докажешь.</text></string>
+
+<string id="stalker_053"><text>Запись: \nУ меня на Болотах, на старой базе ЧН, торговец, тот который "Холодец" собирает, Пахом вроде, стал скупать конечности животных за очень хорошие деньги. Надо своим втихаря сообщить.</text></string>
+
+<string id="stalker_054"><text>Запись: \nСам долго парился с вояками: то денег дай, то водки, а полезешь просто так - расстреляют. Поэтому теперь поступаю так: беру один из ящиков на молокозаводе, подтаскиваю к колючке (там, где контейнер раскрытый между туннелем и мостом). Туда - бесплатно двумя прыжками через колючку, обратно - за жратву: уж слишком долго и нехорошо невидимый "Кисель" жжётся.</text></string>
+
+<string id="stalker_055"><text>Исходящие: \nГде бы побольше гранатами к подствольнику разжиться, а то маловато они мне пока встречаются. Да есчо укороченную снайперку Драгунова стоит ли брать у Султана, хороший ли инструмент, кто юзал?</text></string>
+<string id="stalker_055_1"><text>Входящие: \nК какому подствольнику? Если к нашему, то на Воронина поработай - одарит. Если к натовскому - можно у Сидора на модификат выменять. </text></string>
+
+<string id="stalker_056"><text>Исходящие: \nДолгари на Янтаре - мастера! Лечу мозги возле костра под бункером, а тут электрохимера - да прям на ворота ломится! Я и испугаться не успел - в пару очередей порвали её тики так.</text></string>
+<string id="stalker_056_1"><text>Входящие: \nА то! Если бы они ещё по нычкам чужим не шарились - цены бы им не было!</text></string>
+
+<string id="stalker_057"><text>Исходящие: \nНу, повезло нам! Второй день в Зоне, а уже рецепт варки "Золотой рыбки"! Третий уровень! Сварим, сдадим Сидору, и можно валить отсюда!</text></string>
+<string id="stalker_057_1"><text>Входящие: \nИ где это ты такое надыбал?</text></string>
+<string id="stalker_057_2"><text>Исходящие: \nДа пошёл до ветру за сарайки, а по дороге бумаженцию подобрал. Сижу, верчу её в руках. Бумага размокла, но разобрать можно.</text></string>
+<string id="stalker_057_3"><text>Входящие: \nИ чего там? Не томи.</text></string>
+<string id="stalker_057_4"><text>Исходящие: \nНужен хвост псевдо-собаки, немного крови из камня и какое-то "гр".. </text></string>
+<string id="stalker_057_5"><text>Входящие: \nМожет, "грамм"?</text></string>
+<string id="stalker_057_6"><text>Исходящие: \nМожет. Ещё слово "вспышка".. хм. Похоже так: нужно бросить в холодец хвост и налить столько грамм крови из камня, пока не будет вспышки - сверкнуть должно, наверное... и варить это надо десять минут. Только неясно из чего должен быть холодец. Вроде свиньи тут водятся... Мутировали правда, но может, сойдёт - хоть бы не рвануло.</text></string>
+<string id="stalker_057_7"><text>Входящие: \nКороче, хвост у меня есть - с дохлой псины срезал. Воняет немного, но ещё целый почти. Котелок тоже есть, холодец найду из чего сварить. Непонятно только, что это за кровь из камня...</text></string>
+<string id="stalker_057_8"><text>Исходящие: \nВот и я не пойму. Надо бы у бывалых повыспрашивать.</text></string>
+<string id="stalker_057_9"><text>Входящие: \nМожно. Только осторожно! Чтобы про рецепт не догадались.</text></string>
+
+<string id="stalker_058"><text>Запись: \nЯ снорков на два вида разделяю... ну, условно, конечно, для себя - обычный и янтарский. Янтарский, потому что впервые именно на Янтаре с такими столкнулся. Они "окрасом" отличаются - масть у них другая, что ли.. и злые - страх. Но тупые - и те, и эти. Хотя иногда находит на них. Если группкой лезут, могут и тактикой брать - кто-то в лоб, кто-то сбоку, только поворачиваться успевай.</text></string>
+
+<string id="stalker_059"><text>Запись: \nИнтересный момент сегодня словил. Иду на Янтарь гружёный, решил втихую мимо босоты на недострое просочиться. Уже возле вагончика наймов заметили меня, суки. Давай стреляться с ними - двух сложил, одного подранил. А тут выброс, мать его! Я в вагончик, хана, думаю, раненому. Переждал - иду пильгу подсобрать, а босяк-то живой! Пожалел - совсем молодняк. Пока из сидора аптечку доставал, он - хлоп! -  и исчез, босяк этот. Как сквозь землю провалился.</text></string>
+
+<string id="stalker_060"><text>Входящие: \nЯ бы этому охраннику мозги после первой такой игры размазал по бункеру Сидора и рука бы не дрогнула.</text></string>
+<string id="stalker_060_1"><text>Исходящее: \nВы много мозгов уже повышибали? Недрогнувшей рукой.</text></string>
+
+<string id="stalker_061"><text>Запись: \nХотел сварить "Дикобраз" из "Морского ёжика" - рецепт есть - вокруг нескольких "Жарок" танцы устраивал, ничего не получается, лежит в "Жарке" и шипит. Может, ещё какие условия нужны? Молитву прочитать, али в бубен стукнуть... кому-нить, кто рецепт дал...</text></string>
+
+<string id="stalker_062"><text>Входящие: \nЛюди, народ... Подскажите, где у поросят в Тёмной долине точка убойная? Не убиваются твари, бью строго по глазам - и еле-еле... 300 патронов - два порося. Ну не гранатами же шмалять...</text></string>
+<string id="stalker_062_1"><text>Исходящие: \nНаверно, если было бы просто, никто и не стал бы тебя на это дело подписывать за хорошую денежку.</text></string>
+<string id="stalker_062_2"><text>Входящие: \nЛогично. Но, всё-таки, как?</text></string>
+<string id="stalker_062_3"><text>Исходящие: \nЭто порода такая, возле болот, бронированная, их там всего семейка, а остальные как обычно - дробью легко. Они по окраске отличаются, непробиваемые. Более светлые. Можно просто их не трогать из-за одного глаза.</text></string>
+
+<string id="stalker_063"><text>Исходящие: \nНарод, где можно почку химеры достать?</text></string>
+<string id="stalker_063_1"><text>Входящие: \nИшь, почка ему понадобилась... В Темной долине, на холме, штук шесть химер резвится. У них попроси.</text></string>
+
+<string id="stalker_064"><text>Исходящие: \nКстати, а как валить электрохимеру?</text></string>
+<string id="stalker_064_1"><text>Входящие: \nПодальше отойди и стреляй или гранатами. Тут либо завалишь химеру, либо убежать от неё успеешь.</text></string>
+<string id="stalker_064_2"><text>Входящие: \nСвою первую химеру валил так: возле вертолёта, ну ты знаешь где, вдоль здания идёт кирпичная стена и рядом с ней выступ. Забрался на него и стрелял, химера не могла выйти из тоннеля, УАЗик мешал.</text></string>
+<string id="stalker_064_3"><text>Исходящие: \nЯ думаю химера не от твоих пуль померла а от горя, что с тобой ближе не познакомилась. :)</text></string>
+
+<string id="stalker_065"><text>Запись: \nНейтрал на ферме продаёт патроны задёшево... рискнул, купил... вроде стреляют, вроде убивают... но есть всё ж ощущение подвоха - что-то с ними не так.</text></string>
+
+<string id="stalker_066"><text>Запись: \nНа стоянке брошенных машин был в шоке, когда постреляв по тушканам, попал в "Тарзанку". Сталкеры кричат:" Давай к нам!". А я, глотая аптечки, соображаю, куда-бы податься, чтобы не помереть... Адреналинисто!</text></string>
+
+<string id="stalker_067"><text>Запись: \nУ меня, кстати, дробовик всего один раз из рук выпал - кабан выбил на Болотах - я подхватил и таки выиграл бой. Но починить потом не мог ни Вергас, ни я сам ремнаборами. Только очкарик за копейки впрягся, я аж удивился, думал тоже откажет... </text></string>
+
+<string id="stalker_068"><text>Запись: \nЧеркассы. Речнай проезд 2, кор. 1, кв. 29. Галя (подружка Оксаны)</text></string>
+
+<string id="stalker_069"><text>Исходящие: \nА какой код от двери на вход в лабу?</text></string>
+<string id="stalker_069_1"><text>Входящие: \nПросто открыть дверь пробовал? Помнится, не было там никакого кода. Ну или постучись, а вдруг откроют.</text></string>
+
+<string id="stalker_070"><text>Входящие: \nТут предложили либо АК-103, либо АК-101. Что посоветуешь?</text></string>
+<string id="stalker_070_1"><text>Исходящие: \nДа фиг знает... Тут с какой стороны ровняться... У 101-го больше точность, надёжность. Но тут вся фишка в патроне. У 101-го калибо 5.56 - весьма редкий в наших краях, за ним аж на Склады переть порой приходится. А вот у 103-го калибр 7.62, вот убойная штука и получилась. Да и патрон весьма распространён, поэтому я его и взял в своё время.</text></string>
+<string id="stalker_070_2"><text>Входящие: \nПонятно, будем думать...</text></string>
+
+<string id="stalker_071"><text>Запись: \n"Карусель". Свист такой, завораживающий, как у ветра перед выбросом. А над тем местом ещё будто рой мошкары. Тут не зевай - собрал силы в кулак и дёргай быстрее от ней, пока не засосало.</text></string>
+
+<string id="stalker_072"><text>Запись: \n"Воронка". По звуку, как "Карусель", только пыль вокруг неё крутится с листьями по земле. И движение воздуха заметнее. Тут главное не перепутать, ежели "мошкары" над гулом нет - стало быть "Воронка", а не "Карусель". Чтоб проверить кидаю спички счирканные, жменькой, что-то тяжелее опасно - может и в ответ прилететь.</text></string>
+
+<string id="stalker_073"><text>Запись: \n"Трамплин". Гул такой, как от поезда вдалеке. И круги в том месте расходятся, как от камня на воде. Вырваться невозможно, такая же гадость, как "Кисель", ну то есть невидимый "Холодец" - замедляет и рвёт изнутри; я её про себя "Стоп-кран" называю. Лучше близко не подходить.</text></string>
+
+<string id="stalker_074"><text>Запись: \n"Кисель", или невидимый "Холодец". Опасная зараза. Вляпаешься - так разъест костюм, кровь пойдёт. Химия - одно слово. Одно хорошо, если идти вдумчиво и не спеша, то его хорошо слышно (булькает, как тот суп из рекламы). А кинешь чем в то место, так расползается пятно, как Сахаров говорит, "ядовито-химического" цвета.</text></string>
+
+<string id="stalker_075"><text>Исходящие: \nСлух нехороший по Зоне идёт. Монстры меняются. Те кто выжил, говорят, твари стали издали сталкеров мочить. Химеры орут и от их рёва сталкер как Сидор при виде арта замирает столбиком и ни бежать, ни прыгать не может. А эта тварь двухголовая прыгает и рвёт его в клочья.</text></string>
+<string id="stalker_075_1"><text>Входящие: \nБрехня...</text></string>
+<string id="stalker_075_2"><text>Входящие: \nДа вряд ли... От авторитетных людей слышал: кровосос так вообще - вроде и не дотягивается до сталкера-бедолаги, а гад такой, кровь-то сосёт! И не щупалами своими адскими, а как будто нож у него в лапе невидимый! И режет, режет потихоньку, сволочь, пускает кровянку! После встречи с ним сталкеры как мумии в бинтах вылезают! Один сказал: теперь без мешка аптечек и бинтов из Бара ни ногой! Во как.</text></string>
+
+<string id="stalker_076"><text>Исходящие: \nВолк, мы тут парочку твоих оборванцев на Свалке подобрали у болотца, сидят голубки под деревом  друга к дружке жмутся. И что характерно из всей одёжки только пояс для артов один на двоих и тот без ячеек.</text></string>
+<string id="stalker_076_1"><text>Входящие: \nТочно мои?</text></string>
+<string id="stalker_076_2"><text>Исходящие: \nМы сначала подумали педики, хотели зомбакам оставить на перевоспитание, да те завыли, как тушканы на морозе... В общем, гутарят, что шли по твоему заданию, да боровские их прихватили, ну и пощипали для порядка. Из барахла только фонари оставили, да и тот под глазом у каждого.</text></string>
+<string id="stalker_076_3"><text>Входящие: \nЕсли с долины через Кишку шли - явно мои.</text></string>
+<string id="stalker_076_4"><text>Исходящие: \nТвои, твои. Мы их до стоянки доведём, а дальше ты уж сам, нам время с ними терять не резон, у нас свои планы.</text></string>
+<string id="stalker_076_5"><text>Входящие: \nСпасибо, мужики, пришлю Петруху с хлопцами, заберут горемык.</text></string>
+<string id="stalker_076_6"><text>Исходящие: \nСпасибо в стакан не нальёшь и на пояс не повесишь.</text></string>
+<string id="stalker_076_7"><text>Входящие: \nНамёк понял, я на месте, после ходки жду в гости, соберём, что Зона послала.</text></string>
+
+<string id="stalker_077"><text>Исходящие: \nКучеряво живёшь, приятель, раз ящиками для артов разбрасываешься. Я твою бандуру на Свалке подобрал.</text></string>
+<string id="stalker_077_1"><text>Входящие: \nЭто с чего это мою?</text></string>
+<string id="stalker_077_2"><text>Исходящие: \nДа на крышке инициалы, ты ж их при мне царапал, когда у костра сидели. Не жалко, новый ведь совсем? С него засохшие зомбаковские мозги соскрести, так и Сидору сдать можно, много не даст, но на пропой души хватит.</text></string>
+<string id="stalker_077_3"><text>Входящие: \nВыкинь! Я из-за этого ящика чуть сам в ящик не сыграл.</text></string>
+<string id="stalker_077_4"><text>Исходящие: \nСтрасть люблю истории. А ну, колись.</text></string>
+<string id="stalker_077_5"><text>Входящие: \nДа что рассказывать... На той неделе две капсулы на Янтаре сыскал, пока в ящик паковал снорки подошли, я его бросил и на трубу заскочил. Пять магазинов извёл, пока отстали.</text></string>
+<string id="stalker_077_6"><text>Исходящие: \nИ чё? Не томи!</text></string>
+<string id="stalker_077_7"><text>Входящие: \nНе чёкай! Ящик подобрал и двинул на ночлег в бункер к ботаникам. Проснулся - башка никакая, мутит. Смотрю, а на ящике отверстия от пуль, видно пока тварей гонял успел не только в них дырок понаделать. Короче радиации схватил мама не горюй. Да ещё и из бункера пинками выкинули - не сунешься теперь...</text></string>
+<string id="stalker_077_8"><text>Исходящие: \nДа, не свезло... Ты б его Лисапеду отволок, он хоть малька электричеством трахнутый, но парнишка смышлёный, и в стволах волокёт. Говорят, он их раньше и в руках не держал, но когда после падения со столба очухался, к нему эти навыки оружейные сами пришли. Он бы тебе и ящик запаял за недорого.</text></string>
+<string id="stalker_077_9"><text>Входящие: \nАга, как же, пойду я к Лисапеду! Мне Филька Лапоть рассказывал, как перед последней ходкой попросил Лисапеда клеммы для ячеек на поясе заменить. На следующий день Филька с этим поясом в Санаторий двинул, а там собачки круги нарезают. У Фильки с собой "Пузырёк" был, тот, что собачек отгоняет, ну он его в ячейку кинул и искру дал.</text></string>
+<string id="stalker_077_10"><text>Исходящие: \nНу и как, неужели помогло?</text></string>
+<string id="stalker_077_11"><text>Входящие: \nНу как сказать, уж не знаю, что там Лисапед начудил с клеммами, только  Филька вместо "Пузырька" правое яйцо себе активировал, так  что собачки не от арта, а от его вопля разбежались. Теперь без пояса ходит. Но с тех пор, как собак увидит  так на землю падает, за пах держится и аптечки клянчит.</text></string>
+
+<string id="stalker_078"><text>Исходящие: \nВидал у Крота фонарь, я таких в Зоне не встречал, интересно, где он такой прожектор надыбал, небось батарейки лопает, как "Чёрная метка" здоровье.</text></string>
+<string id="stalker_078_1"><text>Входящие: \nКрот - старый диггер, говорят, он в Москве библиотеку Ивана Грозного по кремлёвским подземным ходам искал.</text></string>
+<string id="stalker_078_2"><text>Исходящие: \nИ что? Нашёл?</text></string>
+<string id="stalker_078_3"><text>Входящие: \nВидать нашёл что-то, раз под землёй какая-то у него стычка вышла, не то с конкурентами, не то с "федералами", не то с подземными жителями: они не любят, когда их покой нарушают. В общем, пришлось валить далеко и надолго. Теперь под Зоной лазит, команду себе набрал, тоже ищут что-то.</text></string>
+<string id="stalker_078_4"><text>Исходящие: \nА прожектор этот с собой привёз?</text></string>
+<string id="stalker_078_5"><text>Входящие: \nФонарь ему Петренко сосватал. Этот прохиндей тебе хоть атомную субмарину, хоть Анжелину Джоли притаранит, только отстёгивай.</text></string>
+<string id="stalker_078_6"><text>Исходящие: \nО как, ну спасибо, старик, обращусь при случае. А ты Крота давно видел?</text></string>
+<string id="stalker_078_7"><text>Входящие: \nДавно, но от людей слышал, что он после стычки с вояками в тоннеле на Агро раны зализывает, говорят, в Чащу собирается, в пещеры. Всё неймётся ему.</text></string>
+<string id="stalker_078_8"><text>Исходящие: \nВо жисть: кто на земле счастья не ведает, а кто и под землёй находит... Ну добро, старина, до встречи. А Сидору передай: ещё пару "Медуз" сварю и подскачу в деревеньку, пусть барахлишко готовит.</text></string> 
+<string id="stalker_078_9"><text>Входящие: \nОкеюшки!</text></string>
+
+<string id="stalker_079"><text>Исходящие: \nДядька Вергас, чё за дела? После твоего ремонта ПДА ваще не фурычит. Хрень какая-то: время не показывает, рецепты пропали, почта через раз отправляется. На грубость нарываешься, старикан?</text></string>
+<string id="stalker_079_1"><text>Входящие: \nЧто ты лаешься, сынку? Я ведь и не программист вовсе. Моё дело маленькое - батарейку зарядить, экранчик от ваших соплей протереть, кнопочки от тушёнки почистить, а программные неполадки устранять серьёзный человек должон. Так что, не взыщите, и, как говорит пана Сидора охранник: "Чтобы вас не огорчить, можно бабки получить? " </text></string>
+<string id="stalker_079_2"><text>Исходящие: \nНу ты ухарь, старик. Ладно, занесу, если скажешь, что за человечек. Небось из голованов. Это аж на Болото переть придётся или того паче на Янтарь. К Доценту-то мне путь заказан: долгари на меня патронов не жалеют, даром что казённые.</text></string>
+<string id="stalker_079_3"><text>Входящие: \nКак величают, спрашиваете? Вот склероз проклятый, на языке крутится, а в мозг нейдёт... что-то мушкетёрское... Арамис, Портос... а Атос. Точно Атос. У него ещё шляпа такая модная была с полями, пока он её  Робинзону на марафет не променял. Вот он программер настоящий, не мне чета.</text></string>
+<string id="stalker_079_4"><text>Исходящие: \nТы чё, калоша амнезийная, меня совсем за дурака держишь? Этот чёрт в Зоне оказался, когда в дурке забор рухнул.</text></string>
+<string id="stalker_079_5"><text>Входящие: \nОпять лаешься, сынок! Мамка заругает!</text></string>
+<string id="stalker_079_6"><text>Исходящие: \nПрости. Нервный я после выброса. Но ведь он, как носик попудрит, так вещать начинает, что мол видение ему было идти в Туманную чащу и там из артефакта "Симбион" философский камень добыть, ну чтоб типа банки консервные в рыжьё превращать. Алхимик, мля, недолеченный. </text></string>
+<string id="stalker_079_7"><text>Входящие: \nЕсть такое дело. Он там целую секту организовал. Шляются за ним по Зоне эти анкелоны, а он у них вроде как жрец верховный. Каждую ночь собирает свою паству у костра и давай проповеди задвигать. А эти голодранцы рты пораскрывают, сопли до колен... внемлют, стало быть.</text></string>
+<string id="stalker_079_8"><text>Исходящие: \nНу и как? С успехом?</text></string>
+<string id="stalker_079_9"><text>Входящие: \nДа хрен тебе с двумя пируэтами! Как только они с этим "Симбионом" не выёживались, и в болоте на Ивана Купалу топили, и "фиксы", с трупака снятые в него вколачивали, только что дерьмом не мазали, да всё бес толку...</text></string>
+<string id="stalker_079_10"><text>Исходящие: \nИ где шаманят?</text></string>
+<string id="stalker_079_11"><text>Входящие: \nОни бы так до турецкой пасхи хороводили, пока Отец Диодор эту братию не разогнал. А предводителя ихнего в церквушке болотной к стенке привязал, да бесов из него изгнал... вместе с мозгами...</text></string>
+<string id="stalker_079_12"><text>Исходящие: \nЧую, ПДА-то мой починить некому. Придётся новый искать.</text></string>
+<string id="stalker_079_13"><text>Входящие: \nДа ты, голубь, как мимо пробегать будешь, загляни. Я тебе твой аппарат водочкой смажу. Вдруг поможет...</text></string>
+
+<string id="stalker_080"><text>Исходящие: \nПарни, не зря Султана из Бара выперли!</text></string>
+<string id="stalker_080_1"><text>Входящие: \nЧего так?</text></string>
+<string id="stalker_080_2"><text>Исходящие: \nУхо с типчиком надо держать востро. Повёлся я - заказал мини-Драгунова. Три дня рецепт у Зуба выпрашивал, ещё день модификат вываривал. Половину наличного боезапаса извёл, пока до места схрона со снайперкой добрался. И что?.. Пукалка тот Драгунов, вот что я вам скажу. Только крыс пугать.</text></string>
+<string id="stalker_080_3"><text>Входящие: \nДа ну? Серьёзно ерундовая пуха? Или кто-то стрелять не умеет?</text></string>
+<string id="stalker_080_4"><text>Исходящие: \nВ следующий раз возле Бар буду - рожу Султану точно начищу! Нет, ребя - СВД наше всё. А Драгунов пусть в нычке на Свалке валяется...</text></string>
+<string id="stalker_080_5"><text>Входящие: \nА вот о нычке поподробней давай. Оценим снайперку ту, хе-хе...</text></string>
+
+<string id="stalker_081"><text>Исходящие: \nНе покупайте рецепты артмодов у Зуба. Все фигня.</text></string>
+<string id="stalker_081_1"><text>Входящие: \nТы за базаром-то следи!</text></string>
+<string id="stalker_081_2"><text>Исходящие: \nВот смотри: готовил всё по рецепту, только вместо "Медузы" взял "Грави", вместо ноги снорка кинул копыто кабана, варил не в "Карусели", а в "Воронке". Получилась полная хрень, даже Сидор покупать не стал!</text></string>
+<string id="stalker_081_3"><text>Входящие: \nА ты когда на кровососа пойдёшь, то вместо броника трусы одень, вместо ружья палку возьми, вместо ножа болт в руки. Ну и вместо того чтобы бежать, сам к нему целоваться полезь...</text></string>
+
+<string id="stalker_082"><text>Исходящие: \nСлушай, а что это вояки ищут опять на Агропроме?</text></string>
+<string id="stalker_082_1"><text>Входящие: \nСам не знаю. Я на днях следил за одним через бинокль, слышал, как он с кем-то по рации говорил.</text></string>
+<string id="stalker_082_2"><text>Исходящие: \nВ бегах, наверное, кто-то опять.</text></string>
+<string id="stalker_082_3"><text>Входящие: \nВряд ли. Этот вояка с какой-то штуковиной ходил. Типа сканера. Шут его знает, что опять задумали.</text></string>
+<string id="stalker_082_4"><text>Исходящие: \nАртефакты, что ли, искал? Или аномальные поля прощупывал?</text></string>
+<string id="stalker_082_5"><text>Входящие: \nЯ слышал, что они нашли там аномалию пространственную, пока не известно куда кидает. Или наоборот к ним закидывает.</text></string>
+<string id="stalker_082_6"><text>Исходящие: \nТак вот откуда в той стороне живности столько. Из аномалии той и появляются.</text></string>
+
+<string id="stalker_083"><text>Запись: \nВот до чего ж плоть бестолковая пошла! За одной тварюкой зелёной полдня по всему Болоту гонялся, чтобы шкуру содрать, патронов извёл кучу! А она возьми и в "Карусель" забеги. Ну точно нарочно, чтобы шкуру мне не сдавать! Зараза.</text></string>
+<string id="stalker_083_1"><text>Запись: \n...Выследил ещё одну зелёную плоть. Решил сразу перестрелить ей конечность, чтобы не так шибко бегала. Так она и на трёх лапах скачет не угонишься! Но устала быстро. И только я обрадовался, как эта тварь на кровососа налетает. Тот-то её и прибил с одного удара. Я удрать успел, пока он её жрал. Снов без шкуры.</text></string>
+<string id="stalker_083_2"><text>Запись: \n...Заходил в Кишку к охотникам. Спрашивал, можно ли сделать манок, приманивающий плотей. Желательно зелёных. Посмотрели как на дурака. Посоветовали попробовать посвистеть в два пальца. Шутники.</text></string>
+<string id="stalker_083_3"><text>Запись: \n...Могут ли плоти сговориться? Выследил ещё одну зелёную. Начал погоню, но эта хитрая образина выскочила на кабанов. Пока я от них отстреливался, на шум пришли охотники. Завалили и кабанов и плоть. Забрали всё себе. Халявщики. Может, попробовать поохотиться на псевдопсав?</text></string>
+
+<string id="stalker_084"><text>Исходящие: \nЯ на Армейских складах. Видел только что, как химера сталкера загрызла. Возле хутора, что у базы Свободы. Тело утащила в дом. На сталкере был крутой комбез, да и рюкзак набит плотно. Кто со мной пойдет тварь убить? Весь хабар поровну поделим.</text></string>
+<string id="stalker_084_1"><text>Входящие: \nА ствол того сталкера химера тоже утащила? Или ты уже прибрать успел?</text></string>
+<string id="stalker_084_2"><text>Исходящие: \nВинторез-то? Так и лежит возле этого дома. Я в бинокль наблюдаю, подходить в одиночку не очень-то хочется.</text></string>
+<string id="stalker_084_3"><text>Входящие: \nЛадно, жди чутка, я тут рядом иду, сейчас к тебе заверну. Только чур Винторез мой, ага?</text></string>
+<string id="stalker_084_4"><text>Исходящие: \nБольно мне надо... пукалка ломучая. Давай дело сделаем, там договоримся.</text></string>
+
+<string id="stalker_085"><text>Входящие: \nЗдаров.</text></string>
+<string id="stalker_085_1"><text>Исходящие: \nИ тебе привет.</text></string>
+<string id="stalker_085_2"><text>Входящие: \nТы сейчас в Баре?</text></string>
+<string id="stalker_085_3"><text>Исходящие: \nНу да, подремонтироваться, отдохнуть пару деньков.</text></string>
+<string id="stalker_085_4"><text>Входящие: \nА чё там у вас, кто-то мутировал или через посты какая-то зверюга прорвалась и кучу народа положила?</text></string>
+<string id="stalker_085_5"><text>Исходящие: \nЧего? А-а, ты про это... Сейчас отпишусь про зверюгу-мутанта. Ты Федьку Пистона знаешь?</text></string>
+<string id="stalker_085_6"><text>Входящие: \nДа его пол-Зоны знает. Сядешь у костра с мужиками, колбаску-батончик порежешь, бутылочку откупоришь пси-здоровье полечить... А тут этот. Подваливает. Снимет свои растоптанные берцы, на них носки столетней свежести повесит, и в костёр почти ноги суёт. Просушить, типа. Ну и начинает: "Опять сапоги хреновые подсунули..." Да задолбал. Купи новые берцы, а не старьё б/у, и не ной. А главное - это амбре. Плоти за километр чихать начинают, какая уж там закуска. Так что, он того... прости, Господи.</text></string>
+<string id="stalker_085_7"><text>Исходящие: \nЯ бы не сказал. Ты слушай. Намылился Федя на Янтарь. Сахар ему работёнку подкинул - пяток пар ботинок со снорков на какие-то опыты понадобились. Ну Федя настрелял, обувку поснимал-а она не простая, сам знаешь. А потом наш Федя думает: а нафига платить даже за бэушные берцы, когда есть задаром. И в отличном состоянии. Ну, он пару подобрал по размеру, хорошенько очистил. Для дезинфекции в слабом растворе "Холодца" с водой пару часов подержал. Ну и Сахарову показывает - так и так, профессор, а ничего, если я эту обувку буду носить? Ну, Сахар и говорит, что скорее всего это безопасно. Но если он будет два раза в день отправлять ему отчёт о своём здоровье, то заработает ещё и десяток научных аптечек. И что наука нуждается вот в таких клинических энтузиастах.</text></string>
+<string id="stalker_085_8"><text>Входящие: \nИ чё?</text></string>
+<string id="stalker_085_9"><text>Исходящие: \nВ общем, заявился он в Бар в обновке. Говорил, что может бегать долго без усталости, перепрыгивать заборы и высота теперь ему не страшна, т.к. ботинки как-то по-особому пружинят. Два дня он в них ходил по Бару, вроде вообще не снимал. А на третий сидим возле костра в цеху, Федя начинает опять про сапоги, и вдруг как заорёт... Потом с места аж до потолка прыгает, затем по стенам. Мама дорогая. И орёт - помогите, ай-ай... Кое-как навалились на него, к земле прижали, чё такое, мол. А потом смотрим - из-под ботинок кровь сочится. Давай их снимать - не снимаются. Хорошо хоть, что Федя сознание потерял. Ножом разрезали - а там ботинки как бы корни в ноги пустили. Жуть. Кой-как повыдёргивали всё это из ног. Кровищи было. Хорошо, что БД на закуп в Бар зашёл. Какой-то мазью смазал, сказал лежать три дня и линять из Зоны, если Федя жить хочет. Вот такие дела.</text></string>
+<string id="stalker_085_10"><text>Входящие: \nДа-а. Офигеть. Да ты больше меня знаешь... Слушай, а я же плащик из плоти ношу. А вдруг тоже, того. Кстати, а чего кликуха такая - Пистон?</text></string>
+<string id="stalker_085_11"><text>Исходящие: \nЗа плащик не боись - некуда там уже того, дальше некуда, хе-хе... Вообще-то, их спецы выделывают, ну и плоть всё-же свинья, а не бывший человек. А кликуха - он как-то в очередной раз достал со своими сапогами, вот ему в берцы и подбросили то ли петарду, то ли ещё чего. Было очень смешно всем, кроме Феди. Потом неделю про сапоги никто не слышал.</text></string>
+<string id="stalker_085_12"><text>Входящие: \nХех. Ладно, ты завтра с утреца подваливай на наш хуторок на Складах. Тема есть, а один я стремаюсь.</text></string>
+<string id="stalker_085_13"><text>Исходящие: \nОк. До встречи.</text></string> 
+
+<string id="stalker_086"><text>Входящее: \nЗдорова, брателла! Ну давай, колись последними новостями. Ни слуху ни духу от тебя.</text></string>
+<string id="stalker_086_1"><text>Исходящее: \nНу привет. У меня тут одно очень выгодное дельце наклёвывается. Только вот говорить я тебе ничего не стану. И давай это, без обид и прочей шняги.</text></string>
+<string id="stalker_086_2"><text>Входящее: \nНе понял, это ещё почему?!</text></string>
+<string id="stalker_086_3"><text>Исходящее: \nМне не нужны лишние уши, хочу всё по-тихому замутить.</text></string>
+<string id="stalker_086_4"><text>Входящее: \nТак... А это уже не по понятиям! Кто посеял плащ для Боряна? А?! И кому пришлось отдавать свой, чтобы жопу твою прикрыть? Хожу теперь в этой поганой куртке, как шпана...</text></string>
+<string id="stalker_086_5"><text>Исходящее: \nНу не начинай. Всё отдам, если выгорит. Помнишь, пахан всё мечтал о бабе, мол, почему на всю Зону нет особи женского пола? Ха-ха, прикинь, да? </text></string>
+<string id="stalker_086_6"><text>Входящее: \nНу я не понял, ему бабу притащить, что ли, надо или как? Да и что за дело и как оно связанно с бабами?</text></string>
+<string id="stalker_086_7"><text>Исходящее: \nНикого приводить не просил, но я-то и так знаю, что будет мне почёт, уважение, да и не только за это. Для чего она ему там нужна, я не знаю и знать не хочу. Старый извращенец... Меня только навар интересует.</text></string>
+<string id="stalker_086_8"><text>Входящее: \nДело-то в чём? Достал мне зубы заговаривать! </text></string>
+<string id="stalker_086_9"><text>Исходящее: \nКороче. Иду я со Свалки на Кордон. Та вылазка получилась очень продуктивной - нашёл два арта нехиленьких и чью-то нычку с хавчиком. Ха! Лопух под автобусом посреди дороги заныкал, ёё видно даже из далека было. Он бы ещё посреди дороги этот рюкзак кинул. Ну да ладно, не об этом базарю. Уже подходя к воротам на Кордон заметил сталкера, который чего-то в ПДА возится. Совсем по сторонам не смотрел, ну я и воспользовался моментом... Правда перестарался, весь костюм его кровью заляпал. А он бы мне сейчас пригодился.</text></string>
+<string id="stalker_086_10"><text>Входящее: \nТаааак, это уже интересно. Что за сталкер? </text></string>
+<string id="stalker_086_11"><text>Исходящее: \nДа я-то откуда знаю? Я тогда шуму лишнего наделал и мне пришлось быстренько на Кордон убежать. Схватил рюкзак с ПДА и дал дёру. Дойдя до Кордона уже решил порыться в нём, рядом никого не было. Залез на вышку около БэТэ-эРа и начал клацать эту хреновину. Координатов тайника не было, но вот была история сообщений с некой Оксаной. Ну... Думаю, небось с бабами своими уже с большой земли нашли способ общаться. Да вот только этот сталкер должен был быть её проводником сюда, в Зону, прикинь! И этот лопух попался как раз именно мне. Нехило мне повезло. Ну так я и думаю, надо пользоваться шансом. В последнем сообщении говорилось, что она через пару дней будет на окраине Болот. Что она тут забыла - я так понять и не смог. В ПДА просто инфа о том, где она будет. Кстати! Она ещё бабла отвалить обещала неплохо - двойная выгода. Вот такие вот пироги. Ты представляешь, что мне может выгореть, если я эту особу приведу к папе Борову? То-то. Ну чё? Я утолил твоё любопытство?!</text></string>
+<string id="stalker_086_12"><text>Входящее: \nОпана. Так ты решил прикинуться проводником и в Долину её приволочь? Я не понимаю хода твоей мысли. Пиши уж до конца, задолбал!</text></string>
+<string id="stalker_086_13"><text>Исходящее: \nДа!!! Уже тупой бы допёр. Чего только ради бабла не сделаешь... Ну так вот, найду прикид путний и завтра с утра выдвигаюсь на Болота. А там как карта ляжет. Не накаркать бы.</text></string>
+<string id="stalker_086_14"><text>Входящее: \nДавай, давай. Смотри не обосрись там по полной. И да! Про мою долю не забудь, я бы не только плащик свой назад хотел. Смекаешь?</text></string>
+<string id="stalker_086_15"><text>Исходящее: \nВсё, достал. Не буду я больше на тебя время тратить. Как-нибудь потом спишемся. Я почухал.</text></string>
+
+<string id="stalker_087"><text>Входящее: \nШурик, выручай!</text></string>
+<string id="stalker_087_1"><text>Исходящее: \nЧто случилось? "Маслину поймал" хе-хе-хе.</text></string>
+<string id="stalker_087_2"><text>Входящее: \nХуже. "Чёрную метку" словил...</text></string>
+<string id="stalker_087_3"><text>Исходящее: \nА я ж говорил тебе - нефиг трупы проверять, мародёр недоделанный.</text></string>
+<string id="stalker_087_4"><text>Входящее: \nЛучше помог бы другу. И так тошно без тебя, а выслушать мог и от Лёхи.</text></string>
+<string id="stalker_087_5"><text>Исходящее: \nЛадно. Есть способ один, только на совесть.</text></string>
+<string id="stalker_087_6"><text>Входящее: \nДа мне по барабану, пиши быстрей!</text></string>
+<string id="stalker_087_7"><text>Исходящее: \nЯ слыхал, что ЧМ можно отдать человеку, захотевшему её взять себе.</text></string>
+<string id="stalker_087_8"><text>Входящее: \nИ кто такое счастье берёт?</text></string>
+<string id="stalker_087_9"><text>Исходящее: \nНу это я не знаю. Хотя, когда был на Свалке, в ангаре - ну брал у Кулинара энергетики, то слышал, что один мужик дал там зелёному метку, а тот взял её, за 20 тыщ.</text></string>
+<string id="stalker_087_10"><text>Входящее: \nНи фига себе! Баксов! 20 тыщ! Где я столько возьму? Одолжишь хотя бы 5 тысяч, а?</text></string>
+<string id="stalker_087_11"><text>Исходящее: \nДа не. Рубликов наших, конечно, электронных.</text></string>
+<string id="stalker_087_12"><text>Входящее: \nДругое дело. Я как раз на Агропроме, пойду отдам. Уж слишком сложно с ней жить. Ты куда собираешься?</text></string>
+<string id="stalker_087_13"><text>Исходящее: \nДумаю на Склады податься, тебя подождать в Баре?</text></string>
+<string id="stalker_087_14"><text>Входящее: \nНе жди. Кто его знает, как всё обернётся. Можешь и не дождаться меня никогда.</text></string>
