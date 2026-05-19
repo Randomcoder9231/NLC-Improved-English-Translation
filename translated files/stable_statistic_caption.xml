@@ -36,8 +36,9 @@
 <string id="flesh_normal"><text>Forest Flesh</text></string>
 <string id="flesh_strong"><text>Marsh Flesh</text></string>
 
-<string id="zombie_weak"><text>Zombie</text></string>
-<string id="zombie_trup"><text>Decayed Zombie</text></string>
+<string id="zombie_weak"><text>Starving Zombie</text></string>
+<string id="zombie_normal"><text>Enraged Zombie</text></string>
+<string id="zombie_scientist"><text>Zombie Scientist</text></string>
 <string id="zombie_blow"><text>Exploding Zombie</text></string>
 
 <string id="snork_weak"><text>Snork</text></string>

@@ -169,8 +169,8 @@
 <string id="grenade-f1"><text>F-1 grenade</text></string>
 <string id="enc_weapons1_grenade-f1"><text>Defensive hand grenade with a large shrapnel damage radius. It's recommended to only throw it from cover.</text></string>
 
-<string id="grenade-gd05"><text>GD-05 grenade</text></string>
-<string id="enc_weapons1_grenade-gd05"><text>Handheld smoke grenade designed to provide a smoke screen.</text></string>
+<string id="grenade-rgo"><text>RGO Grenade</text></string>
+<string id="grenade_rgo_desc"><text>A hand-held anti-personnel defensive impact-timed grenade. Designed to neutralize enemy personnel in defensive combat. Equipped with a contact fuze that activates upon impact. Additionally features a safety mechanism to protect the thrower from detonation if the grenade lands too close to them.</text></string>
 
 																						<!--ÌÎÄÓËÈ-->
 
@@ -186,7 +186,7 @@
 <string id="st_addon_scope_ac10632_descr"><text>The ELECTRO SIGHT 1x22x33 collimator sight for quick aiming. It's shockproof and suitable for all weapons with a Picatinny rail. The choice of 7 brightness levels for the illuminated reticle allows the sight to be used in various lighting conditions.</text></string>
 
 <string id="st_addon_scope_1p78"><text>1P78 "Kashtan" scope</text></string>
-<string id="st_addon_scope_1p78_descr"><text>The 1P78 scope is designed for equipping assault rifles and light machine guns and for aimed fire at medium and long distances. The scope has a 4.5x magnification. It was developed by TSKB "Tochpribor" (Novosibirsk), with S.I. Mikhalenko as the chief designer.</text></string>
+<string id="st_addon_scope_1p78_descr"><text>The 1P78 scope is designed for equipping assault rifles and light machine guns and for aimed fire at medium and long distances. The scope has a 2.7x magnification. It was developed by TSKB "Tochpribor" (Novosibirsk), with S.I. Mikhalenko as the chief designer.</text></string>
 
 <string id="st_addon_scope_okp"><text>OKP-7 sight</text></string>
 <string id="st_addon_scope_okp_descr"><text>The original design of the OKP sights makes it possible to conduct aimed fire from unstable positions and in rapidly changing environments, reduces shooter fatigue, and also allows the use of the standard mechanical sights if necessary.</text></string>
@@ -262,6 +262,9 @@
 
 <string id="ars-sil_vsk"><text>9x39mm "Vikhr" suppressor</text></string>
 <string id="enc_arsenal_sil_vsk"><text>A suppressor for the SR-3M "Vikhr."</text></string>
+
+<string id="inv_sil_co_salvo"><text>Salvo 12 Suppressor</text></string>
+<string id="enc_sil_co_salvo"><text>A sound suppressor by SilencerCo for 12-gauge carbines and shotguns. Somewhat on the heavy side, but reasonably effective. Requires a compatible adapter for installation.</text></string>
 
 <string id="st_grenade_launcher_groza"><text>GP-5 under-barrel grenade launcher</text></string>
 <string id="st_grenade_launcher_groza_descr"><text>A grenade launcher module designed for use with the OC-14 "Groza" assault rifle and grenade launcher complex. It was created based on the GP-25 under-barrel grenade launcher, with a number of changes and improvements made to its design. The most significant of these is a single trigger used for both firing grenades and regular ammunition. Due to the modified mounting scheme of the grenade launcher to the barrel, this module cannot be used with other types of weapons.</text></string>
@@ -398,8 +401,8 @@
 
 <string id="desc_dialog_wpn-saiga12c"><text>Ammunition:\n• 12x70 Birdshot\n• 12x70 Buckshot\n• 12x70 Slug\nAmmo feed:\n• 5-round magazine\nMass without ammunition:\n• 3.5 kg\nFire mode:\n• single\n \nOne of the best smoothbore carbines in the world. It enjoys well-deserved popularity, not least because of its design, which is based on the Kalashnikov assault rifle. It has a "dovetail" rail for mounting sights.</text></string>
 
-<string id="wpn-saiga12c_m1"><text>Saiga-12M</text></string>
-<string id="enc_wpn-saiga12c_m1"><text>A modernized version of the Saiga-12K commissioned by one of the special military units in the Zone; who they are and what they do remains a mystery. During the modernization, the following were installed: a 10-round magazine, an anatomical grip, a Picatinny rail, an improved bolt, an GK-02 muzzle brake-compensator, and the ability to fire in full-auto.</text></string>
+<string id="wpn-saiga12c_m1"><text>Saiga-12M Carbine</text></string>
+<string id="enc_wpn-saiga12c_m1"><text>A customized variant of the Saiga-12K, commissioned by an unknown special military unit operating within the Zone — their identity and purpose remain a mystery. The modifications include: a 10-round magazine, an ergonomic pistol grip, a Picatinny rail, an upgraded bolt, and a GK-02 muzzle brake compensator.</text></string>
 
 <string id="desc_dialog_wpn-saiga12c_m1"><text>Ammunition:\n• 12x70 Birdshot\n• 12x70 Buckshot\n• 12x70 Slug\nAmmo feed:\n• 8-round magazine\nMass without ammunition:\n• 3.85 kg\nFire mode:\n• single\n \nOne of the best smoothbore carbines in the world. It enjoys well-deserved popularity, not least because of its design, which is based on the Kalashnikov light machine gun. The Ilyn muzzle brake-compensator significantly reduced recoil and improved control when shooting, and the Picatinny rail allows the installation of imported EOTech 553 and ELCAN DR sights.</text></string>
 
@@ -475,7 +478,7 @@
 <string id="enc_weapons1_wpn-val"><text>This weapon was created based on the special "Vintorez" sniper rifle as a silent weapon for special forces. It allows the shooter to fire effectively at an enemy protected by body armor without revealing their position. One of the main features is the use of an integrated suppressor and 9x39mm cartridges with a heavy bullet.</text></string>
 
 <string id="wpn-vintorez"><text>VSS "Vintorez"</text></string>
-<string id="enc_weapons1_wpn-vintorez"><text>The "Special Sniper Rifle" is designed for silent and flashless sniper shooting during special operations when it is necessary to keep the shooter's position a secret. Its ammunition provides high armor-piercing and stopping power; in addition, this weapon is equipped with an integrated suppressor and optics. Despite the small magazine capacity, it is highly valued by stalkers.</text></string>
+<string id="enc_weapons1_wpn-vintorez"><text>The "Special Sniper Rifle" is designed for silent and flashless sniper shooting during special operations when it is necessary to keep the shooter's position a secret. Its ammunition provides high armor-piercing and stopping power; in addition, this weapon is equipped with an integrated suppressor. Despite the small magazine capacity, it is highly valued by stalkers.</text></string>
 
 <string id="wpn-vintorez_m1"><text>VSSM</text></string>
 <string id="enc_weapons1_wpn-vintorez_m1"><text>The "Vintorez-M" is an improved version of the "Vintorez" sniper rifle, adopted by the Russian army back in 1987. The updated weapon features improved accuracy and grouping characteristics. And for the shooter, the "Vintorez" has become even more comfortable thanks to an improved stock: recoil is almost imperceptible. The letter "M" stands for modernized.</text></string>
@@ -595,8 +598,8 @@
 
 <string id="Ammo"><text>Ammunition</text></string>
 
-<string id="st_knife"><text>Bars A-2607 knife</text></string>
-<string id="enc_weapons1_wpn-knife"><text>The Bars A-2607 knife is forged from 95Kh18 steel with a handle made of precious wood and a brass guard.</text></string>
+<string id="st_knife"><text>6Kh4 Knife</text></string>
+<string id="enc_weapons1_wpn-knife"><text>The 6Kh4 general-purpose military bayonet knife.</text></string>
 
 <string id="st_kabar"><text>KM2000 knife</text></string>
 <string id="enc_weapons1_wpn-kabar"><text>The KM2000 (from German. Kampfmesser - "combat knife") is a German combat knife. The knife is produced by the German company Eickhorn-Solingen Ltd. It was adopted by the German Bundeswehr. The blade is made in the "American tanto" style.</text></string>

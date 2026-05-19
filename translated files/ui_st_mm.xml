@@ -71,6 +71,7 @@
 <string id="ui_mm_multiplayer"><text>-</text></string>
 <string id="ui_mm_multiplayer_n"><text>-</text></string>
 <string id="ui_mm_music_volume"><text>Music Volume</text></string>
+<string id="ui_mm_exo_volume"><text>Exosuit Volume</text></string>
 <string id="ui_mm_need_restart"><text>Changes will take effect only after restarting the game!</text></string>
 <string id="ui_mm_newgame"><text>New Game</text></string>
 <string id="ui_mm_new_opt"><text>Additional settings for any difficulty level</text></string>
@@ -207,6 +208,8 @@
 <string id="ui_mm_r2_image_sharpening"><text>Image Sharpening</text></string>
 <string id="ui_mm_r3_volumetric_smoke"><text>Volumetric Smoke</text></string>
 <string id="ui_mm_r4_enable_tessellation"><text>Tessellation</text></string>
+<string id="ui_mm_mblur"><text>Motion Blur</text></string>
+<string id="ui_mm_mblur_param"><text>Motion Blur Intensity</text></string>
 <string id="ui_mm_r__bloodmarks"><text>Bloodmarks</text></string>
 <string id="ui_mm_r2_details_opt"><text>Grass Optimization</text></string>
 <string id="ui_mm_r2_gbuffer_opt"><text>Shader Optimization</text></string>
@@ -258,12 +261,10 @@
 <string id="ui_mm_g_show_dyn_desc_wnd"><text>Dynamic description popup</text></string>
 <string id="ui_mm_g_show_dyn_desc_wnd_desc"><text>When hovering over an item in the inventory, a window will open with a detailed description of the item: suit and weapon stats, medical and food properties, repair kit contents, flask volume, and much more.</text></string>
 <string id="ui_mm_disable_cam_inert_desc"><text>When enabled, camera bobbing will be disabled regardless of the character's state.</text></string>
-<string id="ui_mm_movement_speed_multiplier"><text>Movement speed multiplier</text></string>
-<string id="ui_mm_movement_speed_multiplier_desc"><text>The number by which the character's total speed is multiplied. For example, if the character is tired, they will still move slower than normal, but faster relative to lower multiplier values.</text></string>
 <string id="ui_mm_g_hide_untradable_items"><text>Hide untradable items</text></string>
 <string id="ui_mm_g_hide_untradable_items_desc"><text>Items in the trade window that the NPC will not buy for various reasons will be hidden.</text></string>
 
-<string id="video_settings_name_1"><text>Multisample anti-aliasing - r3_msaa</text></string>
+<string id="video_settings_name_1"><text>Motion Blur - r2_mblur_enable</text></string>
 <string id="video_settings_name_2"><text>Visibility distance - rs_vis_distance</text></string>
 <string id="video_settings_name_3"><text>Object LOD - r__geometry_lod</text></string>
 <string id="video_settings_name_4"><text>Grass density - r__detail_density</text></string>
@@ -292,7 +293,7 @@
 <string id="video_settings_name_29"><text>Sun shaft type - r_sunshafts_mode</text></string>
 <string id="video_settings_name_67"><text>Sun lens flares - r_lens_flare</text></string>
 <string id="ui_mm_r2_sun_quality"><text>Soft sun shadows</text></string>
-<string id="video_settings_name_31"><text>Soft water edges - r2_soft_water</text></string>
+<string id="video_settings_name_31"><text>Motion Blur Intensity - r2_mblur</text></string>
 <string id="video_settings_name_32"><text>Soft particles - r2_soft_particles</text></string>
 <string id="video_settings_name_33"><text>Soft shadow edges - r2_soft_shadows</text></string>
 <string id="video_settings_name_34"><text>Soft lamp shadows - r2_lights_shadow_fade</text></string>
@@ -329,8 +330,11 @@
 <string id="video_settings_name_64"><text>3D Scope FPS - g_3d_scopes_fps_factor</text></string>
 
 <string id="video_settings_name_65"><text>Visor edge reflections - r2_visor_refl</text></string>
+<string id="video_settings_name_66"><text>Helmet Shader Effect - r2_mask</text></string>
+<string id="video_settings_desc_66"><text>An effect that creates distortions on the helmet visor. The texture-based helmet will function regardless of this option.</text></string>
+<string id="ui_mm_r2_mask"><text>Helmet</text></string>
 
-<string id="video_settings_desc_1"><text>MSAA is a very demanding yet high-quality type of anti-aliasing. It effectively smooths wires, vegetation, and semi-transparent geometry.</text></string>
+<string id="video_settings_desc_1"><text>Motion blur — blurs the image when rotating the camera, during motion sequences, or with fast-moving objects.</text></string>
 <string id="video_settings_desc_2"><text>This setting adjusts the multiplier for the maximum visibility distance defined in the current weather profile. The range is from 0.4 (minimum slider) to 1.5 (maximum slider). For example, if the weather sets visibility to 150 meters, at minimum you will see 60 meters, and at maximum 225 meters. WARNING! High visibility distance can significantly reduce performance on older PCs.</text></string>
 <string id="video_settings_desc_3"><text>This setting adjusts the level of detail for rendering and lighting of human models, monsters, and weapons. The further the slider, the more detailed they will appear at a distance.</text></string>
 <string id="video_settings_desc_4"><text>This setting adjusts how densely grass tufts are rendered. The further the slider, the closer the grass elements will be to each other, making it thicker. WARNING! Excessive grass density leads to severe lag; adjust this parameter gradually and check the results.</text></string>

@@ -2857,11 +2857,11 @@
 <string id="text_kuz_vodka_1"><text>Give me one bottle for now, we'll see then...</text></string>
 <string id="text_kuz_vodka_2"><text>Give me couple bottles for now, we'll see then...</text></string>
 <string id="text_kuz_vodka_3"><text>Give me three bottles, haven't brought medkits in a while...</text></string>
-<string id="text_kuz_vodka_4"><text>Give me four, almost no medkits left in battalion warehouse...</text></string>
+<string id="text_kuz_vodka_4"><text>Give me four bottles, almost no medkits left in battalion warehouse...</text></string>
 <string id="text_kuz_vodka_5"><text>Give me five bottles, medkits are in terrible shortage...</text></string>
 <string id="text_sher_vodka_1"><text>Give me one bottle for now, you'll get a grenade... Deal?</text></string>
 <string id="text_sher_vodka_2"><text>Give me three bottles, haven't brought grenades in a while...</text></string>
-<string id="text_sher_vodka_3"><text>Give me four, almost no grenades left in warehouse...</text></string>
+<string id="text_sher_vodka_3"><text>Give me four bottles, almost no grenades left in warehouse...</text></string>
 <string id="text_sher_vodka_4"><text>Give me five bottles, grenades are in terrible shortage...</text></string>
 <string id="st_100_ammo_5_56"><text>100 rounds of 5.56x45_ss190.</text></string>
 <string id="st_50_ammo_5_56"><text>50 rounds of 5.56x45_ap.</text></string>
@@ -2961,7 +2961,7 @@
 <string id="sakm.roll_ochko_npc_3"><text>%%c[255,216,186,140]So %s%%c[255,216,186,140], plus what was %s before\nTotal %s\n%%c[255,216,186,140]Rolling another! You mind?</text></string>
 <string id="sakm.roll_ochko_npc_4"><text>%%c[255,216,186,140]I got %s\n%%c[255,216,186,140]Let's keep going...\nRight?</text></string>
 <string id="sakm.roll_ochko_npc_5"><text>%%c[255,216,186,140]Well now... %s%%c[255,216,186,140], and was %s\nTotal %s\n%%c[255,216,186,140]Won't roll more, let's stay where we are...</text></string>
-<string id="sakm.roll_ochko_npc_6"><text>%%c[255,216,186,140]Well now... %s\n%c[255,216,186,140]Won't roll more, let's stay where we are...</text></string>
+<string id="sakm.roll_ochko_npc_6"><text>%%c[255,216,186,140]Well now... %s\n%%c[255,216,186,140]Won't roll more, let's stay where we are...</text></string>
 <string id="sakm.roll_ochko_npc_7"><text>%%c[255,216,186,140]Well now... %s%%c[255,216,186,140], and was %s\nTotal %s\n%%c[255,216,186,140]I won! Marked One's hard-earned cash sailed away...</text></string>
 <string id="sakm.roll_ochko_npc_8"><text>%%c[255,216,186,140]Aha! Well... %s\n%%c[255,216,186,140]I won! Marked One's hard-earned cash sailed away...</text></string>
 <string id="sakm.esc_bio_1_1_1"><text>He's in charge here at the camp, teaching the rookies and protecting them. He's wandered the Zone plenty, experience isn't lacking. There are rumors he's planning to retire and has stashed a decent loot somewhere nearby. Some have even tried to get him to spill about it, but he's silent as a fish... Petruha once let slip when drunk that Wolf hid the main part of his loot at Forgotten Village. Would love to take a look at what's there. Bet no one else has anything like it...</text></string>
@@ -3249,6 +3249,7 @@
 <string id="timer_return_x18_end"><text>Stalkers, if you want to take a risk but get a worthy reward, come in!\nMarked One, this concerns you first of all</text></string>
 <string id="max_things_attantion"><text>Guys, if anyone near Army Warehouses is heading to Cordon - come to Freedom base, there's business...</text></string>
 <string id="ivancov_case_good"><text>Marked One, when you're at Bar - come by, let's talk!</text></string>
+<string id="ivancov_case_trade_msg"><text>Marked One, even though you refused the reward for the courier's case, I want you to know: Duty remembers those who helped it.\nStop by Petrenko one of these days. I've arranged for you to have access to purchasing certain ammunition, as well as a discount on the rest of his stock.</text></string>
 <string id="ivancov_sms_h"><text>Message from Ivancov</text></string>
 <string id="info_borov_11"><text>Marked One, they told me you were spotted in Dark Valley. Sakharov contacted me - says some expedition of theirs went missing there, and he needs the results of that expedition. So if you find something there - bring it to Sakharov!</text></string>
 <string id="add_sidor_info_kuzn"><text>Stalkers! Military is conducting a raid in Valley - don't go there. One of the squads in the cordon is commanded by our good acquaintance from under the bridge. Asked not to get caught in the area of passage from Valley to Garbage...</text></string>
@@ -3668,5 +3669,9 @@
 <string id="time_desc_9"><text>Whole day</text></string>
 <string id="time_desc_10"><text>More than day</text></string>
 <string id="time_desc_11"><text>About %d minutes</text></string>
-
+<string id="pda_battery_status_msg"><text>PDA Battery Status</text></string>
+<string id="esc_news"><text>Cordon News</text></string>
+<string id="bar_news"><text>Bar News</text></string>
+<string id="timer_kanistra_esc_end"><text>Stalkers, we've run out of fuel here at the Cordon. If you're looking to make some money, bring us jerry cans — we'll trade for ammo, medicine, food, vodka...</text></string>
+<string id="timer_kanistra_bar_end"><text>Stalkers, we've run out of fuel here at the Bar. If you're looking to make some money, bring us jerry cans — we'll trade for ammo, medicine, food...</text></string>
 </string_table>

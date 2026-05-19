@@ -163,6 +163,7 @@
 <string id="ui_inv_meters_s"><text>m</text></string>
 <string id="ui_inv_rate_of_fire"><text>Rate of fire</text></string>
 <string id="ui_inv_jump_height"><text>Jump height</text></string>
+<string id="ui_inv_move_speed"><text>Movement Speed</text></string>
 <string id="ui_inv_spasm_protection"><text>Psi-spasm protection</text></string>
 <string id="ui_inv_power_loss"><text>Stamina loss</text></string>
 <string id="ui_inv_energy_consumption"><text>Energy consumption</text></string>

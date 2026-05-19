@@ -61,6 +61,7 @@
 <string id="exs_pda"><text>Experimental PDA</text></string>
 <string id="enc_equipment_device_pda2"><text>A trial batch of PDAs for military personnel performing operations in underground laboratories.</text></string>
 <string id="enc_equipment_device_pda_gg"><text>Marked One's PDA. It's not working.</text></string>
+<string id="enc_equipment_device_pda_discharged_gg"><text>Marked One's PDA. Looks like the battery is completely dead.</text></string>
 <string id="x18_door3_code"><text>Scientist's Note</text></string>
 <string id="x18_door3_code_desc"><text>A note found on a scientist who died in the X-18 underground laboratory. One side contains various scientific gibberish, which nevertheless includes a description of an artifact modification method. On the other side, a code for some electronic lock is written: 26359.</text></string>
 <string id="yan_pda_name"><text>PDA found at Yantar</text></string>

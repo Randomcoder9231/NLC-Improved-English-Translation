@@ -83,4 +83,5 @@
 	<!-- string id="kb_cam_4"
 		textВид от третьего лица (psp)text
 	string -->
+<string id="kb_watch"><text>Check Watch</text></string>
 </string_table>
