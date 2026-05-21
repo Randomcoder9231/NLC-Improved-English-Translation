@@ -71,6 +71,7 @@
 <string id="ui_mm_multiplayer"><text>-</text></string>
 <string id="ui_mm_multiplayer_n"><text>-</text></string>
 <string id="ui_mm_music_volume"><text>Громкость музыки</text></string>
+<string id="ui_mm_exo_volume"><text>Громкость экзоскелетов</text></string>
 <string id="ui_mm_need_restart"><text>Изменения вступят в силу только после перезагрузки игры!</text></string>
 <string id="ui_mm_newgame"><text>Новая игра</text></string>
 <string id="ui_mm_new_opt"><text>Дополнительные настройки для любого уровня сложности</text></string>
@@ -207,6 +208,8 @@
 <string id="ui_mm_r2_image_sharpening"><text>Резкость изображения</text></string>
 <string id="ui_mm_r3_volumetric_smoke"><text>Объёмный дым</text></string>
 <string id="ui_mm_r4_enable_tessellation"><text>Тесселяция</text></string>
+<string id="ui_mm_mblur"><text>Размытие в движении</text></string>
+<string id="ui_mm_mblur_param"><text>Интенсивность размытия в движении</text></string>	
 <string id="ui_mm_r__bloodmarks"><text>Блудмарки</text></string>
 <string id="ui_mm_r2_details_opt"><text>Оптимизация травы</text></string>
 <string id="ui_mm_r2_gbuffer_opt"><text>Оптимизация шейдеров</text></string>
@@ -258,12 +261,12 @@
 <string id="ui_mm_g_show_dyn_desc_wnd"><text>Всплывающее окно описания</text></string>
 <string id="ui_mm_g_show_dyn_desc_wnd_desc"><text>При наведении на предмет в инвентаре, будет открыто окно с подробнейшим описанием предмета: характеристики костюмов, оружия, свойства медицины, еды, содержимое ремонтных ящиков, объём фляжки и многое другое.</text></string>
 <string id="ui_mm_disable_cam_inert_desc"><text>При включенной настройке раскачивание камеры не будет работать независимо от состояния ГГ.</text></string>
-<string id="ui_mm_movement_speed_multiplier"><text>Множитель скорости ГГ</text></string>
-<string id="ui_mm_movement_speed_multiplier_desc"><text>Множитель скорости ГГ - число, на которое будет умножено итоговое значение скорости ГГ в зависимости от его состояния. То есть, если персонаж устал, он всё-равно будет идти медленнее, чем в нормальном состоянии, но быстрее, относительно меньших значений множителя.</text></string>
 <string id="ui_mm_g_hide_untradable_items"><text>Скрытие непродаваемых предметов</text></string>
 <string id="ui_mm_g_hide_untradable_items_desc"><text>Предметы в окне торговли, которые по разным причинам не покупает НПС, не будут показаны.</text></string>
+<string id="ui_mm_hud_show_status_icons"><text>Отображать иконки состояния</text></string>
+<string id="ui_mm_hud_show_status_icons_desc"><text>Включает отображение иконок состояния персонажа на ХУДе: здоровье, кровотечение, облучение, сонливость, и т.д.</text></string>
 
-<string id="video_settings_name_1"><text>Multisample anti-aliasing - r3_msaa</text></string>
+<string id="video_settings_name_1"><text>Размытие в движении - r2_mblur_enable</text></string>
 <string id="video_settings_name_2"><text>Дальность видимости - rs_vis_distance</text></string>
 <string id="video_settings_name_3"><text>Детализация объектов - r__geometry_lod</text></string>
 <string id="video_settings_name_4"><text>Плотность травы - r__detail_density</text></string>
@@ -292,7 +295,7 @@
 <string id="video_settings_name_29"><text>Тип солнечных лучей - r_sunshafts_mode</text></string>
 <string id="video_settings_name_67"><text>Флары от солнца - r_lens_flare</text></string>
 <string id="ui_mm_r2_sun_quality"><text>Мягкие тени от солнца</text></string>
-<string id="video_settings_name_31"><text>Мягкие края воды - r2_soft_water</text></string>
+<string id="video_settings_name_31"><text>Интенсивность размытия в движении - r2_mblur</text></string>
 <string id="video_settings_name_32"><text>Мягкие частицы - r2_soft_particles</text></string>
 <string id="video_settings_name_33"><text>Мягкие края теней - r2_soft_shadows</text></string>
 <string id="video_settings_name_34"><text>Мягкие тени ламп - r2_lights_shadow_fade</text></string>
@@ -329,8 +332,11 @@
 <string id="video_settings_name_64"><text>FPS в 3D Прицелах - g_3d_scopes_fps_factor</text></string>
 
 <string id="video_settings_name_65"><text>Отражения по краям шлема - r2_visor_refl</text></string>
+<string id="video_settings_name_66"><text>Шейдерный эффект шлема - r2_mask</text></string>
+<string id="video_settings_desc_66"><text>Эффект, создающий искажения на стекле шлема. Текстурный шлем будет работать независимо от этой опции.</text></string>
+<string id="ui_mm_r2_mask"><text>Шлем</text></string>
 
-<string id="video_settings_desc_1"><text>MSAA - очень тяжелый и в тоже время очень качественный тип сглаживания. Качественно сглаживает провода, растительность, полупрозрачную геометрию.</text></string>
+<string id="video_settings_desc_1"><text>Motion blur - размытие изображения при повороте камеры, воспроизведении сцен движения или быстро движущихся объектов.</text></string>
 <string id="video_settings_desc_2"><text>Эта настройка регулирует величину, на которую умножается предельное расстояние видимости, установленное в профиле текущей погоды. Диапазон значений этой величины - от 0.4 (минимум ползунка) до 1.5 (максимум ползунка). Например, в погоде установлена дальность обзора 150 метров. На минимуме ползунка вы будете видеть на 60 метров, на максимуме на 225. ВНИМАНИЕ! Высокая дальность обзора может сильно снижать производительность старых ПК.</text></string>
 <string id="video_settings_desc_3"><text>Эта настройка регулирует детализацию прорисовки и освещения моделей людей, монстров и оружия в игре. Чем дальше ползунок, тем более детализованными они будут.</text></string>
 <string id="video_settings_desc_4"><text>Эта настройка регулирует насколько плотно отрисовываются кустики травы в игре. Чем дальше ползунок, тем ближе друг к другу будут отрисовываться элементы травы и тем гуще она будет. ВНИМАНИЕ! Чрезмерная густота травы приводит к сильным тормозам, если хотите отрегулировать этот параметр, делайте это понемногу, каждый раз проверяя что получилось.</text></string>

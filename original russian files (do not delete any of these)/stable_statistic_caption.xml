@@ -36,8 +36,9 @@
 <string id="flesh_normal"><text>Лесная плоть</text></string>
 <string id="flesh_strong"><text>Болотная плоть</text></string>
 
-<string id="zombie_weak"><text>Зомби</text></string>
-<string id="zombie_trup"><text>Разложившийся зомби</text></string>
+<string id="zombie_weak"><text>Голодный зомби</text></string>
+<string id="zombie_normal"><text>Разъярённый зомби</text></string>
+<string id="zombie_scientist"><text>Зомби-учёный</text></string>
 <string id="zombie_blow"><text>Взрывающийся зомби</text></string>
 
 <string id="snork_weak"><text>Снорк</text></string>

@@ -163,6 +163,7 @@
 <string id="ui_inv_meters_s"><text>м.</text></string>
 <string id="ui_inv_rate_of_fire"><text>Скорострельность</text></string>
 <string id="ui_inv_jump_height"><text>Высота прыжка</text></string>
+<string id="ui_inv_move_speed"><text>Скорость передвижения</text></string>
 <string id="ui_inv_spasm_protection"><text>Защита от пси-судорги</text></string>
 <string id="ui_inv_power_loss"><text>Потеря выносливости</text></string>
 <string id="ui_inv_energy_consumption"><text>Расход энергии</text></string>
