@@ -68,8 +68,8 @@
 <string id="plichko_rpk_done_42"><text>Take the machine gun… And what I wanted to know was about your gear—what kind of overseas countries it's being supplied from.</text></string>
 <string id="plichko_rpk_done_5"><text>Alright, here's how it is. Just don't flap your gums about it too much. Our commanders have connections in the structures of one not-so-small country. And, well… you get it? They ship various scientific devices to the big shots in the Swamps, and the crates have some clever markings on them. Our guys intercept those crates, stockpile them, and then—when needed—deliver them where they're supposed to go. Catch my drift? Here, take this suit—the manufacturer's markings are still on it, I grabbed it straight from the crate. We usually scrub those off later. And remember—I didn't tell you anything, and you didn't ask me anything!</text></string>
 <string id="plichko_rpk_done_6"><text>Through the Swamps, huh… Hm… Alright, see you around.</text></string>
-<string id="plichko_rpk_done_7"><text>Hey, wait up—you've bailed me out more than once now. Write this recipe down… for keeps.</text></string>
-<string id="plichko_rpk_done_8"><text>If you need anything, come by.</text></string>
+<string id="plichko_rpk_done_7"><text>Hey, hold on a sec. Write down this little recipe too... something to remember me by, you could say.</text></string>
+<string id="plichko_rpk_done_8"><text>Thank you. If you ever need anything, come find me.</text></string>
 
 <string id="sidor_outfit_done_0"><text>I met with the Dutyer. Had a nice, heart-to-heart talk.</text></string>
 <string id="sidor_outfit_done_1"><text>Well? Don't drag it out. Where do they get their gear from? Find out?</text></string>
@@ -1644,7 +1644,7 @@
 <string id="shurup_instrument_start_2"><text>Soon there won't be anything left to tangle, you'll drink it all away, brains included.</text></string>
 <string id="shurup_instrument_start_3"><text>You're wrong, Marked One. I've more or less grasped the principle, the noggin's still working. I just need narrowly specialized tools, for fine tuning and calibration. Where are you supposed to find those in the Zone? I tried working with what I had, but only messed everything up.\nMaybe you could swing by Sidorovich, and grab some vodka while you're at it?</text></string>
 <string id="shurup_instrument_start_4"><text>Have you lost your mind, pal?!</text></string>
-<string id="shurup_instrument_start_5"><text>You got me wrong. I ordered the tools from Sidorovich. He opened a line of credit for me a long time ago, and I help him out from time to time... with various things. I figure my limit isn't used up yet, so I'm just asking you to work a bit as a courier. Well, if it turns out to be short by a bit, you can top it up from your own, alright?\nAnd once I've got the tools, I'll upgrade some gun for you free of charge. For example, right now I'm getting my hand in on pump-actions. Our guys just got a batch of new shotguns, and I'm planning to convert them to semi-auto fire. It'll be a killer piece, high rate of fire. And considering the magazine capacity — any critter's done for. Cool, right? So, will you help?</text></string>
+<string id="shurup_instrument_start_5"><text>You misunderstood. I ordered some tools from Sidorovich. He opened a line of credit for me a while back, and I help him out from time to time... with various things. I think my limit's not quite used up yet, so I'm just asking you to do a little courier run. And if it comes up a bit short, just top it off from your own pocket, alright?\nOnce I've got the tools, I'll upgrade a weapon of your choice for free. For instance, right now I'm getting the hang of drum-fed shotguns. Our guys just got a new batch of shotguns in, and I'm planning to tinker with them. They're going to pack one hell of a punch — high rate of fire. And given the magazine capacity, any creature is done for. Pretty cool, right? So, are you in?</text></string>
 <string id="shurup_instrument_start_61"><text>If I'm at Sidorovich's, I'll ask about your tools.</text></string>
 <string id="shurup_instrument_start_62"><text>Getting his hand in, huh... Find someone younger to run to the Cordon.</text></string>
 <string id="shurup_instrument_start_71"><text>That's great then. And grab some vodka too, yeah?</text></string>
@@ -1756,6 +1756,21 @@
 <string id="voron_upgrade_kit_done_dlg_2"><text>I'm telling you, it's brand new — everything as agreed. But go on, check it, I don't mind.</text></string>
 <string id="voron_upgrade_kit_done_dlg_3"><text>Yep, everything's in perfect order. Here's your weapon kit and the promised ammo bonus. A pleasure doing business with you, Marked One.</text></string>
 <string id="voron_upgrade_kit_done_dlg_4"><text>You all say that, but once you ask for something... Ah, forget it. See you around.</text></string>
+
+<string id="tex_shurup_mtv_upgrade_article"><text>Shurup will agree to expand the ammo pouch capacity on my vest, provided I pay him $2000 and throw in five bottles of vodka.</text></string>
+<string id="shurup_mtv_upgrade_dlg_0"><text>Hey, thinker, take a break from whatever you're doing for a minute — got a question for you.</text></string>
+<string id="shurup_mtv_upgrade_dlg_1"><text>Yeah?</text></string>
+<string id="shurup_mtv_upgrade_dlg_21"><text>I noticed a few of your guys wearing an interesting vest. Looks like a regular army one from the outside, same as mine, but something about it catches the eye — some unusual detail. What's different about them?</text></string>
+<string id="shurup_mtv_upgrade_dlg_22"><text>It's about the pouches on the vest...</text></string>
+<string id="shurup_mtv_upgrade_dlg_31"><text>Nothing's wrong with them. I just worked my magic on the ammo pouches a bit — swapped some out for higher-capacity ones. It's a modular system, so swapping them is no trouble. Bet you want that upgrade too, don't you?</text></string>
+<string id="shurup_mtv_upgrade_dlg_32"><text>Made up your mind? I set a kit aside especially for you. Got the money and the vodka?</text></string>
+<string id="shurup_mtv_upgrade_dlg_41"><text>He even has to ask! And how much do you charge?</text></string>
+<string id="shurup_mtv_upgrade_dlg_42"><text>Haven't scraped it all together yet, but I will soon. Just make sure you don't let go of what you set aside.</text></string>
+<string id="shurup_mtv_upgrade_dlg_5"><text>Normally this is only for our own guys, but... Alright, you've helped me out a lot, so I'll give you a fair price: two grand in green and at least five bottles of vodka. Understand, I'm not greedy, but these pouches don't fall from the sky — I have to buy them off the military for hard currency. And the vodka's for courage. I've still got to deal with Lukash giving me grief for breaking orders...</text></string>
+<string id="shurup_mtv_upgrade_dlg_611"><text>I've got both the money and the vodka on me. How long will this so-called "upgrade" of yours take?</text></string>
+<string id="shurup_mtv_upgrade_dlg_612"><text>Oh, damn! I was counting on a discount for old times' sake. Let's come back to this conversation later.</text></string>
+<string id="shurup_mtv_upgrade_dlg_7"><text>I'll have it done in a flash... just a sec... take this off... put this in... snap it in. Yep, done. Enjoy!</text></string>
+<string id="shurup_mtv_upgrade_dlg_8"><text>Now that's more like it! Now you can load a full combat loadout for two weapons at once.</text></string>
 <!-- upir -->
 <string id="tex_barmen_upir"><text>Find the stalker known by the nickname Ghoul and learn from him about the fate of his partner</text></string>
 <string id="barmen_upir_dialog_start_0"><text>You look darker than a storm cloud today.</text></string>
@@ -1953,7 +1968,7 @@
 <string id="serafim_dialog_done_31"><text>Hold on... Over at Yantar, some nerd managed—don't ask me how—to dig up information on a certain recipe. Sorry I didn't remember it right away, had other things on my mind. I'm no expert in this stuff, but among stalkers, as I understand it, such information is in high demand. That nerd swore, though he was drunk at the time, that if you cook up some artifact using that recipe, you can practically walk around the Tesla in your underwear. I'll send it to your PDA, and after that it's up to you.\nAnd I also heard, out of the corner of my ear, that you're looking for Ghost?</text></string>
 <string id="serafim_dialog_done_32"><text>Hold on... I was packing my things, it's time for me to head home. I don't need a second weapons loadout anymore, so take the rifle and the ammo for it.\nAnd I also heard, out of the corner of my ear, that you're looking for Ghost?</text></string>  
 <string id="serafim_dialog_done_4"><text>Ghost? I am. Have you seen him or know something?</text></string>
-<string id="serafim_dialog_done_5"><text>Just a couple of days after you saved me in the Red Forest, I ran into him. And he was heading—at least that was the talk—to the Tesla. Why the hell did he go there? Whether that helps you or not, I don't know.</text></string>
+<string id="serafim_dialog_done_5"><text>A couple of days before you rescued me in the Red Forest, I ran into him by chance at the Warehouses. We chatted for a bit at a stalker camp, near an old bus stop. He was apparently heading to the Tesla. What the hell drove him there? Whether that helps you or not, I don't know.</text></string>
 <string id="serafim_dialog_done_6"><text>Slippery one. To the Tesla, then... Farewell, Seraphim-12.</text></string>
 <!-- Ivar_new -->
 <string id="ivar_start_new_dialog_101"><text>Mmm...</text></string>

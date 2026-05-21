@@ -775,18 +775,16 @@ So. 1. The required anomalous formations are needed. 2. Their required combinati
 <string id="marsh_lampa_dialog_0"><text>Pakhom, you’re the quartermaster. You must have everything.</text></string>
 <string id="marsh_lampa_dialog_1"><text>Everything or not, but I do have some things.</text></string>
 <string id="marsh_lampa_dialog_2"><text>I need a scanner part, for the “Epson...” model. Can you help?</text></string>
-<string id="marsh_lampa_dialog_3"><text>Hm. I do have such a scanner, and spare parts for it too... You really need it?</text></string>
+<string id="marsh_lampa_dialog_3"><text>I've got that scanner, and I've got parts for it too, but the last one's sitting in storage — so you understand, I can't just hand it over... What, do you really need it that badly?</text></string>
 <string id="marsh_lampa_dialog_4"><text>Honestly, very much.</text></string>
-<string id="marsh_lampa_dialog_5"><text>No need to say it. I can already see it—you’re fussing, sweating, hands shaking... Did you leave anything for preservation? I mean monster stuff.</text></string>
+<string id="marsh_lampa_dialog_5"><text>Well... in principle, we could work something out... under certain conditions. Have you left anything with us for preservation? I'm talking about monster bits.</text></string>
 <!-- "info_kontr_save" "info_gig_save" "info_polter_save" "info_kidney_save" -->
-<string id="marsh_lampa_dialog_41"><text>I did, we can take a look.</text></string>
-<string id="marsh_lampa_dialog_51"><text>Don’t worry, we’ll take a look. You hand over a preserved monster part to us for scientific purposes, and I give you the scanner part. Deal?</text></string>
-<string id="marsh_lampa_dialog_61"><text>No objections. Especially since I won’t need them anymore.</text></string>
-<string id="marsh_lampa_dialog_42"><text>No, but tell me what you need. We’ll do it.</text></string>
-<string id="marsh_lampa_dialog_52"><text>“We’ll do it,” he says. If you haven’t left anything worthwhile in our stores so far, when exactly are you going to do it now? Wait for you? We’ll have to shake down other stalkers, see who left us what.</text></string>
-<string id="marsh_lampa_dialog_62"><text>What if I have something fresh? Won’t that work?</text></string>
-<string id="marsh_lampa_dialog_72"><text>Our assistants need a part that’s been lying in that preservative for a long time. They discovered that the cells under that preservative started to... well... rege—break your tongue saying it. Rejuvenating—there! Anyway, it has to be preserved monster stuff. Fresh won’t do.</text></string>
-<string id="marsh_lampa_dialog_82"><text>You’d better be careful with science, or you might end up like that—“splash into the cauldron and boiled there.”</text></string>
+<string id="marsh_lampa_dialog_61"><text>I have, we can take a look.</text></string>
+<string id="marsh_lampa_dialog_62"><text>No, but tell me what you need and I'll get it done. I mean I'll bring you a fresh sample, and you can pickle it however you need.</text></string>
+<string id="marsh_lampa_dialog_71"><text>Don't worry, we'll have a look. Here's the deal then. You hand over a preserved mutant part for research purposes, and I give you the scanner component. Agreed?</text></string>
+<string id="marsh_lampa_dialog_72"><text>He'll get it done, sure... Our assistants need a part that's been sitting in that preservative for a good while. They've found that cells exposed to it develop accelerated regeneration properties over time... Anyway, that's beside the point. The main thing I want to get across is — your fresh sample is no use to them right now. And you won't interest them with anything else at the moment, I'm afraid. So we're back to square one.</text></string>
+<string id="marsh_lampa_dialog_81"><text>No problem at all. I won't be needing them anymore anyway.</text></string>
+<string id="marsh_lampa_dialog_82"><text>Shame. Looks like I'll have to go hunting for blanks for Zub after all.</text></string>
 <!-- new -->
 <string id="marsh_lampa_2_dialog_0"><text>About the scanner part?</text></string>
 <string id="marsh_lampa_2_dialog_1"><text>Marked One, we already talked it over. What kind of monster stuff do you have?</text></string>

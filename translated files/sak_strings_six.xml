@@ -891,6 +891,7 @@ Doctor of Agricultural Sciences Strizh P.D."
 <string id="gar_hellcar_new_start_253"><text>Only think about themselves. What kind of people! These thugs will kill everyone.\nNo time left at all, soon I think the bastards will come...\nWhat about you? Will you help? Or like the rest - sit in bushes?</text></string>
 <string id="gar_hellcar_new_start_2541"><text>Not that type. I'll try to help.</text></string>
 <string id="gar_hellcar_new_start_2542"><text>Sort it out yourselves, I got enough problems.</text></string>
+<string id="gar_hellcar_new_start_2552"><text>For some reason I was sure you wouldn't turn down a chance to help. You've got too much of a fighter's look about you. Well, looks can be deceiving, I guess. Ah, to hell with you then!</text></string>
 <string id="gar_hellcar_new_start_271"><text>They'll come soon, let's wait...</text></string>
 <string id="gar_hellcar_new_start_272"><text>Alright.</text></string>
 <string id="gar_hellcar_new_start_3031"><text>Thanks, friend, you helped us a lot. I got "Gravi" artifact... Take it for helping. What's your name?</text></string>
@@ -1640,9 +1641,11 @@ Doctor of Agricultural Sciences Strizh P.D."
 <string id="borov_key_dialog_1"><text>I can help arrange a meeting with him if you do something...</text></string>
 <string id="borov_key_dialog_11"><text>I was told that Borov got whacked... As for what he might have known, well...</text></string>
 <string id="borov_key_dialog_12"><text>I was told that Borov got whacked... And you were seen there. Confess, was it your doing? Probably took a big score? Yeah?</text></string>
+<string id="borov_key_dialog_13"><text>Not now. I've got problems up to my neck. Sort it out yourself. Only come to me if things get really desperate.</text></string>
 <string id="borov_key_dialog_2"><text>Can you be more specific?</text></string>
 <string id="borov_key_dialog_21"><text>Don't beat around the bush, let's be more specific...</text></string>
 <string id="borov_key_dialog_22"><text>Uh... I didn't take anything! I need to find out what Borov knew. Can you help?</text></string>
+<string id="borov_key_dialog_23"><text>If only I knew which way to "sort it out"...</text></string>
 <string id="borov_key_dialog_3"><text>More specific? Can be more specific...\nRecently I and several worthy people concluded a weapons and equipment supply contract. With whom, you ask? I answer: the less you know - the better you sleep.</text></string>
 <string id="borov_key_dialog_31"><text>More specific? Can be more specific...\nThere's one little guy who learned a lot of Borov's secrets. So you give me twenty grand, I give you a tip - where this rat can be found.</text></string>
 <string id="borov_key_dialog_32"><text>Playing coy? Your business. Why kill that guy if you need something from him now? Alright.\nThere's one little guy who learned a lot of Borov's secrets. So you give me a hundred grand, I give you a tip where this rat can be found.</text></string>
@@ -2327,16 +2330,18 @@ Doctor of Agricultural Sciences Strizh P.D."
 <string id="gar_dm_bandits_dialog_8_432"><text>Moonshine for him, you understand... I didn't have time. Wait, maybe I'll bring some.</text></string>
 <string id="gar_dm_bandits_dialog_8_51"><text>Oh! You! Can do it! Everything straight up: So basically, in early spring one of our pals grabbed some dude for a gig. Chatter-chatter, this and that and all that other stuff. The dude, turns out, was stealin' from one authority. Exactly from that same Ghost!</text></string>
 <string id="gar_dm_bandits_dialog_8_52"><text>What kinda skins... slimy. Really from flesh? Alright. You scratch my back - I scratch yours. One pal was runnin' his mouth that he knows where Ghost's place is with rich loot. Like he found a corpse in early spring, and there was a note on him from this same Ghost to one of his buddies. It was written there where and with what supplies he set up a stash. You dig?</text></string>
-<string id="gar_dm_bandits_dialog_8_53"><text>Come on, what're you startin'? Well, a guy had too much, happens to everyone! Or are you an ulcer patient? By the way, maybe we should have a drink right now?</text></string>
+<string id="gar_dm_bandits_dialog_8_54"><text>Come on, what're you startin'? Well, a guy had too much, happens to everyone! Or are you an ulcer patient? By the way, maybe we should have a drink right now?</text></string>
 <string id="gar_dm_bandits_dialog_8_61"><text>And then what?</text></string>
 <string id="gar_dm_bandits_dialog_8_62"><text>I dig, I'm not stupid. Get to the point.</text></string>
-<string id="gar_dm_bandits_dialog_8_63"><text>I'm starting to lose patience. Talk already!</text></string>
+<string id="gar_dm_bandits_dialog_8_64"><text>I'm starting to lose patience. Talk already!</text></string>
 <string id="gar_dm_bandits_dialog_8_71"><text>Huh? What-what... You made me lose my train of thought... Anyway! Ghost set up a place in the District Center and stored supplies there to make a run for Pripyat itself. You get it? District Center's way over there, so me and my buddies didn't bother making the trek. But for you, for your deeds, I'll spill, no question.\nOn the attic of a private house the loot's stashed, in a backpack. There's also workers' wagons on wheels abandoned nearby.\nIf you score big cash from this tip, don't forget about Nut, yeah?</text></string>
 <string id="gar_dm_bandits_dialog_8_72"><text>Don't rush me, you're just making me lose my train of thought.\nAnyway, talk to my buddy yourself! Crowbar's his handle. Debt collectors, as I heard, nabbed him.\nThough there's people who'll vouch for him, so maybe he's already out of the slammer... Ask him about that case yourself in general.</text></string>
-<string id="gar_dm_bandits_dialog_8_73"><text>Why you so nervous? Don't boil over, I'm being respectful! So basically, back in early spring I found this corpse. Like this dude was carrying a note from Ghost to his buddy. Well, blah-blah, Ghost described his stash in the District Center. Lots of supplies he supposedly prepared there to head to Pripyat. But where exactly - I didn't get. While I was figuring out what was scribbled there, blind dogs came, so I made tracks.\nOne thing I remembered - need to look for this loot in one of the apartments on the second floor of a half-destroyed Khrushchev building, facing Ilyich Square.\nIf you score big cash from this tip, don't forget about Nut, yeah?</text></string>
+<string id="gar_dm_bandits_dialog_8_73"><text>Don't rush me, you're throwing me off.\nAnyway, the place is in some Raytsentr. You don't know what a Raytsentr is? Yeah, I'm lost on that one too. I can't remember exactly how my buddy was spinning the yarn, but what stuck in my head is this: look for a backpack on the roof of a half-collapsed Khrushchevka that overlooks some Ilyich. Which Ilyich exactly — God only knows.</text></string>
+<string id="gar_dm_bandits_dialog_8_74"><text>Why are you so wound up? Chill out, I'm being perfectly respectful! Anyway, back at the start of spring I found a body. Looked like some guy was carrying a note from Ghost to one of his buddies. Long story short, Ghost had sketched out his stash in the Raytsentr. Apparently he'd stocked up a load of supplies there, ready to head into Pripyat. Only I didn't catch exactly where. I was trying to figure out what was scrawled on it when a bunch of blind dogs showed up, so I legged it.\nOne thing I remembered — the loot's in one of the apartments on the second floor of a half-collapsed Khrushchevka facing Ilyich Square.\nIf you make a good haul from this tip, don't forget about Nut, yeah?</text></string>
 <string id="gar_dm_bandits_dialog_8_81"><text>Hmm... that's far. Alright, I'll check it out when I get the chance. Maybe it's really something worthwhile.</text></string>
 <string id="gar_dm_bandits_dialog_8_82"><text>I knew it wouldn't end with just hides. Crowbar, you're saying... I'll remember that.</text></string>
-<string id="gar_dm_bandits_dialog_8_83"><text>Hmm... that's far. Alright, I'll check it out when I get the chance. Later, boozer.</text></string>
+<string id="gar_dm_bandits_dialog_8_83"><text>Yeah... not much to go on, but I'll keep it in mind. Take it easy, drunkard.</text></string>
+<string id="gar_dm_bandits_dialog_8_84"><text>Hm... that's pretty far out. Alright, I'll check it when I get the chance. Take it easy, drunkard.</text></string>
 
 <string id="to_sidor_0"><text>Let me through to Sidorovich.</text></string>
 <string id="to_sidor_1"><text>Come in, don't be afraid, exit...\nWell, you know...</text></string>
@@ -2696,6 +2701,33 @@ Doctor of Agricultural Sciences Strizh P.D."
 <string id="dolgovazyi_torch_upgr_done_dlg_2"><text>Then I have good news for you. Managed to get three army body armors. Think there'll be enough plates in them for you to close the Duty order. Here they are, take them.</text></string>
 <string id="dolgovazyi_torch_upgr_done_dlg_3"><text>Thanks a lot! You really helped out. Yeah, this'll be more than enough for the order, and there'll be some left over.\nI promised you a powerful bulb for your flashlight, right? I'll do that in a flash... where are they now. Ah, here! Just a second, just a second... There, use it. And thanks again.</text></string>
 <string id="dolgovazyi_torch_upgr_done_dlg_4"><text>Thanks to you too. Well, stay healthy!</text></string>
+
+<string id="dolgovazyi_exo_start_dlg_0"><text>How do you like my getup, Lanky? Nice, isn't it?</text></string>
+<string id="dolgovazyi_exo_start_dlg_1"><text>Looks solid, sure, but how do you even take a leak in that thing? Seriously though, if I were a stalker, I'd go with something simpler. Keeping up with high-tech like that gets expensive.</text></string>
+<string id="dolgovazyi_exo_start_dlg_2"><text>Fair point. By the way, you know your way around these contraptions, right? Maybe you could show me the ropes a bit? Just the basics, at least. So I'm not running to the mechanics every time some ungreased gear starts squeaking like the whole suit's about to fall apart.</text></string>
+<string id="dolgovazyi_exo_start_dlg_3"><text>Could do, in principle. But do you actually know your stuff? Here, I've got a busted SEVA suit lying around. Any ideas how to patch it up?</text></string>
+<string id="dolgovazyi_exo_start_dlg_41"><text>Uh... well... maybe wrap some tape around it here... blue tape...</text></string>
+<string id="dolgovazyi_exo_start_dlg_42"><text>Nothing too complicated, really. This plate needs to be replaced entirely, seal this part up, and sew a patch over this hole.</text></string>
+<string id="dolgovazyi_exo_start_dlg_51"><text>That tells me everything, Marked One. Sorry, but with that level of repair knowledge, I can't help you. Get some experience under your belt first, then we'll come back to this.</text></string>
+<string id="dolgovazyi_exo_start_dlg_52"><text>I'd do it a bit differently myself, but you're thinking in the right direction. Alright, I think I can put together a crash course for you, but...</text></string>
+<string id="dolgovazyi_exo_start_dlg_61"><text>You're right, I really should start from the ground up.</text></string>
+<string id="dolgovazyi_exo_start_dlg_62"><text>Yeah, yeah, obviously nothing comes free. What do you want for the lessons?</text></string>
+<string id="dolgovazyi_exo_start_dlg_7"><text>I want a brand-new exoskeleton. The specific model doesn't matter — they're all more or less the same under the hood. We'll take it apart, I'll show you what's where, explain how to deal with minor faults, let you get your hands dirty yourself — under my supervision, of course. Might even give you a little test, heh. That's it. Whatever you haven't broken by the end, I keep for parts.</text></string>
+<string id="dolgovazyi_exo_start_dlg_81"><text>Makes sense that you'd learn on a real suit, but damn, it's not exactly something you pick up at the nearest clothing store. Have to figure out where to get a "spare" exoskeleton.</text></string>
+<string id="dolgovazyi_exo_start_dlg_82"><text>Give up an exoskeleton to learn how to fix one? Sounds like a great plan! No, no, and once more — no!</text></string>
+<string id="dolgovazyi_exo_article_name"><text>Training with Lanky</text></string>
+<string id="tex_dolgovazyi_exo_article"><text>Tired of running to the mechanics every time the exoskeleton has a minor breakdown. Worked out a deal with Lanky — he'll teach me the basics of maintaining these suits if I bring him one exoskeleton, any model, in top condition. I'll practice on it, and whatever survives in one piece goes to him for parts.</text></string>
+
+<string id="dolgovazyi_exo_done_dlg_0"><text>Lanky, are you still willing to teach me repair work?</text></string>
+<string id="dolgovazyi_exo_done_dlg_1"><text>What are you... A-a-ah! Exoskeleton upkeep and fixing minor faults on your own? So you actually got hold of a practice unit? And you're not sorry to part with it?</text></string>
+<string id="dolgovazyi_exo_done_dlg_21"><text>If I were, I wouldn't have come. Here, take a look — will this exo do?</text></string>
+<string id="dolgovazyi_exo_done_dlg_22"><text>You know, I just thought about it, and yeah, I actually am. Sorry to bother you.</text></string>
+<string id="dolgovazyi_exo_done_dlg_23"><text>Nah, nothing suitable's turned up yet. Just stopped by to remind you I'm still around and make sure the deal's still on.</text></string>
+<string id="dolgovazyi_exo_done_dlg_31"><text>Yeah, I said the model doesn't matter. Shall we get started then?</text></string>
+<string id="dolgovazyi_exo_done_dlg_32"><text>Alright, fair enough. Maybe it's for the best you changed your mind. I'm not much of a teacher anyway.</text></string>
+<string id="dolgovazyi_exo_done_dlg_4"><text>Let's get to it.</text></string>
+<string id="dolgovazyi_exo_done_dlg_5"><text>...</text></string>
+<string id="dolgovazyi_exo_done_dlg_6"><text>Now I know kung fu. As in, how to handle exoskeletons. Thanks, Vitaly.</text></string>
 
 <string id="dolgovjazyi_blockpost_case_0"><text>Know who makes cases like these?</text></string>
 <string id="dolgovjazyi_blockpost_case_1"><text>Open your eyes, Marked One, there's exactly the same one standing there. I sometimes craft them on order... For those who don't want their personal business accessible to the curious. I get these locks on special order.</text></string>
@@ -3082,10 +3114,10 @@ Doctor of Agricultural Sciences Strizh P.D."
 <string id="escape_trader_strelok_flash_dialog_3"><text>Don't you get it? I said: don't need junk. And this isn't a computer, it's also junk - Chinese crap. Vergas looked at it, says some port burned out there. I also needed to urgently read a flash drive from Nimble - looked for it, but couldn't... Had to send a reliable messenger to the Swamps. So this isn't for me.</text></string>
 <string id="escape_trader_strelok_flash_dialog_4"><text>Sorry, I wasn't aware.</text></string>
 
-<string id="barman_strelok_flash_dialog_0"><text>I found a flash drive, can you look at what's on it.</text></string>
-<string id="barman_strelok_flash_dialog_1"><text>I'm not interested in any small stuff.</text></string>
-<string id="barman_strelok_flash_dialog_2"><text>I'm not offering it either. I'm just curious if everything that was on it is readable? How can I find out?</text></string>
-<string id="barman_strelok_flash_dialog_3"><text>Go to Docent. He's our guy for this stuff. Just like little children! Show them everything and tell them everything. What's your own head for?</text></string>
+<string id="barman_strelok_flash_dialog_0"><text>I found a flash drive, can you look at what's on it?</text></string>
+<string id="barman_strelok_flash_dialog_1"><text>You see a computer around here somewhere? How am I supposed to check it for you?</text></string>
+<string id="barman_strelok_flash_dialog_2"><text>Fair enough. Any idea where I could get it checked?</text></string>
+<string id="barman_strelok_flash_dialog_3"><text>Go see Docent. He's the one for that sort of thing. Like a little kid, I swear! Gotta show him everything, explain everything...</text></string>
 <string id="barman_strelok_flash_dialog_4"><text>Don't grumble...</text></string>
 
 <string id="docent_strelok_flash_dialog_0"><text>I have a flash drive here. Here it is.</text></string>
@@ -4153,21 +4185,20 @@ Doctor of Agricultural Sciences Strizh P.D."
 <string id="mar_boryan_start_dialog_107"><text>Keep it, keep it. If anything - come to me. And if you're ever nearby on business - drop by, sometimes need to pass herbs to someone sick. You take them - you'll be thanked. You'll earn something.</text></string>
 <string id="mar_boryan_start_dialog_201"><text>What wind brought you to our Swamps? Health in order? Well okay...</text></string>
 
-<string id="mar_boryan_what_need_dialog_0"><text>Well, what do you usually need?</text></string>
-<string id="mar_boryan_what_need_dialog_1"><text>Me? Hmm... Nothing, I guess. I mean from what stalkers could offer.\nThough...\nThere's something I sometimes need. You heard about the local hunters' sausage?</text></string>
-<string id="mar_boryan_what_need_dialog_2"><text>Uh... Yeah, smells pretty strong...</text></string>
-<string id="mar_boryan_what_need_dialog_3"><text>Yeah, that's right. But for some healer recipes I invented, I need a broth from such sausage. So if you have their sausage, bring it, it'll be useful.</text></string>
-<string id="mar_boryan_what_need_dialog_4"><text>Really? And what in exchange?</text></string>
-<string id="mar_boryan_what_need_dialog_5"><text>I have a small supply of medicine. The soldiers here, nearby, by the tower, often drop by. Sometimes bloating, sometimes constipation, and sometimes diarrhea happens. I brew them decoctions, and they throw me some drugs. Drop by them if you haven't been yet, they're tight on food. Maybe you can help each other somehow.\nSo I'll trade sausage for medicine. Bring a couple sausages - get antirad or I'll give you an army medical kit. Agreed?</text></string>
-<string id="mar_boryan_what_need_dialog_6"><text>Hmm, I'll think about it. Maybe.</text></string>
+<string id="mar_boryan_what_need_dialog_0"><text>So what is it you usually need?</text></string>
+<string id="mar_boryan_what_need_dialog_1"><text>Me? Nothing much, I suppose. I mean, nothing that stalkers could offer.\nAlthough... there is one thing. You heard about the local hunters' sausage?</text></string>
+<string id="mar_boryan_what_need_dialog_2"><text>Uh... yeah, it does reek something fierce.</text></string>
+<string id="mar_boryan_what_need_dialog_3"><text>That it does. But some of the folk remedies I've put together call for a brew made from that sausage. So if you've got a spare link, bring it over — it'll come in handy.</text></string>
+<string id="mar_boryan_what_need_dialog_4"><text>And what do I get in return?</text></string>
+<string id="mar_boryan_what_need_dialog_5"><text>I've got a small stock of medicine. The soldiers posted nearby, over by the tower, stop in pretty often. Bloating, constipation, the runs — you name it. I brew them something for it, and they bring me supplies in return. Actually, go pay them a visit if you haven't yet. They're always hungry. Maybe you and them can work something out.\nAnyway, I trade sausage for medicine. Two links gets you an anti-rad or a military medkit. Deal?</text></string>
+<string id="mar_boryan_what_need_dialog_6"><text>I'll think about it.</text></string>
 
-<string id="mar_boryan_green_kolbasa_dialog_0"><text>I have hunting sausage...</text></string>
-<string id="mar_boryan_green_kolbasa_dialog_1"><text>Yeah, that's good. Medkit or antirad? What will you take?</text></string>
-<string id="mar_boryan_green_kolbasa_dialog_21"><text>Here's a couple sausages, I'll take the medkit.</text></string>
-<string id="mar_boryan_green_kolbasa_dialog_22"><text>I'll take antirad, here's a couple sausages.</text></string>
-<string id="mar_boryan_green_kolbasa_dialog_23"><text>I'll think about it for now. Maybe later.</text></string>
-<string id="mar_boryan_green_kolbasa_dialog_31"><text>Well, here, take the medkit. Maybe you have more sausages? Will you take medicine?</text></string>
-<string id="mar_boryan_green_kolbasa_dialog_32"><text>Yeah, here you go. I have more drugs. Well? Trading?</text></string>
+<string id="mar_boryan_green_kolbasa_dialog_0"><text>I need some medicine. Want to trade?</text></string>
+<string id="mar_boryan_green_kolbasa_dialog_1"><text>Sure thing. You want a medkit or anti-rad?</text></string>
+<string id="mar_boryan_green_kolbasa_dialog_21"><text>Here are a couple of sausage links — I'll take the medkit.</text></string>
+<string id="mar_boryan_green_kolbasa_dialog_22"><text>I need anti-rad. And here are the sausage links for you.</text></string>
+<string id="mar_boryan_green_kolbasa_dialog_23"><text>You know, I changed my mind. Some other time.</text></string>
+<string id="mar_boryan_green_kolbasa_dialog_3"><text>Alright, done. I can see it in your eyes — you want to grab something else too, don't you?</text></string>
 
 <string id="red_borzyi_pda_dialog_0"><text>You said you'd push PDAs for money?</text></string>
 <string id="red_borzyi_pda_dialog_1"><text>For a thousand bucks - I'll give five. For two grand, wholesale - a dozen. And for four grand - twenty-five devices.</text></string>
@@ -4382,6 +4413,7 @@ Doctor of Agricultural Sciences Strizh P.D."
 <string id="labx12_secret_room_code_name"><text>Duty post door code in X-12</text></string>
 <string id="art_collection_info1_name"><text>More carrying capacity</text></string>
 <string id="news/assemb_ready"><text>Artifact combination worked!</text></string>
+<string id="assemb_ready"><text>Combination successful!</text></string>
 <string id="marsh_tuzla_document_name"><text>Scientist's diary</text></string>
 <string id="enc_marsh_zapiska_1_name"><text>Research report No. 1134</text></string>
 <string id="enc_marsh_zapiska_2_name"><text>Research report No. 3185</text></string>

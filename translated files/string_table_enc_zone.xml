@@ -104,7 +104,7 @@
 <string id="af_eye_desc_6"><text>A degenerate "Eye" artifact.</text></string>
 
 <string id="af_battery"><text>"Jumper"</text></string>
-<string id="af_battery_desc"><text>%c[1,1,1,1]___%c[255,255,255,255]Jump increase  %c[255,1,255,1]+10\n%c[default]"Jumper," as you might have guessed, got its name due to its ability to affect the gravitational constant in a narrow cone along a vector perpendicular to the earth's surface, allowing its wearer to soar high into the air. There are also rumors that with this artifact, one can pass through any "Labyrinth" type anomaly.</text></string>
+<string id="artifact_battery_desc"><text>%c[1,1,1,1]___%c[255,255,255,255]Jump increase  %c[255,1,255,1]+10\n%c[default]"Jumper," as you might have guessed, got its name due to its ability to affect the gravitational constant in a narrow cone along a vector perpendicular to the earth's surface, allowing its wearer to soar high into the air. There are also rumors that with this artifact, one can pass through any "Labyrinth" type anomaly.</text></string>
 
 <string id="af_medusa_new"><text>"Gorgon Jellyfish"</text></string>
 <string id="af_medusa_new_desc"><text>An artifact that outwardly resembles a common "Jellyfish." The circumstances under which it appears are unclear. Experienced stalkers say that if you activate this artifact on your belt, you won't have to fear the sleep-inducing lullabies of the local cats.</text></string>
@@ -146,7 +146,7 @@
 <string id="af_pellicle_red"><text>A unique artifact that resembles a common "Pellicle" in appearance but is red in color. It possibly transmutes from a "Pellicle" when it falls into a "Snow" anomaly. It possesses the effect of protection against explosions, chemical burns, and telepathy.</text></string>
 
 <string id="af_dummy_spring"><text>"Ruby Spring"</text></string>
-<string id="af_red_dummy_spring"><text>%c[1,1,1,1]___%c[255,255,255,255]Jump increase  %c[255,1,255,1]+8\n%c[default]A unique artifact that resembles a common "Spring" in appearance but is red in color. It possibly transmutes from a "Spring" when it falls into a "Snow" anomaly. It possesses the effect of protection against impact, increases protection against bullets, and also significantly increases jump height.</text></string>
+<string id="artifact_red_dummy_spring_desc"><text>%c[1,1,1,1]___%c[255,255,255,255]Jump increase  %c[255,1,255,1]+8\n%c[default]A unique artifact that resembles a common "Spring" in appearance but is red in color. It possibly transmutes from a "Spring" when it falls into a "Snow" anomaly. It possesses the effect of protection against impact, increases protection against bullets, and also significantly increases jump height.</text></string>
 
 <string id="af_dummy_battery"><text>"Ruby Battery"</text></string>
 <string id="af_red_dummy_battery"><text>A unique artifact that resembles a common "Battery" in appearance but is red in color. It possibly transmutes from a "Battery" when it falls into a "Snow" anomaly. It possesses a protective effect against radiation, electricity, and ruptures.</text></string>

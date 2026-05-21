@@ -1455,11 +1455,9 @@ message: As usual, Mikhail, sending you the daily statistics. Please ask Gleb to
 <string id="val_dram_bandit_glavn_start_151"><text>So how's it goin'? Brought the artifacts? Look, the clock's tickin'.</text></string>
 <string id="val_dram_bandit_glavn_start_1521"><text>Choke on it... Give back the PDA.</text></string>
 <string id="val_dram_bandit_glavn_start_1522"><text>Not yet. Wait... and you'll definitely get it.</text></string>
-<string id="val_dram_bandit_glavn_start_1531"><text>Now you're talkin'! Here's your device. And stop starin' at me like a wolf. Everyone hustles as best they can. Here's a small compensation for you.</text></string>
-<string id="val_dram_bandit_glavn_start_1532"><text>Now you're talkin'! I see you already got yourself a new mobile? That's good, 'cause I accidentally dropped your old one, bye-bye to it, see what crap... I even thought of compensatin' at first, wouldn't be right otherwise, but since you're such a rich guy that you're already showin' off with a new one, then you'll manage, I guess. Maybe I can give you such a hookup.</text></string>
-<string id="val_dram_bandit_glavn_start_154"><text>What? Where'd you get this?</text></string>
-<string id="val_dram_bandit_glavn_start_155"><text>The guys spotted how an electric chimera flew into a "Burner" on the hill earlier. Got fried instantly, but we managed to cut a trophy off it. I know stalkers use this crap somehow, so I decided to unload it on you. If you're up for it, drop by later sometime, we'll have a chat. Maybe some opportunity will show up.</text></string>
-<string id="val_dram_bandit_glavn_start_156"><text>We'll see.</text></string>
+<string id="val_dram_bandit_glavn_start_1531"><text>You're alright! Here's your device back. And quit giving me that death stare. Everyone hustles how they can. If you ever need anything, swing by sometime and we'll talk. Maybe something'll come up.</text></string>
+<string id="val_dram_bandit_glavn_start_1532"><text>You're alright! I see you've already got yourself a new phone? Good, 'cause I kinda dropped your old one by accident — it's done for, see how it is... I even thought about compensating you at first, otherwise it ain't right, but since you're such a big shot already showing off a new one, you'll manage without it, I guess.\nGlad you're not jumping straight to giving me grief. I like guys who are cool and down to business. Hey, if you ever need anything, swing by sometime and we'll talk. Maybe something'll come up.</text></string>
+<string id="val_dram_bandit_glavn_start_154"><text>We'll see.</text></string>
 <string id="val_dram_bandit_glavn_start_201"><text>Benefactor! Wanna share more?</text></string>
 <string id="val_dram_bandit_glavn_start_202"><text>Yeah, I wanna! Give each one the maximum...</text></string>
 <string id="val_dram_bandit_glavn_start_203"><text>Don't make noise, cripple. You can see yourself, we're sittin' here without opportunities. Borov, the bastard, won't let us make much dough... Don't smirk. You're alive, and didn't lose that much loot. Rasp has a conscience too. And fo' real, maybe you'll still get a pile of loot. You'll have dough, booze and everything else plenty!</text></string>
@@ -1585,7 +1583,7 @@ message: As usual, Mikhail, sending you the daily statistics. Please ask Gleb to
 <string id="sultan_start_dialog_2062"><text>Currently in stock:\nSaiga-12M Carbine\nRemington 870 (FD) Shotgun</text></string>
 <string id="sultan_start_dialog_2063"><text>So, here's the list, choose:\nAK-103\nFN F2000 Tactical (FDE) Assault Rifle\nRPK-74(P) Machine Gun\nPKM Tactical Machine Gun\nMG36 Machine Gun</text></string>
 <string id="sultan_start_dialog_2064"><text>Got NATO and ours, see for yourself:\nSV-98 Rifle\nAWM-F Rifle\nSVD Rifle\nFN SCAR-H Rifle\nSVU-A Rifle\nSR-3M "Vykhr" Assault Rifle</text></string>
-<string id="sultan_start_dialog_2065"><text>Got NATO and ours, see for yourself:\n1P78 "Kashtan" Shooting Scope\nAimpoint Micro T-1 Collimator\nBarska ELECTRO SIGHT AC10632\nHK Schmidt Bender Optical Scope\nELCAN DR Optical Scope\nPSO-1 Optical Scope (4x magnification)</text></string>
+<string id="sultan_start_dialog_2065"><text>Got NATO and ours, see for yourself:\nAimpoint Micro T-1 Collimator\nBarska ELECTRO SIGHT AC10632\nHK Schmidt Bender Optical Scope\nELCAN DR Optical Scope\nPSO-1 Optical Scope (4x magnification)</text></string>
 <string id="sultan_start_dialog_20711"><text>What's the Vykhr like?</text></string>
 <string id="sultan_start_dialog_20712"><text>UMP? How's it performed in the Zone?</text></string>
 <string id="sultan_start_dialog_20712_2"><text>TDI KRISS Vector? Something new...</text></string>
@@ -1662,7 +1660,6 @@ message: As usual, Mikhail, sending you the daily statistics. Please ask Gleb to
 <string id="sultan_start_dialog_40"><text>I'll come another time, tight on artifacts...</text></string>
 <string id="sultan_start_dialog_41"><text>No, I'll manage for now...</text></string>
 
-<string id="sultan_start_dialog_31"><text>"Kashtan"? I'll take it......</text></string>
 <string id="sultan_start_dialog_32"><text>ELCAN? I'll take it of course...</text></string>
 <string id="sultan_start_dialog_33"><text>PSO-1? I'll take it I suppose...</text></string>
 <string id="sultan_start_dialog_34"><text>March Tactical? I'll take it...</text></string>
@@ -4115,6 +4112,8 @@ Subject: Available information on X-16.\n\n
 <string id="esc_oksana_start_dialog_1042"><text>Whatever, no big deal.</text></string>
 <string id="esc_oksana_start_dialog_1043"><text>Go home, Oksana. Otherwise you'll die here too.</text></string>
 <string id="esc_oksana_start_dialog_201"><text>Hello, Marked One. Have you heard anything new about Vlad?</text></string>
+<string id="esc_oksana_start_dialog_251"><text>Vlad's been gone a while now... I'm worried about him.</text></string>
+<string id="esc_oksana_start_dialog_252"><text>Be patient. I'm sure he'll turn up soon.</text></string>
 <string id="esc_oksana_start_dialog_301"><text>Hello. Everything alright? Good luck to you!</text></string>
 <string id="esc_oksana_start_dialog_302"><text>Thanks for the kind words.</text></string>
 <string id="esc_oksana_start_dialog_401"><text>How am I supposed to live now...</text></string>
@@ -4436,7 +4435,7 @@ Subject: Available information on X-16.\n\n
 <string id="rad_ivar_drug_start_dialog_106"><text>You don't look very scared? And I have one assignment that I need to try to complete. Who's your friend?</text></string>
 <string id="rad_ivar_drug_start_dialog_107"><text>Friend? Ah! No, I can't say about Ivar that he's a friend to me. He... He's a leader, he's the one people follow. But... Few can call him friend. He tries to help those who lost themselves. Those unfortunates whose mind was damaged by this very "Brain Scorcher" or other dangers of the Zone. And he'll achieve his goal, I know. Only I didn't dare accompany him to where he headed. And when he realized this, he said I should stay here and prepare everything necessary for his return. And I... I agreed...</text></string>
 <string id="rad_ivar_drug_start_dialog_108"><text>And this Ivar... He treats people, then?</text></string>
-<string id="rad_ivar_drug_start_dialog_109"><text>Well, if you consider zombies people... Before, yes, he seemed to try treating people too, psychos that is... He, I think, worked somewhere in a psychiatric clinic, or had some connections, can't say for sure. He himself didn't elaborate, but I heard in passing. A man came to him once, asking about some psychos. Ivar also told him about some clinic, and that man asked him to collect information about crazy people... I didn't pay attention because their conversation became strange, very specific: "deviations, diagnoses, symptoms, insulin, therapy...", blah-blah - incomprehensible. I stopped listening, but I gathered that Ivar understood what he was talking about. And that man also listened intelligently... \nWhy are you looking so glum? Boring topic, I agree. But you asked yourself...</text></string>
+<string id="rad_ivar_drug_start_dialog_109"><text>Well, if you consider zombies people... Before, yes, he seemed to try treating people too, psychos that is... He, I think, worked somewhere in a psychiatric clinic, or had some connections, can't say for sure. He himself didn't elaborate, but I heard in passing. A man came to him once, asking about some psychos. Ivar also told him about some clinic, and that man asked him to collect information about crazy people... I didn't pay attention because their conversation became strange, very specific: "deviations, diagnoses, symptoms, therapy...", blah-blah - incomprehensible. I stopped listening, but I gathered that Ivar understood what he was talking about. And that man also listened intelligently... \nWhy are you looking so glum? Boring topic, I agree. But you asked yourself...</text></string>
 <string id="rad_ivar_drug_start_dialog_110"><text>That's not the point, it's just I thought... You say Ivar passed information about psychos to that man? What was his name?</text></string>
 <string id="rad_ivar_drug_start_dialog_111"><text>How would I know! He didn't introduce himself, came and left. Some shady character, just confused Ivar. Ivar walked around all wound up after that: can't be, he says, that it's all for nothing. We must find it, he says... And I didn't tell you that Ivar passed something to him, I said that guy asked Ivar to gather the info he needed somewhere, even on a flash drive...</text></string>
 <string id="rad_ivar_drug_start_dialog_112"><text>Yes-yes... exactly on a flash drive. So there's something important there after all.</text></string>
@@ -4821,11 +4820,12 @@ Awaiting instructions.</text></string>
 <string id="lim_scaut_dialog_start_4092"><text>You washing your ears with compote or what? I said: no artifacts - go back where you came from.</text></string>
 <string id="lim_scaut_dialog_start_410"><text>Switch them off, I'm waiting.</text></string>
 
-<string id="bridge_guard_dialog_start_101"><text>What do you want? Need something from me?</text></string>
-<string id="bridge_guard_dialog_start_1021"><text>Just move aside, want to pass through.</text></string>
-<string id="bridge_guard_dialog_start_1031"><text>They walk here, and walk here... No peace at all...</text></string>
-<string id="bridge_guard_dialog_start_1022"><text>Just wanted to say hello...</text></string>
-<string id="bridge_guard_dialog_start_1032"><text>Huh? So what? You'd be better off going about your business... We'd all be healthier.</text></string>
+<string id="bridge_guard_dialog_start_101"><text>Yeah? What do you want?</text></string>
+<string id="bridge_guard_dialog_start_1021"><text>Step aside, I'm trying to get through.</text></string>
+<string id="bridge_guard_dialog_start_1022"><text>Nothing, just came to say hi...</text></string>
+<string id="bridge_guard_dialog_start_1031"><text>People coming and going... Can't get a moment's peace.</text></string>
+<string id="bridge_guard_dialog_start_1032"><text>Hey. So what do you want?</text></string>
+<string id="bridge_guard_dialog_start_201"><text>Give it a rest, will you?</text></string>
 <!-- new -->
 <string id="dt_kocherga_start_101"><text>Well, well! Look what showed up... What are you sniffing around for? Looking for business? What's your name? Your handle, like, what's your nickname?</text></string>
 <string id="dt_kocherga_start_102"><text>Dogs have handles, I have a name: Marked One. I'm looking for someone.</text></string>
@@ -5474,10 +5474,11 @@ Awaiting instructions.</text></string>
 <string id="lim_rashpil_start_dialog_208"><text>Uh-huh. Look how he's singing like a nightingale! Is this klondike at the Chernobyl plant or what? Maybe you'll even point out a shortcut there?</text></string>
 <string id="lim_rashpil_start_dialog_209"><text>Uh... so you already figured it out? Or just randomly hit the... sky? Here's the deal: I'll explain everything about this topic if you bring me and the boys an exoskeleton, the one you just mentioned. Brand new, unfucked with, and it's gotta suit us spades. We won't take anything from the "reds", that's beneath us, got it? I heard Borov's torpedoes dressed up in those little suits. Maybe you can get one from someone else in the brotherhood. You figure it out. So, good deal? Just think how much you'll lift there, from this klondike. For a tip like this, even two exos wouldn't be too much, eh?</text></string>
 <string id="lim_rashpil_start_dialog_2101"><text>Whoa whoa! Slow down! I'll try to hustle one somehow, so be it. Really wanna touch one of the Zone's most famous legends. If all this isn't bullshit, of course...</text></string>
-<string id="lim_rashpil_start_dialog_2102"><text>Whoa, hit the brakes! Stop loading me like some last sucker. Some people never learn. Watched too many American movies or greed's blowing your roof off... Ah, what's the point of feeding you our stalker sayings...</text></string>
+<string id="lim_rashpil_start_dialog_2102"><text>Whoa, whoa! Don't get ahead of yourself! I'll try to wrangle one somehow, fine. New or not new — we'll see how it goes. You can sort it out yourselves if needed. I'll let you in on a secret: I have absolutely no desire to do anything for you lot, given our history, but I really do want to get my hands on one of the most famous legends of the Zone. If this whole thing isn't just a scam, of course...</text></string>
+<string id="lim_rashpil_start_dialog_2103"><text>Woah, pump the brakes! Quit trying to play me like some gullible idiot. Some people never learn. Been watching too many American movies, or maybe greed's just fried your brain... Ah, what's the point in feeding you our stalker sayings anyway...</text></string>
 <string id="lim_rashpil_start_dialog_301"><text>So, how's it with the exo?</text></string>
 <string id="lim_rashpil_start_dialog_3021"><text>Got it. Had to haul plenty of heavy stuff myself, but I'm used to that by now. Here. Now tell me about the klondike, and make sure it's detailed.</text></string>
-<string id="lim_rashpil_start_dialog_3022"><text>Still empty-handed.</text></string>
+<string id="lim_rashpil_start_dialog_3023"><text>Still empty-handed.</text></string>
 <string id="lim_rashpil_start_dialog_303"><text>Now you delivered, eh! No, fo' real, you brought us such a score? You're a solid guy in life, no question! So listen up, I'll explain about the klondike like to family.\nThat science guy turned out to be talkative. Just acted smart at first, but we quickly straightened his brains out. Turns out the nerds didn't just wander to District Center for nothing. Like, it's convenient to observe remote corners of the Zone from there. So they were tracking with their instruments what's happening all the way at the plant itself. Says they recently detected a massive anomaly there, com-pa-ra-ble by some numbers to... anyway, forgot how he put it, but the gist is: where they burned through this anomaly, there should be a shitload of rare artifacts. They never saw anything like it before, so they figured this was that very klondike all stalkers drool over. They even have an idea that it can like wander from place to place, that's why it's so hard to find. But for now it's there and will stay at that spot for some time. Look here, I'll mark it on your PDA. There. How to get to the station itself, I got no fucking clue. But you probably know the whole deal, right?</text></string>
 <string id="lim_rashpil_start_dialog_304"><text>Yeah... should've expected that. All that's left is the small matter - getting to the plant.</text></string>
 <string id="lim_rashpil_start_dialog_401"><text>Ah, great, great, bro! How you doing?</text></string>
@@ -5485,6 +5486,7 @@ Awaiting instructions.</text></string>
 <string id="lim_rashpil_start_dialog_502"><text>Don't lean on the voice. Not impressive.</text></string>
 <string id="lim_rashpil_exo_article_title"><text>Vagrant problems</text></string>
 <string id="tex_lim_rashpil_exo_article"><text>To haul all the stolen goods for sale, Rasp needs a bandit exoskeleton in excellent condition. For this he promises to give a lead on what's supposedly an artifact klondike located at the plant. He learned about it from some scientist that Rasp's accomplices "mugged".</text></string>
+<string id="tex_lim_rashpil_exo_bonus_article"><text>To haul all the stolen goods for sale, Rasp needs a bandit exoskeleton. For this he promises to give a lead on what's supposedly an artifact klondike located at the plant. He learned about it from some scientist that Rasp's accomplices "mugged".</text></string>
 
 <string id="borov_rashpil_exo_start_dlg_0"><text>Borov, I got an unusual request for you. I saw several of your fighters in exoskeletons. How could I get my hands on one?</text></string>
 <string id="borov_rashpil_exo_start_dlg_11"><text>Considering your services to the brotherhood, Marked One, you'll get an exo... if we agree on the price. But I'll say right away: don't expect new, fresh-from-the-box armor. We're not "Bolshevichka" here, everything's made on a knee, same way it's fixed.</text></string>

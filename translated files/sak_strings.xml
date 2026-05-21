@@ -149,7 +149,7 @@
 
 <string id="ways_info_way100a_text"><text>To the Commander of the Defense Cordon Troops\nReport\nI hereby report: On 14.04.2012 at 22:00 during evening roll call, the absence of three servicemen from my unit stationed at the former "Agrokompleks" Research Institute was discovered. During questioning of the rest, the following facts were revealed: the missing servicemen repeatedly, taking advantage of lack of control from junior command staff, visited local trader Sidorovich, who supplied them with alcoholic beverages and narcotics.\nAccording to their fellow servicemen, during patrol duty they discovered an unidentified passage to the Cordon through the "Forgotten Village" territory. The location and approach to this passage are provided on the attached map-diagram.\nMy undertaken measures to search for the missing servicemen have yielded no results.</text></string>
 <string id="ways_info_way101a_text"><text>Information from the Guide:\nNot far beyond the former farm, there's a possibility to reach the "Agroprom" Research Institute through the Forgotten Village.</text></string>
-<string id="ways_info_way102a_text"><text>The scientist in the bunker, in gratitude for the case provided to him, pointed out a completely unknown path from the former "Agroprom" Research Institute to the research laboratory at Yantar.</text></string>
+<string id="ways_info_way102a_text"><text>A scientist in the bunker told me about a little-known route from the former Agroprom Research Institute to the research laboratory at Yantar.</text></string>
 <string id="ways_info_way103a_text"><text>According to documents stolen from the military base at the "Agroprom" Research Institute, the military planned to penetrate deep into the Zone through a newly opened path, one section of which passes through the X-16 research center, located near the scientists' bunker at Yantar.</text></string>
 <string id="ways_info_way104a_text"><text>Few know that beyond the railway depot of the "Rostok" factory begins a road by which you can reach the eastern edge of the "Red Forest". But only seasoned stalkers or truly dark individuals dare to walk there. And even then - not alone.</text></string>
 <string id="ways_info_way105a_text"><text>There is a passage from the Army Warehouses to the Red Forest. Probably, the military once used it. Now mercenaries have settled at the passage. Why - it's unclear.</text></string>
@@ -704,18 +704,18 @@
 <string id="tex_bar_dolg_petrenko_gaussgan"><text>\nThere is information that Fang made an unusual weapon. Petrenko asks to find it and bring it to him.</text></string>
 
 <string id="petrenko_electra_flash_start_dlg_0"><text>Messages have been circulating on the net that you might have work for a stalker.</text></string>
-<string id="petrenko_electra_flash_start_dlg_1"><text>It happens... sometimes. I want to test one theory. I learned a new recipe, but haven't tried it yet. You can get "Moonlight" from "Flash". Only I don't have "Flash". Bring me two artifacts right away, in case something goes wrong, and I'll either share the recipe with you or throw in some grenades for the underbarrel launcher.</text></string>
-<string id="petrenko_electra_flash_start_dlg_21"><text>There are plenty of these "Flash" artifacts, I'll bring them right now.</text></string>
+<string id="petrenko_electra_flash_start_dlg_1"><text>It happens... sometimes. I want to test a theory. I learned a new recipe but haven't tried it yet. Apparently you can get a "Moonlight" from a "Flash." Only I don't have a Flash. Bring two artifacts just in case something goes wrong, and I'll share either the recipe or give you a Kashtan scope. Optics aren't exactly easy to come by in the Zone, you probably know that yourself.</text></string>
+<string id="petrenko_electra_flash_start_dlg_21"><text>There are plenty of these "Flash" artifacts, I'll bring them soon.</text></string>
 <string id="petrenko_electra_flash_start_dlg_22"><text>Sorry, some other time.</text></string>
 <string id="petrenko_electra_flash_start_dlg_3"><text>Plenty like dirt, you say? Yeah, right. Anyway, I'm waiting for two artifacts from you.</text></string>
 
 <string id="petrenko_electra_flash_done_dlg_0"><text>About the "Flash" artifacts.</text></string>
-<string id="petrenko_electra_flash_done_dlg_1"><text>Found them?! You're fast as diarrhea. That's a joke. I didn't think anyone would be ready to give up artifacts for a trivial set of words.</text></string>
+<string id="petrenko_electra_flash_done_dlg_1"><text>You found one?! Fast as the runs, aren't you. Just a little joke. Didn't think anyone would be willing to hand over artifacts for a measly handful of words.</text></string>
 <string id="petrenko_electra_flash_done_dlg_21"><text>Take them already, joker.</text></string>
-<string id="petrenko_electra_flash_done_dlg_22"><text>Hmm... Indeed. Then I'll keep them for myself.</text></string>
-<string id="petrenko_electra_flash_done_dlg_3"><text>So what do you want - should I send you the recipe or give you grenades.</text></string>
-<string id="petrenko_electra_flash_done_dlg_41"><text>I need the recipe. It's interesting to see what will come out.</text></string>
-<string id="petrenko_electra_flash_done_dlg_42"><text>I'll take the grenades, they're more reliable.</text></string>
+<string id="petrenko_electra_flash_done_dlg_22"><text>Hm... Fair enough. I'll keep it for myself then.</text></string>
+<string id="petrenko_electra_flash_done_dlg_3"><text>So what do you want Ч the recipe, or some grenades.</text></string>
+<string id="petrenko_electra_flash_done_dlg_41"><text>I want the recipe. Curious to see what comes out of it.</text></string>
+<string id="petrenko_electra_flash_done_dlg_42"><text>I'll take the grenades Ч more reliable.</text></string>
 <string id="petrenko_electra_flash_done_dlg_51"><text>Then write down the recipe.\nFor your speed - you get a bonus. Write it down or just remember: you can get a rare artifact from an ordinary "Pellicle", for this you need to throw it into "Snow", and "Ruby Pellicle" allows you to remove a "Springboard" anomaly from your path.\nSince you're so responsible, maybe we can pull off one more job? Come back in a bit. We'll talk.</text></string>
 <string id="petrenko_electra_flash_done_dlg_52"><text>Grenades, so grenades... take some RGDs too. I always have plenty of them, as you put it - "like dirt". Open your backpack.\nAnd for your speed - you get a bonus. Write it down or just remember: you can get a rare artifact from an ordinary "Pellicle", for this you need to throw it into "Snow", and "Ruby Pellicle" allows you to remove a "Springboard" anomaly from your path.\nSince you're so responsible, maybe we can pull off one more job? Come back in a bit. We'll talk.</text></string>
 <string id="tex_bar_dolg_petrenko_electra_flash"><text>\nPetrenko asks to find him two "Flash" artifacts</text></string>
@@ -1942,7 +1942,6 @@
 <string id="volk_petruha_start_5"><text>More specific? If you happen to end up at Forgotten Village, ask around if this dove showed up there. If you meet him yourself - don't mention our conversation or my interest in his person. Now specific enough?</text></string>
 <string id="volk_petruha_start_6"><text>Fair enough. I'll look into it when I'm at the village. But you understand, I'm not promising anything.</text></string>
 
-<!-- ¬олк продолжение по тайнику на «’ -->
 <string id="volk_simbion_start_0"><text>I'm here on business. I saw Petruha at Forgotten Village.</text></string>
 <string id="volk_simbion_start_1"><text>You saw him?! So how is he there?</text></string>
 <string id="volk_simbion_start_2"><text>He's sitting with some stalkers, sipping vodka, complaining about his fate.</text></string>

@@ -41,17 +41,17 @@
 <string id="enc_zone_artifact_babka_4"><text>A unique absolute, improves telepathy susceptibility, magnificently protects against psi-cramps. Carry a lot, don't get tired.</text></string>
 <string id="artifact_babka_4"><text>%c[default]%c[1,1,1,1]___%c[255,255,255,255]Psi-cramp protection  %c[255,1,255,1]+90%\n%c[default]Absolute of the "Mama's Beads"-"Grandmother's Beads"-"Great-grandmother's Beads"-"Burer's Grandmother's Beads" artifact line</text></string>
 <string id="af_pudd_1"><text>"Fire Dummy"</text></string>
-<string id="enc_zone_artifact_pudd_1"><text>This modificate, in addition to neutralizing high temperatures, adds resistance to electricity for the person wearing it on their belt. But at the same time, it makes the body more susceptible to the effects of bullet and shrapnel wounds.</text></string>
-<string id="artifact_pudd_1"><text>Modificate of the "Dummy" artifact</text></string>
+<string id="enc_zone_artifact_pudd_1"><text>In addition to neutralizing high temperatures, this modificate grants the wearer resistance to electricity when carried on the belt, but in turn makes the body more susceptible to bullet and shrapnel wounds. Increases movement speed.</text></string>
+<string id="artifact_pudd_1"><text>%c[1,1,1,1]___%c[255,255,255,255]Movement Speed  %c[255,1,255,1]+5%\n%c[default]Modificate of the "Dummy" artifact</text></string>
 <string id="af_pudd_2"><text>"Bright Dummy"</text></string>
-<string id="enc_zone_artifact_pudd_2"><text>The result of the further evolution of the "Fire Dummy", the "Bright Dummy" reduces the body's susceptibility to electroshock and radiation accumulation. The only thing that remains unchanged for this mesomodificate is the negative indicators for bullet resistance and explosions.</text></string>
-<string id="artifact_pudd_2"><text>Mesomodificate of the "Fire Dummy" artifact.</text></string>
+<string id="enc_zone_artifact_pudd_2"><text>This mesmodificate shares the same properties as its "parent" artifact. The positive qualities (resistance to thermal and electrical effects, as well as increased movement speed) are more pronounced, while the negatives (reduced resistance to bullet and shrapnel wounds) are less severe.</text></string>
+<string id="artifact_pudd_2"><text>%c[1,1,1,1]___%c[255,255,255,255]Movement Speed  %c[255,1,255,1]+10%\n%c[default]Mesmodificate of the "Fire Dummy" artifact.</text></string>
 <string id="af_pudd_3"><text>"Lunar Dummy"</text></string>
-<string id="enc_zone_artifact_pudd_3"><text>The hypermodificate decently increases endurance, sensitivity to electroshock, and radiation removal.</text></string>
-<string id="artifact_pudd_3"><text>Hypermodificate of the "Bright Dummy" artifact.</text></string>
+<string id="enc_zone_artifact_pudd_3"><text>This hypermodificate shares the same properties as its "parent" artifact. The positive qualities (resistance to thermal and electrical effects, as well as increased movement speed) are more pronounced, while the negatives (reduced resistance to bullet and shrapnel wounds) are less severe.</text></string>
+<string id="artifact_pudd_3"><text>%c[1,1,1,1]___%c[255,255,255,255]Movement Speed  %c[255,1,255,1]+15%\n%c[default]Hypermodificate of the "Bright Dummy" artifact.</text></string>
 <string id="af_pudd_4"><text>"Pudding"</text></string>
-<string id="enc_zone_artifact_pudd_4"><text>The absolute well neutralizes electroshock and fire, increases endurance. May cause a feeling of hunger.</text></string>
-<string id="artifact_pudd_4"><text>Absolute of the "Dummy"-"Fire Dummy"-"Bright Dummy"-"Lunar Dummy" artifact line.</text></string>
+<string id="enc_zone_artifact_pudd_4"><text>This absolute provides strong protection against extreme heat and electric shock. Noticeably increases movement speed. No negative properties detected.</text></string>
+<string id="artifact_pudd_4"><text>%c[1,1,1,1]___%c[255,255,255,255]Movement Speed  %c[255,1,255,1]+20%\n%c[default]Absolute of the "Dummy"-"Fire Dummy"-"Bright Dummy"-"Lunar Dummy" artifact line.</text></string>
 
 <string id="af_dik_1"><text>"Porcupine"</text></string>
 <string id="enc_zone_artifact_dik_1"><text>Despite the fact that this modificate is very simple, the "Porcupine" has a high radiation blocking rate, increases jumping! The modificate slightly reduces endurance and increases bleeding, which is a fairly modest price for the ability to roam irradiated lands without fear of receiving a lethal dose of radiation.</text></string>

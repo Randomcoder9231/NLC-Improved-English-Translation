@@ -379,11 +379,12 @@
 <string id="trade_dialog_sherstyk_3"><text>Can you get an assault rifle or machine gun?</text></string>
 <string id="trade_dialog_sherstyk_4"><text>They say the military has unique medicines or products...</text></string>
 <string id="trade_dialog_sherstyk_5"><text>I heard you guys have good tactical gear...</text></string>
-<string id="trade_dialog_sherstyk_21"><text>Well... can trade for vodka:\n1. 5.45x39 mm cartridges for AK-74\n2. F-1 grenades\n3. For PKM machine gun 7.62x54 mm R ammo belts\n4. 7.62x39 mm cartridges for AKM\n5. Drum with 5.45x39 mm cartridges for RPK</text></string>
+<string id="trade_dialog_sherstyk_21"><text>Well... can trade for vodka:\n1. 5.45x39 mm cartridges for AK-74\n2. F-1 grenades\n3. RGO Grenades\n4. For PKM machine gun 7.62x54 mm R ammo belts\n5. 7.62x39 mm cartridges for AKM\n6. Drum with 5.45x39 mm cartridges for RPK</text></string>
 <string id="trade_dialog_sherstyk_54"><text>Don't need anything for now...</text></string>
 <string id="trade_dialog_sherstyk_22"><text>I'll take cartridges for AK-74...</text></string>
 <string id="trade_dialog_sherstyk_23"><text>Give me grenades, F-1 really helps against the evil...</text></string>
 <string id="trade_dialog_sherstyk_24"><text>For PKM? I'll take it, I guess...</text></string>
+<string id="trade_dialog_sherstyk_25"><text>RGO? The ones with the contact fuze? How much are you asking?</text></string>
 <string id="trade_dialog_sherstyk_55"><text>I'll take cartridges for AKM...</text></string>
 <string id="trade_dialog_sherstyk_56"><text>I'll take the drum for RPK...</text></string>
 <string id="trade_dialog_sherstyk_222"><text>I can give five packs of simple cartridges for three bottles.</text></string>
@@ -391,6 +392,8 @@
 <string id="trade_dialog_sherstyk_232"><text>Want grenades, you say?</text></string>
 <string id="trade_dialog_sherstyk_231"><text>Need grenades, otherwise I wouldn't even bother.</text></string>
 <string id="trade_dialog_sherstyk_242"><text>One crate of cartridges - six bottles.</text></string>
+<string id="trade_dialog_sherstyk_252"><text>Let me think for a sec...</text></string>
+<string id="trade_dialog_sherstyk_251"><text>For grenades like these, that's a fair price. I'm in.</text></string>
 <string id="trade_dialog_sherstyk_241"><text>Agreed...</text></string>
 <string id="trade_dialog_sherstyk_552"><text>I can give four packs of simple cartridges for four bottles.</text></string>
 <string id="trade_dialog_sherstyk_551"><text>Four packs, I'll take them.</text></string>
@@ -442,7 +445,7 @@
 <string id="trade_dialog_kuznezov_3"><text>Can you get an assault rifle or machine gun?</text></string>
 <string id="trade_dialog_kuznezov_4"><text>They say the military has unique medicines...</text></string>
 <string id="trade_dialog_kuznezov_5"><text>I heard people praise army tactical gear...</text></string>
-<string id="trade_dialog_kuznezov_21"><text>Well... can trade for vodka:\n1. 5.45x39 mm cartridges for AK-74\n2. RGD-5 grenades\n3. 7.62x39 mm cartridges</text></string>
+<string id="trade_dialog_kuznezov_21"><text>Well... can trade for vodka:\n1. 5.45x39 mm cartridges for AK-74\n2. RGD-5 grenades\n3. RGO Grenades\n4. 7.62x39 mm cartridges</text></string>
 <string id="trade_dialog_kuznezov_51"><text>Ha! Of course! Army means reliable. They just threw in a batch for special forces recently. With such you can carry half the RAV warehouse of our regiment on yourself. Not cheap mass production, you understand yourself... So it'll cost you twenty-five bottles. Can you handle it? And if you agree to donate what you're wearing to my exchange fund, then we'll bargain for a case.</text></string>
 <string id="trade_dialog_kuznezov_52"><text>Ha! Of course! Army means reliable. But right now I can't get you one, very few left in the warehouse, all under report. Maybe they'll throw in more later.</text></string>
 <string id="trade_dialog_kuznezov_511"><text>Deal. Hope it's worth it. Take them, exactly twenty bottles...</text></string>
@@ -453,12 +456,15 @@
 <string id="trade_dialog_kuznezov_22"><text>I'll take cartridges for AK-74...</text></string>
 <string id="trade_dialog_kuznezov_23"><text>Give me grenades, they really help against the evil...</text></string>
 <string id="trade_dialog_kuznezov_24"><text>For AKM? For AK-47? I'll take them, I guess...</text></string>
+<string id="trade_dialog_kuznezov_25"><text>RGO? The ones that go off on impact, right? Those are exactly what I need!</text></string>
 <string id="trade_dialog_kuznezov_222"><text>I can give five packs of simple cartridges for four bottles.</text></string>
 <string id="trade_dialog_kuznezov_221"><text>Five packs, I'll take them...</text></string>
 <string id="trade_dialog_kuznezov_232"><text>Two grenades - one vodka. You taking it?</text></string>
 <string id="trade_dialog_kuznezov_231"><text>Need grenades, otherwise I wouldn't even bother.</text></string>
 <string id="trade_dialog_kuznezov_242"><text>Regular cartridges - five bottles for four packs...</text></string>
 <string id="trade_dialog_kuznezov_241"><text>Agreed...</text></string>
+<string id="trade_dialog_kuznezov_252"><text>Everyone needs them, but not everyone's inner cheapskate agrees to sign off on the bill. Let me work it out...</text></string>
+<string id="trade_dialog_kuznezov_251"><text>Yeah, mine's strangling me too, but it's fine — I'll talk it into it somehow.</text></string>
 <string id="trade_dialog_kuznezov_666"><text>Alright, maybe next time...</text></string>
 <string id="trade_dialog_kuznezov_31"><text>There's a possibility to get AKS-74.</text></string>
 <string id="trade_dialog_kuznezov_32"><text>AKS-74? How much you asking?</text></string>
@@ -492,11 +498,11 @@
                                                                          <!-- Veins -->
 <string id="price_jila_text"><text>%c[255,160,160,160]Ammo:\n%c[default] 5.45x39 cartridges for Kalash - 150 regular for 5 canned foods\n RGD-5 grenades - one for 2 energy drinks\n 9x19 regular cartridges - 80 pieces for 3 cans of energy drink\n F-1 grenades - one for canned food and energy drink\n \n%c[255,160,160,160]Weapons:\n%c[default] SR-2MP "Veresk" submachine gun - for 15 canned foods\n "Bizon-2" submachine gun - 20 army rations\n SIG Sauer P250 pistol - 10 army rations\n Molot OP-SKS carbine - for 8 hunting sausages\n 9mm silencer - 5 hunting sausages\n \n%c[255,160,160,160]For health:\n%c[default] Medkits - one for 2 hunting sausages\n Vodka - bottle for 4 canned foods\n \n%c[255,160,160,160]For repair:\n%c[default] Armor repair kit - 3 cans of energy drink\n Weapon repair kit - pair for army ration\n \n%c[255,160,160,160]PDAs:\n%c[default] For one PDA - 10 canned foods or 5 fresh hunting sausages</text></string>
                                                                       <!-- Kuznetsov -->
-<string id="price_kuznezov_text"><text>%c[255,160,160,160]Ammo and equipment:\n%c[default] 5.45x39 cartridges - 150 regular for 4 vodkas\n RGD-5 grenades - from 1 bottle for 2 grenades\n 7.62x39 cartridges for AKM - 120 regular for 5 bottles\n \n%c[255,160,160,160]Weapons:\n%c[default] AKS-74 assault rifle - 10 bottles\n \n%c[255,160,160,160]Medicine:\n%c[default] Medkits - for now 2 regular for a bottle, then we'll see</text></string>
+<string id="price_kuznezov_text"><text>%c[255,160,160,160]Ammo and equipment:\n%c[default] 5.45x39 cartridges - 150 regular for 4 vodkas\n RGD-5 grenades - from 1 bottle for 2 grenades\n RGO Grenades — from 2 bottles each\n 7.62x39 cartridges for AKM - 120 regular for 5 bottles\n \n%c[255,160,160,160]Weapons:\n%c[default] AKS-74 assault rifle - 10 bottles\n \n%c[255,160,160,160]Medicine:\n%c[default] Medkits - for now 2 regular for a bottle, then we'll see</text></string>
                                                                               <!-- Sherstyuk -->
-<string id="price_sherstuk_text"><text>%c[255,160,160,160]Ammo and equipment:\n%c[default] 5.45x39 cartridges - 150 regular for 3 bottles\n F-1 grenades - for now piece for 1 bottle, then we'll see\n PKM machine gun belt (100 pcs) for 6 bottles\n 7.62x39 cartridges - 120 regular for 4 bottles\n Drum with 5.45x39 mm cartridges (95 pcs) for 2 bottles\n \n%c[255,160,160,160]Weapons:\n%c[default] Walther P99 pistol - from 8 bottles, then we'll see\n RPK-74 machine gun - from 20 bottles\n OTs-33 "Pernach" pistol - from 10 bottles for now\n AKM assault rifle - no less than 15 bottles\n \n%c[255,160,160,160]Army food and medicine:\n%c[default] Army medkits - now one for a bottle, then we'll see\n Ration - for 1 bottle for now</text></string>
+<string id="price_sherstuk_text"><text>%c[255,160,160,160]Ammo and equipment:\n%c[default] 5.45x39 cartridges - 150 regular for 3 bottles\n F-1 grenades - for now piece for 1 bottle, then we'll see\n RGO Grenades — from 2 bottles each\n PKM machine gun belt (100 pcs) for 6 bottles\n 7.62x39 cartridges - 120 regular for 4 bottles\n Drum with 5.45x39 mm cartridges (95 pcs) for 2 bottles\n \n%c[255,160,160,160]Weapons:\n%c[default] Walther P99 pistol - from 8 bottles, then we'll see\n RPK-74 machine gun - from 20 bottles\n OTs-33 "Pernach" pistol - from 10 bottles for now\n AKM assault rifle - no less than 15 bottles\n \n%c[255,160,160,160]Army food and medicine:\n%c[default] Army medkits - now one for a bottle, then we'll see\n Ration - for 1 bottle for now</text></string>
                                                                          <!-- Sultan -->
-<string id="price_sultan_text"><text>%c[255,160,160,160]For 2nd level artifacts:\n%c[default] Barska ELECTRO SIGHT AC10632\n Aimpoint Micro T-1\n 1P78 "Kashtan" shooting sight (2.8x magnification)\n \n%c[255,160,160,160]For modificates:\n%c[default] HK UMP submachine gun .45 caliber\n FN F2000 Tactical (FDE) assault rifle\n RPK-74(P) machine gun\n SVD\n Saiga-12M carbine\n \n%c[255,160,160,160]For mesomodificates:\n%c[default] AK-103 assault rifle\n Remington 870 (FD) shotgun\n SV-98M sniper rifle\n MG36 machine gun\n TDI KRISS Vector submachine gun\n PSO-1 optical sight (4x magnification)\n ELCAN DR optical sight (4x magnification)\n HK Schmidt Bender optical sight\n \n%c[255,160,160,160]For hypermodificates:\n%c[default] SVU-A rifle\n SR-3M "Vikhr" assault rifle\n \n%c[255,160,160,160]For absolutes:\n%c[default] FN SCAR-H rifle\n PKM Tactical machine gun\n AWM-F sniper rifle</text></string>
+<string id="price_sultan_text"><text>%c[255,160,160,160]For 2nd level artifacts:\n%c[default] Barska ELECTRO SIGHT AC10632\n Aimpoint Micro T-1\n%c[255,160,160,160]For modificates:\n%c[default] HK UMP submachine gun .45 caliber\n FN F2000 Tactical (FDE) assault rifle\n RPK-74(P) machine gun\n SVD\n Saiga-12M carbine\n \n%c[255,160,160,160]For mesomodificates:\n%c[default] AK-103 assault rifle\n Remington 870 (FD) shotgun\n SV-98M sniper rifle\n MG36 machine gun\n TDI KRISS Vector submachine gun\n PSO-1 optical sight (4x magnification)\n ELCAN DR optical sight (4x magnification)\n HK Schmidt Bender optical sight\n \n%c[255,160,160,160]For hypermodificates:\n%c[default] SVU-A rifle\n SR-3M "Vikhr" assault rifle\n \n%c[255,160,160,160]For absolutes:\n%c[default] FN SCAR-H rifle\n PKM Tactical machine gun\n AWM-F sniper rifle</text></string>
                                                                           <!-- Stepanych for cloaks -->
 <string id="price_stepanych_plash_text"><text>%c[255,160,160,160]Cloak tailoring:\n%c[default] Brown cloak - two tanned hides + second level artifact\n Brown cloak with gas mask - two tanned hides + two second level artifacts\n Black cloak - four tanned hides + third level artifact\n Black cloak with gas mask - four tanned hides + third and second level artifacts\n\n%c[255,160,160,160]Cloak repair:\n%c[default] For any cloak - money + bottle of vodka</text></string>
 
