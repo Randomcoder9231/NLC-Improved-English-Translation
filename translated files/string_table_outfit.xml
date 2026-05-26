@@ -12,22 +12,22 @@
 
 	
 <string id="stalker_outfit_name"><text>"Sunrise" Suit</text></string>
-<string id="stalker_outfit_description"><text>Produced by local craftsmen, the "Sunrise" suit represents a combination of a double-layered rubberized fabric with a special fire-retardant impregnation and a light Kevlar bulletproof vest capable of stopping a pistol bullet. Overall, it is highly inadequate for deep raids and serious operations in the Zone's hubs.\nAllows to carry up to an additional $carrying kg.</text></string>
+<string id="stalker_outfit_description"><text>Produced by local craftsmen, the "Sunrise" suit represents a combination of a double-layered rubberized fabric with a special fire-retardant material and a light Kevlar bulletproof vest capable of stopping a pistol bullet. Overall, it is highly inadequate for deep raids and serious operations in the Zone's hubs.\nAllows to carry up to an additional $carrying kg.</text></string>
 
 
 
 <string id="stalker_guard_outfit_name"><text>Lightweight Suit</text></string>
-<string id="stalker_guard_outfit_description"><text>A lightweight version of the "Sunrise" suit. It consists of a simple rubberized fabric suit with fire-retardant impregnation and a light Kevlar bulletproof vest reinforced with steel plates. Does not restrict movement.\nAllows to carry up to an additional $carrying kg.</text></string>
+<string id="stalker_guard_outfit_description"><text>A lightweight version of the "Sunrise" suit. It consists of a simple rubberized fabric suit with fire-retardant material and a light Kevlar bulletproof vest reinforced with steel plates. Does not restrict movement.\nAllows to carry up to an additional $carrying kg.</text></string>
 
 
 
 <string id="neytral_gaz_outfit_m1_name"><text>"Sunrise" suit with gas mask</text></string>
-<string id="neytral_gaz_outfit_m1_description"><text>Produced by local craftsmen, the "Sunrise" suit represents a combination of a double-layered rubberized fabric with a special fire-retardant impregnation and a light Kevlar bulletproof vest capable of stopping a pistol bullet. Overall, it is highly inadequate for deep raids and serious operations in the Zone's hubs. \nEquipped with a simple gas mask.\nAllows to carry up to an additional $carrying kg.</text></string>
+<string id="neytral_gaz_outfit_m1_description"><text>Produced by local craftsmen, the "Sunrise" suit represents a combination of a double-layered rubberized fabric with a special fire-retardant material and a light Kevlar bulletproof vest capable of stopping a pistol bullet. Overall, it is highly inadequate for deep raids and serious operations in the Zone's hubs. \nEquipped with a simple gas mask.\nAllows to carry up to an additional $carrying kg.</text></string>
 
 
 
 <string id="neytral_gaz_outfit_m2_name"><text>"Sunrise" KSu Suit</text></string>
-<string id="neytral_gaz_outfit_m2_description"><text>A "Commander's" modification of the "Sunrise" suit with increased protection against anomalies, thanks to additional impregnations and an improved gas mask filtration system. Furthermore, the bulletproof vest is reinforced with metal inserts in key areas. \nEquipped with a simple gas mask.\nAllows to carry up to an additional $carrying kg.</text></string>
+<string id="neytral_gaz_outfit_m2_description"><text>A "Commander's" modification of the "Sunrise" suit with increased protection against anomalies, thanks to additional modifications and an improved gas mask filtration system. Furthermore, the bulletproof vest is reinforced with metal inserts in key areas. \nEquipped with a simple gas mask.\nAllows to carry up to an additional $carrying kg.</text></string>
 
 
 
@@ -192,7 +192,7 @@
 
 
 <string id="svoboda_heavy_gaz_outfit_m1_name"><text>Reinforced "Guardian of Freedom" Suit</text></string>
-<string id="svoboda_heavy_gaz_outfit_m1_description"><text>A reinforced "Sunrise" suit produced by Freedom faction craftsmen. A medium army bulletproof vest with overlay armor elements plus steel plates in important areas give good protection against bullets and fragments. The suit's material consists of two layers: specially treated leather and fabric with asbestos thread. Due to special impregnations, protection against various anomalous impacts and radiation is reinforced. \nEquipped with a modified gas mask with an improved air filtration system, as well as NVG.\nAllows to carry up to an additional $carrying kg.</text></string>
+<string id="svoboda_heavy_gaz_outfit_m1_description"><text>A reinforced "Sunrise" suit produced by Freedom faction craftsmen. A medium army bulletproof vest with overlay armor elements plus steel plates in important areas give good protection against bullets and fragments. The suit's material consists of two layers: specially treated leather and fabric with asbestos thread. Due to special modifications, it has been reinforced with protection against various anomalous impacts and radiation. \nEquipped with a modified gas mask with an improved air filtration system, as well as NVG.\nAllows to carry up to an additional $carrying kg.</text></string>
 
 
 
@@ -236,7 +236,7 @@
 
 
 <string id="cs_light_outfit_name"><text>CS-1 Suit</text></string>
-<string id="cs_light_outfit_description"><text>This suit was developed for conducting search operations in areas with low anomalous activity. It represents a combination of double-layered rubberized fabric with special impregnations and a light Kevlar bulletproof vest of unknown production.\nAllows to carry up to an additional $carrying kg.</text></string>
+<string id="cs_light_outfit_description"><text>This suit was developed for conducting search operations in areas with low anomalous activity. It represents a combination of double-layered rubberized fabric with special modifications and a light Kevlar bulletproof vest of unknown production.\nAllows to carry up to an additional $carrying kg.</text></string>
 
 
 
