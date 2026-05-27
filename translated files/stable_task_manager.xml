@@ -1161,17 +1161,17 @@
 <string id="drunk_dolg_find_item_no_need"><text>This thing... I don't need the gun! Sorry to whoever was lookin'...</text></string>
 <string id="drunk_dolg_find_item_gg_no_need"><text>Here's the deal, they already brought me the gun. If I asked anyone else while I was drunk - sorry...</text></string>
 
-<string id="drunk_dolg_courier_1"><text>Note from Brom for Вахтанг [TERM?]</text></string>
-<string id="drunk_dolg_courier_1_descr"><text>Need to deliver a scribbled note from the former Duty member Brom to the merc Вахтанг [TERM?] at the Army Warehouses within a day and a half.</text></string>
-<string id="drunk_dolg_courier_1_text"><text>I need to pass a little note to a serious man. Вахтанг [TERM?] is his name. He's been at the Warehouses lately. What about you? Aren't you heading that way? Вахтанг [TERM?] will throw some stuff your way for this. Just make it quick, eh?</text></string>
+<string id="drunk_dolg_courier_1"><text>Note from Brom for Vakhtang</text></string>
+<string id="drunk_dolg_courier_1_descr"><text>Need to deliver a scribbled note from the former Duty member Brom to the merc Vakhtang at the Army Warehouses within a day and a half.</text></string>
+<string id="drunk_dolg_courier_1_text"><text>I need to pass a little note to a serious man. Vakhtang is his name. He's been at the Warehouses lately. What about you? Aren't you heading that way? Vakhtang will throw some stuff your way for this. Just make it quick, eh?</text></string>
 
 <string id="drunk_dolg_courier_2"><text>Monster parts from Brom for the nerds at the Swamps</text></string>
-<string id="drunk_dolg_courier_2_descr"><text>Need to deliver ten chimera claws to the Swamps, to the nerds' quartermaster - Пахом [TERM?]. Must get it done today, tomorrow at the latest.</text></string>
-<string id="drunk_dolg_courier_2_text"><text>We hustled a bit here, took down a few mature chimeras. Now, before their claws go bad, we need to quickly drag them over to the Swamps. The nerds' quartermaster there, Пахом [TERM?], can exchange them for something worthwhile. Well? Are you in?</text></string>
+<string id="drunk_dolg_courier_2_descr"><text>Need to deliver ten chimera claws to the Swamps, to the nerds' quartermaster - Pakhom. Must get it done today, tomorrow at the latest.</text></string>
+<string id="drunk_dolg_courier_2_text"><text>We hustled a bit here, took down a few mature chimeras. Now, before their claws go bad, we need to quickly drag them over to the Swamps. The nerds' quartermaster there, Pakhom, can exchange them for something worthwhile. Well? Are you in?</text></string>
 
 <string id="drunk_dolg_courier_3"><text>Unusual artifact from Brom for the scientists at Yantar</text></string>
-<string id="drunk_dolg_courier_3_descr"><text>Need to deliver an unusual artifact to Сахаров [TERM?] at Yantar. Deadline is tomorrow.</text></string>
-<string id="drunk_dolg_courier_3_text"><text>I accidentally stumbled upon an unusual artifact, don't even know what to call it... They say Сахаров [TERM?] at Yantar shells out big bucks for these. Will you take it? Or should I ask someone else? Just let's do this without you getting lost with this art! Will you be at Yantar tomorrow?</text></string>
+<string id="drunk_dolg_courier_3_descr"><text>Need to deliver an unusual artifact to Sakharov at Yantar. Deadline is tomorrow.</text></string>
+<string id="drunk_dolg_courier_3_text"><text>I accidentally stumbled upon an unusual artifact, don't even know what to call it... They say Sakharov at Yantar shells out big bucks for these. Will you take it? Or should I ask someone else? Just let's do this without you getting lost with this art! Will you be at Yantar tomorrow?</text></string>
 
 <string id="drunk_dolg_courier_4"><text>Ammo from Brom for the hunters</text></string>
 <string id="drunk_dolg_courier_4_descr"><text>Need to deliver ammo to the head Hunter in the Gut. Deadline is tomorrow.</text></string>
@@ -1189,16 +1189,16 @@
 <string id="hunter_courier_2_descr"><text>Deliver ten tanned flesh hides to Borov for his bros. Needs to be done in a day.</text></string>
 <string id="hunter_courier_2_text"><text>The bros here in the Dark Valley are crafting some new outfits for themselves. Well, I have a small stash of leathers. Will you take it to them? Give it to Borov. Tell him it's from the hunter. He'll understand. Deal? Just make it quick, gotta get it done in a day.</text></string>
 
-<string id="hunter_courier_3"><text>Flesh hides from the hunter for Михалыч [TERM?]</text></string>
-<string id="hunter_courier_3_descr"><text>Deliver five tanned flesh hides to Limansk in two days. Михалыч [TERM?] knows about it.</text></string>
-<string id="hunter_courier_3_text"><text>I was talking to Михалыч [TERM?] recently, he wants to gift a flesh-hide coat to one of his clients. Well, I have a stash of these hides. If you're trekking towards Limansk, could you grab about five leathers? Михалыч [TERM?] will make it worth your while. Just make it quick, okay? Two days max.</text></string>
+<string id="hunter_courier_3"><text>Flesh hides from the hunter for Mikhalych</text></string>
+<string id="hunter_courier_3_descr"><text>Deliver five tanned flesh hides to Limansk in two days. Mikhalych knows about it.</text></string>
+<string id="hunter_courier_3_text"><text>I was talking to Mikhalych recently, he wants to gift a flesh-hide coat to one of his clients. Well, I have a stash of these hides. If you're trekking towards Limansk, could you grab about five leathers? Mikhalych will make it worth your while. Just make it quick, okay? Two days max.</text></string>
 
 <string id="hunter_courier_4"><text>Flesh hides from the hunter for the guys at the Warehouses</text></string>
-<string id="hunter_courier_4_descr"><text>Шинкарь [TERM?] at the Army Warehouses is waiting for ten tanned flesh hides. I can make it in a couple of days.</text></string>
+<string id="hunter_courier_4_descr"><text>Shinkar at the Army Warehouses is waiting for ten tanned flesh hides. I can make it in a couple of days.</text></string>
 <string id="hunter_courier_4_text"><text>The folks at the Army Warehouses are very interested in flesh hides. Well, I had a small stash, so I promised them. If you're heading that way - could you grab ten pieces? Think you can manage it in a couple of days?</text></string>
 
 <string id="lisiy_kill_stalker_2"><text>Return the debt</text></string>
-<string id="lisiy_kill_stalker_2_descr"><text>Лысый [TERM?] is asking to talk to a stalker from Freedom, and, if possible, return the debt. Gives a day for everything.</text></string>
+<string id="lisiy_kill_stalker_2_descr"><text>Baldy is asking to talk to a stalker from Freedom, and, if possible, return the debt. Gives a day for everything.</text></string>
 <string id="lisiy_kill_stalker_2_text"><text>For a while I was hanging around the Warehouses area, well, the guys and I played some cards a few times. One of them got really unlucky - blew everything and then some, just on his word of honor. Well, generally speaking, I'm not a vindictive guy. I figured, well, it happens. But the guy turned out to have a conscience. Sent word recently that he scraped together some loot and is ready to pay back the debt. It's just that they aren't exactly loved around here, Freedom members I mean. If you aren't too busy, I'd ask you to run over there and get back what he owes. Truth is, a couple of stalkers already went that way recently, I asked them about this too, but I think they won't be in a hurry - they were going to gather loot. Well? Are you in? Find our 'conscientious' friend and help him return the debt? I think you can get it done in a day.</text></string>
 <string id="lisiy_kill_stalker_2_no_need"><text>Whoever wanted to help me with the debtor - no need anymore.</text></string>
 <string id="lisiy_kill_stalker_2_gg_no_need"><text>In short, no need to look for the debtor anymore. Sorted it out.</text></string>
@@ -1206,20 +1206,20 @@
 <string id="lisiy_kill_stalker_2_dlg_101"><text>What are you staring at, kid? You gonna ask questions or are you just passing through? What's your name, curious?</text></string>
 <string id="lisiy_kill_stalker_2_dlg_102"><text>I'm Marked One. I have a question. Or rather, an offer.</text></string>
 <string id="lisiy_kill_stalker_2_dlg_103"><text>Yeah? And what kind of offer is that? Drink a half-liter to get acquainted? Then I'm all for it!</text></string>
-<string id="lisiy_kill_stalker_2_dlg_104"><text>Something like that. Лысый [TERM?], the one in the Bar who likes to gamble, told me you wanted to pay back your debt, but just can't go there yourself?</text></string>
-<string id="lisiy_kill_stalker_2_dlg_105"><text>Ah! You're here about that business. Yeah, we were sitting together once, and the devil made me bet so damn much. Thought I'd win it back, but no, didn't work out. I won't say anything bad about Лысый [TERM?], and nobody else will either. He knows how to play, you could say he's an ace at it. And whoever loses is always unhappy...</text></string>
+<string id="lisiy_kill_stalker_2_dlg_104"><text>Something like that. Baldy, the one in the Bar who likes to gamble, told me you wanted to pay back your debt, but just can't go there yourself?</text></string>
+<string id="lisiy_kill_stalker_2_dlg_105"><text>Ah! You're here about that business. Yeah, we were sitting together once, and the devil made me bet so damn much. Thought I'd win it back, but no, didn't work out. I won't say anything bad about Baldy, and nobody else will either. He knows how to play, you could say he's an ace at it. And whoever loses is always unhappy...</text></string>
 <string id="lisiy_kill_stalker_2_dlg_106"><text>Hmm... Could we get to the point? What do I need to pass on? I'm in a hurry.</text></string>
-<string id="lisiy_kill_stalker_2_dlg_107"><text>Well, I've got a debt hanging over me, three and a half grand in greenbacks. I gathered some loot, traded it with Sidor for checks. Except, I'm completely out of rubles, can't even afford to buy water. Let's do this: you spot me thirty-five grand, and I'll pass four checks through you. And Лысый [TERM?] will give you the difference. Shake on it?</text></string>
+<string id="lisiy_kill_stalker_2_dlg_107"><text>Well, I've got a debt hanging over me, three and a half grand in greenbacks. I gathered some loot, traded it with Sidor for checks. Except, I'm completely out of rubles, can't even afford to buy water. Let's do this: you spot me thirty-five grand, and I'll pass four checks through you. And Baldy will give you the difference. Shake on it?</text></string>
 <string id="lisiy_kill_stalker_2_dlg_1081"><text>Hmm. I don't have that much in my account right now. Hold on.</text></string>
 <string id="lisiy_kill_stalker_2_dlg_1082"><text>Alright, shake on it. Here's thirty-five.</text></string>
 <string id="lisiy_kill_stalker_2_dlg_1091"><text>Well, suit yourself, maybe someone else will agree.</text></string>
 <string id="lisiy_kill_stalker_2_dlg_1092"><text>Alright! It's a deal. Here are the checks. Just don't disappear on me, otherwise you know yourself, you never know what might happen later...</text></string>
 <string id="lisiy_kill_stalker_2_dlg_110"><text>I'm not like that. Well, see ya...</text></string>
-<string id="lisiy_kill_stalker_2_dlg_201"><text>Ah! Hello, Marked One... Well, are you heading to the bar? Will you take the debt to Лысый [TERM?] with you?</text></string>
+<string id="lisiy_kill_stalker_2_dlg_201"><text>Ah! Hello, Marked One... Well, are you heading to the bar? Will you take the debt to Baldy with you?</text></string>
 <string id="lisiy_kill_stalker_2_dlg_202"><text>Seems like it. Did you ask for a tenner? Or what?</text></string>
 <string id="lisiy_kill_stalker_2_dlg_203"><text>No, what, did you forget? Thirty-five grand. Rubles. That's, consequently, the difference between four tons of bucks and my debt.</text></string>
 <string id="lisiy_kill_stalker_2_dlg_2083"><text>U-u-uh... I don't have that much on me right now.</text></string>
-<string id="lisiy_kill_stalker_2_dlg_301"><text>Hello, Marked One, what are you doing here? Thought you wanted to quickly pass my debt to Лысый [TERM?]? Or what?</text></string>
+<string id="lisiy_kill_stalker_2_dlg_301"><text>Hello, Marked One, what are you doing here? Thought you wanted to quickly pass my debt to Baldy? Or what?</text></string>
 
 <string id="lisiy_kill_stalker_2_dlg_done_0"><text>Everything is fine. I met with him.</text></string>
 <string id="lisiy_kill_stalker_2_dlg_done_1"><text>How is he over there? Giving it all back? Come on, speak plainly.</text></string>
@@ -1228,37 +1228,37 @@
 <string id="lisiy_kill_stalker_2_dlg_done_4"><text>Let's count up to three honest ones - he said he owed less than four grand. I sponsored him, a whole thirty-five grand, even if it was rubles, it was my very own hard-earned cash! So... You owe me a reward!</text></string>
 
 <string id="lisiy_kill_stalker_3"><text>Find out about the debtor</text></string>
-<string id="lisiy_kill_stalker_3_descr"><text>Лысый [TERM?] is asking to talk to a stalker, and find out about his friend, the debtor. Gives five days to do it.</text></string>
-<string id="lisiy_kill_stalker_3_text"><text>A stalker lost a large sum of money to me. But, as he said, his PDA was damaged at the time so he couldn't transfer the losses immediately. Well, I trust people, and he was a pretty well-known guy, Вадим Кремень [TERM?], ever heard of him? No? Well, I believed him. I don't know if I was wrong to or not, but it's been two weeks and this Кремень [TERM?] hasn't been seen at our Bar. And recently it became known that his partner showed up. Could you go and find out what's what? And can I hope to get the debt back? Will you agree to talk to this partner?</text></string>
+<string id="lisiy_kill_stalker_3_descr"><text>Baldy is asking to talk to a stalker, and find out about his friend, the debtor. Gives five days to do it.</text></string>
+<string id="lisiy_kill_stalker_3_text"><text>A stalker lost a large sum of money to me. But, as he said, his PDA was damaged at the time so he couldn't transfer the losses immediately. Well, I trust people, and he was a pretty well-known guy, Vadim Flint, ever heard of him? No? Well, I believed him. I don't know if I was wrong to or not, but it's been two weeks and this Flint hasn't been seen at our Bar. And recently it became known that his partner showed up. Could you go and find out what's what? And can I hope to get the debt back? Will you agree to talk to this partner?</text></string>
 <string id="lisiy_kill_stalker_3_no_need"><text>Whoever wanted to help me with the debtor - no need anymore.</text></string>
 <string id="lisiy_kill_stalker_3_gg_no_need"><text>In short, no need to look for the debtor anymore. Sorted it out.</text></string>
 
 <string id="lisiy_kill_stalker_3_dlg_101"><text>Hello, friend. Let's shake on it? What's your name?</text></string>
 <string id="lisiy_kill_stalker_3_dlg_102"><text>I'm Marked One. I have something to discuss with you.</text></string>
 <string id="lisiy_kill_stalker_3_dlg_103"><text>Well then, let's talk, I'm never opposed to a good, friendly chat with a nice guy.</text></string>
-<string id="lisiy_kill_stalker_3_dlg_104"><text>I was at the Bar the other day, and a regular there, Лысый [TERM?] is his name, asked me to inquire about your partner, who goes by the name Кремень [TERM?].</text></string>
-<string id="lisiy_kill_stalker_3_dlg_105"><text>Yeah? Running errands for that cardsharp? Aren't you ashamed? Okay, okay, don't get worked up... I'm just saying. And Вадим [TERM?] is lying in a hospital right now. Had an unlucky encounter with a chimera, almost lost his leg, so it seems he won't be returning to the Zone anymore.</text></string>
-<string id="lisiy_kill_stalker_3_dlg_106"><text>Won't be returning? Alright, then that's what I'll tell Лысый [TERM?]..</text></string>
-<string id="lisiy_kill_stalker_3_dlg_107"><text>Hold on a second. Вадим [TERM?] is a real man. And he surely wouldn't want a bad reputation left behind him. I know about that debt to Лысый [TERM?]. I think we should return it and put an end to this. Truth is, things aren't too great for me right now either, but...\nLet's do this. If you're at Yantar, go to Сахаров [TERM?], do you know him? Right. Вадим [TERM?] left two capsules with him to be opened, have him give them to you, and you settle up with Лысый [TERM?]? Alright? Oh, almost forgot, Сахаров [TERM?] needs payment for opening the capsules.</text></string>
-<string id="lisiy_kill_stalker_3_dlg_108"><text>From Сахаров [TERM?]? That means giving up two good artifacts for two capsules... Fine, if I'm at Yantar - I'll tell him...</text></string>
+<string id="lisiy_kill_stalker_3_dlg_104"><text>I was at the Bar the other day, and a regular there, Baldy is his name, asked me to inquire about your partner, who goes by the name Flint.</text></string>
+<string id="lisiy_kill_stalker_3_dlg_105"><text>Yeah? Running errands for that cardsharp? Aren't you ashamed? Okay, okay, don't get worked up... I'm just saying. And Vadim is lying in a hospital right now. Had an unlucky encounter with a chimera, almost lost his leg, so it seems he won't be returning to the Zone anymore.</text></string>
+<string id="lisiy_kill_stalker_3_dlg_106"><text>Won't be returning? Alright, then that's what I'll tell Baldy..</text></string>
+<string id="lisiy_kill_stalker_3_dlg_107"><text>Hold on a second. Vadim is a real man. And he surely wouldn't want a bad reputation left behind him. I know about that debt to Baldy. I think we should return it and put an end to this. Truth is, things aren't too great for me right now either, but...\nLet's do this. If you're at Yantar, go to Sakharov, do you know him? Right. Vadim left two capsules with him to be opened, have him give them to you, and you settle up with Baldy? Alright? Oh, almost forgot, Sakharov needs payment for opening the capsules.</text></string>
+<string id="lisiy_kill_stalker_3_dlg_108"><text>From Sakharov? That means giving up two good artifacts for two capsules... Fine, if I'm at Yantar - I'll tell him...</text></string>
 <string id="lisiy_kill_stalker_3_dlg_201"><text>Ah! Hello, Marked One... Well, how's it going? Alive and well? Fair enough.</text></string>
 
-<string id="lisiy_kill_stalker_3_2dlg_0"><text>I'm here on behalf of a stalker named Кремень [TERM?], for the arts from the capsules.</text></string>
-<string id="lisiy_kill_stalker_3_2dlg_1"><text>What did you say? Кремень [TERM?]? Just a minute. Ah! 'Вадим Кремень [TERM?]'... Yes, there was such a person, according to the records - he left two capsules. Do you want to take the artifacts from these capsules? Hmm... This Кремень [TERM?] did not pay for the opening... You know the rates - a level two artifact... Yes. Fine. One will be enough for both opened capsules. Do you have it?</text></string>
+<string id="lisiy_kill_stalker_3_2dlg_0"><text>I'm here on behalf of a stalker named Flint, for the arts from the capsules.</text></string>
+<string id="lisiy_kill_stalker_3_2dlg_1"><text>What did you say? Flint? Just a minute. Ah! 'Vadim Flint'... Yes, there was such a person, according to the records - he left two capsules. Do you want to take the artifacts from these capsules? Hmm... This Flint did not pay for the opening... You know the rates - a level two artifact... Yes. Fine. One will be enough for both opened capsules. Do you have it?</text></string>
 <string id="lisiy_kill_stalker_3_2dlg_21"><text>Yes, please, here's the artifact.</text></string>
 <string id="lisiy_kill_stalker_3_2dlg_22"><text>Hmm, I don't have it on me. I'll go get it from storage.</text></string>
 <string id="lisiy_kill_stalker_3_2dlg_3"><text>Well, well... Here, take the artifacts, from the looks of it, they are practically identical, you could say - identical twins. Which leads to the thought: how did he manage to find such capsules. If it's not too much trouble - look into this matter...</text></string>
-<string id="lisiy_kill_stalker_3_2dlg_4"><text>Well, that's unlikely, Кремень [TERM?] won't be coming back to the Zone.</text></string>
+<string id="lisiy_kill_stalker_3_2dlg_4"><text>Well, that's unlikely, Flint won't be coming back to the Zone.</text></string>
 <string id="lisiy_kill_stalker_3_2dlg_5"><text>A pity, a great pity... It would be highly desirable to research the phenomenon.</text></string>
 
 <string id="lisiy_kill_stalker_3_dlg_done_0"><text>Well. Not only did I find your friend, I did more.</text></string>
 <string id="lisiy_kill_stalker_3_dlg_done_1"><text>Did more? What's that supposed to mean? Did you kill him or something?</text></string>
-<string id="lisiy_kill_stalker_3_dlg_done_2"><text>Don't be crazy! I just found this Кремень's [TERM?] loot, which he wanted to give for the debt. Here, two very good artifacts.</text></string>
+<string id="lisiy_kill_stalker_3_dlg_done_2"><text>Don't be crazy! I just found this Flint's loot, which he wanted to give for the debt. Here, two very good artifacts.</text></string>
 <string id="lisiy_kill_stalker_3_dlg_done_3"><text>Well damn! You've got skills! I kinda didn't even expect it. Already wrote it all off... Well then, I need to reward you... Probably.</text></string>
 <string id="lisiy_kill_stalker_3_dlg_done_4"><text>Probably? I trekked across half the Zone at your request! No 'probably' about it! You owe me a mountain of loot or cash!</text></string>
 
 <string id="lisiy_kill_stalker_4"><text>Confirm debt write-off</text></string>
-<string id="lisiy_kill_stalker_4_descr"><text>Tell the stalker that Лысый [TERM?] agrees to write off the debt in exchange for the gear the stalker got from the military. Three days should be enough for persuasion.</text></string>
+<string id="lisiy_kill_stalker_4_descr"><text>Tell the stalker that Baldy agrees to write off the debt in exchange for the gear the stalker got from the military. Three days should be enough for persuasion.</text></string>
 <string id="lisiy_kill_stalker_4_text"><text>A little bird told me that some stalkers managed to fleece the military a bit at Agroprom. Supposedly a lot of new military gear for the Zone fell into their hands. I hope my interest is fairly obvious? Anyway, it just so happens that one of those who got their hands on this blessed freebie owes me a small debt. If you agree to pass on that I'm willing to write off everything he owes me in exchange for some of what he got, I'd be very grateful! Well? Do you agree to find the 'lucky guy'?</text></string>
 <string id="lisiy_kill_stalker_4_no_need"><text>Whoever wanted to help me with the debtor - no need anymore.</text></string>
 <string id="lisiy_kill_stalker_4_gg_no_need"><text>In short, no need to look for the debtor anymore. Sorted it out.</text></string>
@@ -1266,20 +1266,20 @@
 <string id="lisiy_kill_stalker_4_dlg_101"><text>Oh! Broski! Hello! How's life? Shake on it! What's your name then?</text></string>
 <string id="lisiy_kill_stalker_4_dlg_102"><text>Call me Marked One. I'm here on an errand for you.</text></string>
 <string id="lisiy_kill_stalker_4_dlg_103"><text>Interesting, interesting, what kind of 'errand'? Maybe someone sent a half-liter? Because I, uh, accept such 'errands' with pleasure!</text></string>
-<string id="lisiy_kill_stalker_4_dlg_104"><text>Something like that. You know Лысый [TERM?]? He says he can write off all your debts.</text></string>
-<string id="lisiy_kill_stalker_4_dlg_105"><text>What? That's kinda... For Лысый [TERM?] not to wring every penny out! Nobody remembers anything like that. Are you sure you're not getting things mixed up? Are we talking about the same Лысый [TERM?]? The godless cardsharp?</text></string>
+<string id="lisiy_kill_stalker_4_dlg_104"><text>Something like that. You know Baldy? He says he can write off all your debts.</text></string>
+<string id="lisiy_kill_stalker_4_dlg_105"><text>What? That's kinda... For Baldy not to wring every penny out! Nobody remembers anything like that. Are you sure you're not getting things mixed up? Are we talking about the same Baldy? The godless cardsharp?</text></string>
 <string id="lisiy_kill_stalker_4_dlg_106"><text>Yeah, that's him. He said that for a part of the goods you took from the military, he'll write off the entire debt.</text></string>
-<string id="lisiy_kill_stalker_4_dlg_107"><text>A-a-ah... Well, that makes sense then. I thought Лысый [TERM?] had become human, thought maybe now the blind dogs will cheerfully wag their little tails and walk on their hind legs... But that's what's going on!\nHow much is that debt anyway, spit and rub it out. What about you, aren't you heading to the Bar? I'll give this bloodsucker a new military suit, against the debt. Except one like this is worth more than three of my debts. Let's do this: you seem like an honest guy and all that, but... In short, you give me three hundred rounds for an AK, I give you the armor, you take it to Лысый [TERM?], and settle up with him. Shake on it?</text></string>
+<string id="lisiy_kill_stalker_4_dlg_107"><text>A-a-ah... Well, that makes sense then. I thought Baldy had become human, thought maybe now the blind dogs will cheerfully wag their little tails and walk on their hind legs... But that's what's going on!\nHow much is that debt anyway, spit and rub it out. What about you, aren't you heading to the Bar? I'll give this bloodsucker a new military suit, against the debt. Except one like this is worth more than three of my debts. Let's do this: you seem like an honest guy and all that, but... In short, you give me three hundred rounds for an AK, I give you the armor, you take it to Baldy, and settle up with him. Shake on it?</text></string>
 <string id="lisiy_kill_stalker_4_dlg_1081"><text>I'll think about it, three hundred rounds don't just grow on trees.</text></string>
 <string id="lisiy_kill_stalker_4_dlg_1082"><text>It's a deal. Here's the ammo.</text></string>
 <string id="lisiy_kill_stalker_4_dlg_1091"><text>Well think, think, maybe I'll get ready to drop by the Bar myself one of these days. So...</text></string>
 <string id="lisiy_kill_stalker_4_dlg_1092"><text>Oh! Shake on it once more! See ya, 'guarantor'...</text></string>
 <string id="lisiy_kill_stalker_4_dlg_110"><text>Well, see ya... Jokester...</text></string>
-<string id="lisiy_kill_stalker_4_dlg_201"><text>Oh! Hello, Marked One... Still working for Лысый [TERM?]?</text></string>
+<string id="lisiy_kill_stalker_4_dlg_201"><text>Oh! Hello, Marked One... Still working for Baldy?</text></string>
 <string id="lisiy_kill_stalker_4_dlg_202"><text>Uh-huh, kinda. Remind me what you wanted?</text></string>
 <string id="lisiy_kill_stalker_4_dlg_203"><text>Well, what, did you forget? Three hundred rounds for an AK and all business between us will be successfully concluded.</text></string>
 <string id="lisiy_kill_stalker_4_dlg_2083"><text>Three hundred... Right, I remember. I think I'll be going now.</text></string>
-<string id="lisiy_kill_stalker_4_dlg_301"><text>Hello, Marked One, what are you doing here? Thought you wanted to run to Лысый [TERM?]? Or what?</text></string>
+<string id="lisiy_kill_stalker_4_dlg_301"><text>Hello, Marked One, what are you doing here? Thought you wanted to run to Baldy? Or what?</text></string>
 
 <string id="lisiy_kill_stalker_4_dlg_done_0"><text>Passed on your terms.</text></string>
 <string id="lisiy_kill_stalker_4_dlg_done_1"><text>And so? Did he agree? When will he be at the bar? Didn't say?</text></string>
@@ -1289,22 +1289,22 @@
 
 <string id="lisiy_kill_stalker_5"><text>Find out the debtor's fate</text></string>
 <string id="lisiy_kill_stalker_5_descr"><text>Find one of the hunters and buy information from him about the fate of the presumably alive debtor. Gotta get it done in three days.</text></string>
-<string id="lisiy_kill_stalker_5_text"><text>So here's the deal... There was this very lucky stalker, Витя Хорёк [TERM?], heard of him? No? Well okay. Anyway, this same Хорёк [TERM?] owed another stalker a lot of loot. Well, and this other one, goes by the nickname Свист [TERM?], lost a hefty sum to me against that debt.\nA couple of days later word got out that both Хорёк [TERM?] and Свист [TERM?] died in a clash with a gang of punks. Seems like business as usual, but... A few days ago, one of the hunters came to me and reported that there's a guy willing to sell information about the current whereabouts of these two 'corpses'. The guy himself is afraid to be seen in contact with me, so he's asking to send a middleman.\nWill you be this middleman? Will you find this guy?</text></string>
+<string id="lisiy_kill_stalker_5_text"><text>So here's the deal... There was this very lucky stalker, Vitya Ferret, heard of him? No? Well okay. Anyway, this same Ferret owed another stalker a lot of loot. Well, and this other one, goes by the nickname Whistler, lost a hefty sum to me against that debt.\nA couple of days later word got out that both Ferret and Whistler died in a clash with a gang of punks. Seems like business as usual, but... A few days ago, one of the hunters came to me and reported that there's a guy willing to sell information about the current whereabouts of these two 'corpses'. The guy himself is afraid to be seen in contact with me, so he's asking to send a middleman.\nWill you be this middleman? Will you find this guy?</text></string>
 <string id="lisiy_kill_stalker_5_no_need"><text>Whoever wanted to help me with the debtor - no need anymore.</text></string>
 <string id="lisiy_kill_stalker_5_gg_no_need"><text>In short, no need to look for the debtor anymore. Sorted it out.</text></string>
 
 <string id="lisiy_kill_stalker_5_dlg_101"><text>What? You're looking at me like I killed your brother.</text></string>
 <string id="lisiy_kill_stalker_5_dlg_102"><text>My name is Marked One, I'm here on business.</text></string>
 <string id="lisiy_kill_stalker_5_dlg_103"><text>Well then. Let's get acquainted. And what kind of business?</text></string>
-<string id="lisiy_kill_stalker_5_dlg_104"><text>I'm from Лысый [TERM?]. He says you have something for him?</text></string>
+<string id="lisiy_kill_stalker_5_dlg_104"><text>I'm from Baldy. He says you have something for him?</text></string>
 <string id="lisiy_kill_stalker_5_dlg_105"><text>Hmm... From him then... I have a photo. It shows the ones he's interested in at a place everyone knows. I'm willing to sell this photograph. For a symbolic fee.</text></string>
 <string id="lisiy_kill_stalker_5_dlg_106"><text>And just how 'symbolic' is this fee?</text></string>
 <string id="lisiy_kill_stalker_5_dlg_107"><text>Judging by what I heard about the person of interest's losses, the fee will be one-tenth. In units more understandable to outsiders, I want a thousand dollars. In cash or, in an extreme case, by check. So come on, settle up right here and we'll go our separate ways.</text></string>
 <string id="lisiy_kill_stalker_5_dlg_1081"><text>I didn't think I'd need it... Don't have it on me.</text></string>
 <string id="lisiy_kill_stalker_5_dlg_1082"><text>Alright, here's the check. Let's have what you got.</text></string>
 <string id="lisiy_kill_stalker_5_dlg_1091"><text>You should have thought ahead... Go find it.</text></string>
-<string id="lisiy_kill_stalker_5_dlg_1092"><text>Here's the photograph. They're all there. Лысый [TERM?] knows who and what.</text></string>
-<string id="lisiy_kill_stalker_5_dlg_110"><text>Uh-huh. We'll see what Лысый [TERM?] says.</text></string>
+<string id="lisiy_kill_stalker_5_dlg_1092"><text>Here's the photograph. They're all there. Baldy knows who and what.</text></string>
+<string id="lisiy_kill_stalker_5_dlg_110"><text>Uh-huh. We'll see what Baldy says.</text></string>
 <string id="lisiy_kill_stalker_5_dlg_201"><text>You? Well? Are you ready?</text></string>
 <string id="lisiy_kill_stalker_5_dlg_202"><text>Wouldn't agree to a smaller sum?</text></string>
 <string id="lisiy_kill_stalker_5_dlg_203"><text>I said - the sum is a tenth of it. A normal cut for a tip. Any less - there's no reason for me to risk my neck. A thousand!</text></string>
@@ -1319,15 +1319,15 @@
 
 <string id="mercenary_kill_stalker_1"><text>Find out about cat protection</text></string>
 <string id="mercenary_kill_stalker_1_descr"><text>Find a stalker, and try to find out from him about an artifact that scares off cats. Three days for asking around should be enough.</text></string>
-<string id="mercenary_kill_stalker_1_text"><text>A stalker came into the bar recently, Костя Беломорканал [TERM?], who let slip on 'this' matter that his friend knows a recipe that allows you to make weapons practically eternal. Well, no wear and tear, no damage, no need to clean or lubricate... You get it? Might be just talk of course, but, how do we check it? Will you go to this 'friend'?</text></string>
+<string id="mercenary_kill_stalker_1_text"><text>A stalker came into the bar recently, Kostyan Belomorkanal, who let slip on 'this' matter that his friend knows a recipe that allows you to make weapons practically eternal. Well, no wear and tear, no damage, no need to clean or lubricate... You get it? Might be just talk of course, but, how do we check it? Will you go to this 'friend'?</text></string>
 <string id="mercenary_kill_stalker_1_no_need"><text>People. Regarding the recipe for guns, no need for anything.</text></string>
 <string id="mercenary_kill_stalker_1_gg_no_need"><text>People, about the case with the gun recipe. It's a fake basically. Standing down on this for now.</text></string>
 
-<string id="mercenary_kill_stalker_1_dlg_101"><text>Hello, buddy. Did we get into a fight a month ago? Or not? Am I mixing things up? Штырь [TERM?]? Right?</text></string>
+<string id="mercenary_kill_stalker_1_dlg_101"><text>Hello, buddy. Did we get into a fight a month ago? Or not? Am I mixing things up? Pintle? Right?</text></string>
 <string id="mercenary_kill_stalker_1_dlg_102"><text>Hmm, no. Not with me. I'm Marked One.</text></string>
 <string id="mercenary_kill_stalker_1_dlg_103"><text>Marked One? Seems like I've heard that moniker... Something connected to the showdowns between stalkers and the bros? No? Well, whatever, what did you want, buddy?</text></string>
-<string id="mercenary_kill_stalker_1_dlg_104"><text>Do you know Беломорканал [TERM?]?</text></string>
-<string id="mercenary_kill_stalker_1_dlg_105"><text>Беломор [TERM?]? You mean Костян [TERM?]? Well yeah. We went on a raid together a couple of times. Didn't rake in a lot of dough, but we didn't leave empty-handed either. And what's up with him?</text></string>
+<string id="mercenary_kill_stalker_1_dlg_104"><text>Do you know Belomorkanal?</text></string>
+<string id="mercenary_kill_stalker_1_dlg_105"><text>Belomor? You mean Kostyan? Well yeah. We went on a raid together a couple of times. Didn't rake in a lot of dough, but we didn't leave empty-handed either. And what's up with him?</text></string>
 <string id="mercenary_kill_stalker_1_dlg_106"><text>Well everything seems fine for now. Here's the situation - he said at the Bar that you know some recipe that strengthens weapons?</text></string>
 <string id="mercenary_kill_stalker_1_dlg_107"><text>Huh? Well, and he calls himself a buddy. I told him in secret, and he goes and does this! Well yeah. I know a thing or two about it. And I can even tell a curious and not greedy stalker. For just one artifact. No lower than level two. Well? Want to learn such a recipe?</text></string>
 <string id="mercenary_kill_stalker_1_dlg_1081"><text>A level two art just for words? I'll think about it.</text></string>
@@ -1420,7 +1420,7 @@
 <string id="mercenary_kill_stalker_4_dlg_1081"><text>A level two art? Hmm... Don't have one on me.</text></string>
 <string id="mercenary_kill_stalker_4_dlg_1082"><text>U-u-uh... Alright, here's the art. Write down the recipe.</text></string>
 <string id="mercenary_kill_stalker_4_dlg_1091"><text>Well when you have it, then we'll talk.</text></string>
-<string id="mercenary_kill_stalker_4_dlg_1092"><text>Your artifact is complete shit! Write down the recipe for you? Memorize this... \nA Springboard anomaly can be removed from the road with an artifact boiled from a Film [TERM?]. Know about that one? It's pale green. Now, if you first boil it in a Snowflake, it will turn red. And if you toss this boiled art into a Springboard, not even a memory of the anomaly will be left. Got it? Or should I repeat it?</text></string>
+<string id="mercenary_kill_stalker_4_dlg_1092"><text>Your artifact is complete shit! Write down the recipe for you? Memorize this... \nA Springboard anomaly can be removed from the road with an artifact boiled from a Pellicle. Know about that one? It's pale green. Now, if you first boil it in a Snowflake, it will turn red. And if you toss this boiled art into a Springboard, not even a memory of the anomaly will be left. Got it? Or should I repeat it?</text></string>
 <string id="mercenary_kill_stalker_4_dlg_110"><text>Hmm. Alright, I got it all...</text></string>
 <string id="mercenary_kill_stalker_4_dlg_201"><text>You again? What is it this time?</text></string>
 <string id="mercenary_kill_stalker_4_dlg_202"><text>About the recipe, I...</text></string>
@@ -1429,7 +1429,7 @@
 
 <string id="mercenary_kill_stalker_4_dlg_done_0"><text>Well, I found out how to get rid of a Springboard...</text></string>
 <string id="mercenary_kill_stalker_4_dlg_done_1"><text>Well, well. And how is that?</text></string>
-<string id="mercenary_kill_stalker_4_dlg_done_2"><text>You need to boil a Film [TERM?] artifact in a Snowflake anomaly. That's the whole recipe, basically.</text></string>
+<string id="mercenary_kill_stalker_4_dlg_done_2"><text>You need to boil a Pellicle artifact in a Snowflake anomaly. That's the whole recipe, basically.</text></string>
 <string id="mercenary_kill_stalker_4_dlg_done_3"><text>Right... Uh-huh. Understood. Wasting an artifact on such a whim... Who could I pawn it off on... What do you want?</text></string>
 <string id="mercenary_kill_stalker_4_dlg_done_4"><text>I gave up a good artifact for this recipe. I kinda need to be compensated for my expenses!</text></string>
 
@@ -1443,12 +1443,12 @@
 <string id="mercenary_kill_stalker_5_dlg_102"><text>Let's, I'm Marked One. Haven't you heard?</text></string>
 <string id="mercenary_kill_stalker_5_dlg_103"><text>Marked One? Hmm, no, I don't recall. You'll have to excuse me, these stalker nicknames are somewhat... uniform... And what question brings you to us?</text></string>
 <string id="mercenary_kill_stalker_5_dlg_104"><text>Just a small matter. They say you know a lot about anomalies?</text></string>
-<string id="mercenary_kill_stalker_5_dlg_105"><text>Is it even possible to know a lot about anomalies? We can't even understand the nature of these formations! For example - the widely known Electro anomaly, it has absolutely no relation to electromagnetic energy! We do not register any properties that should be observed during the discharges of these lightning bolts, which look so similar to electrical ones! Or the so-called Slime [TERM?]!...</text></string>
+<string id="mercenary_kill_stalker_5_dlg_105"><text>Is it even possible to know a lot about anomalies? We can't even understand the nature of these formations! For example - the widely known Electro anomaly, it has absolutely no relation to electromagnetic energy! We do not register any properties that should be observed during the discharges of these lightning bolts, which look so similar to electrical ones! Or the so-called Slime!...</text></string>
 <string id="mercenary_kill_stalker_5_dlg_106"><text>Stop stop... I understood that I didn't understand anything... They say there's a possibility to create, or, let's say, 'birth' an anomaly in a certain place? Haven't heard of such a thing?</text></string>
-<string id="mercenary_kill_stalker_5_dlg_107"><text>'Birth' an anomaly? Probably more like 'sprout'? We are increasingly leaning towards the idea that anomalies are closer to plants. And the artifacts that stalkers find here, in the Zone, are the seeds of these 'plants'. Then, if the conditions are created, one can 'sprout' an anomaly from a 'seed', an artifact. From what I've heard, there were successful attempts with an artifact of the 'electrical' group. Unfortunately, I don't have exact data, but it came up once in a conversation with a colleague. And he said that one of the stalkers wrote down this information for sale. But... They couldn't agree on a price. And the next day the stalker disappeared near the Tuzla [TERM?] bridge. That's exactly what he said - 'Tuzla [TERM?]'...</text></string>
+<string id="mercenary_kill_stalker_5_dlg_107"><text>'Birth' an anomaly? Probably more like 'sprout'? We are increasingly leaning towards the idea that anomalies are closer to plants. And the artifacts that stalkers find here, in the Zone, are the seeds of these 'plants'. Then, if the conditions are created, one can 'sprout' an anomaly from a 'seed', an artifact. From what I've heard, there were successful attempts with an artifact of the 'electrical' group. Unfortunately, I don't have exact data, but it came up once in a conversation with a colleague. And he said that one of the stalkers wrote down this information for sale. But... They couldn't agree on a price. And the next day the stalker disappeared near the Tuzla bridge. That's exactly what he said - 'Tuzla'...</text></string>
 <string id="mercenary_kill_stalker_5_dlg_1082"><text>Yeah, a pity... I was hoping...</text></string>
 <string id="mercenary_kill_stalker_5_dlg_1092"><text>C'est la vie, as the French say. There are many secrets in this anomalous Zone. One more, one less... Try to find the poor wretch, or at least what's left of him...</text></string>
-<string id="mercenary_kill_stalker_5_dlg_110"><text>Well yeah, makes sense. Tuzla [TERM?]...</text></string>
+<string id="mercenary_kill_stalker_5_dlg_110"><text>Well yeah, makes sense. Tuzla...</text></string>
 <string id="mercenary_kill_stalker_5_dlg_201"><text>Yes? Did we not finish our conversation? He died, apparently, that stalker who knew about how to 'grow' an anomaly...</text></string>
 <string id="mercenary_kill_stalker_5_dlg_301"><text>Hello.</text></string>
 
@@ -1466,15 +1466,15 @@
 
 <string id="mercenary_kill_stalker_6_dlg_101"><text>Ah, well? What's your name then?</text></string>
 <string id="mercenary_kill_stalker_6_dlg_102"><text>Well... Marked One.</text></string>
-<string id="mercenary_kill_stalker_6_dlg_103"><text>Marked One? Heard somethin' about a guy like that. Are you the one who squeezed Крот [TERM?]? 'Bout time somebody did - sneakin' around everywhere, botherin' everyone.</text></string>
-<string id="mercenary_kill_stalker_6_dlg_104"><text>Крот [TERM?]? Squeezed? No, everything's fine. Anyway, I have another question...</text></string>
+<string id="mercenary_kill_stalker_6_dlg_103"><text>Marked One? Heard somethin' about a guy like that. Are you the one who squeezed Mole? 'Bout time somebody did - sneakin' around everywhere, botherin' everyone.</text></string>
+<string id="mercenary_kill_stalker_6_dlg_104"><text>Mole? Squeezed? No, everything's fine. Anyway, I have another question...</text></string>
 <string id="mercenary_kill_stalker_6_dlg_105"><text>So, wait, didn't they whack him? Or... Weird, people were sayin' that... Alright, looks like they were bullshittin'. What's the question?</text></string>
 <string id="mercenary_kill_stalker_6_dlg_106"><text>Someone said you've been having good luck with bloodsuckers? That you know some secret on how to survive their roar? Maybe you'll tell me?</text></string>
 <string id="mercenary_kill_stalker_6_dlg_107"><text>Well you should tell this 'somebody' that you won't even get a pimple for free, as they say. You wanna know my secret - pay up. Bucks from you. Two grand. Then we'll have a business talk.</text></string>
 <string id="mercenary_kill_stalker_6_dlg_1081"><text>Two grand? In checks? Don't have it on me, but... I'll think about it.</text></string>
 <string id="mercenary_kill_stalker_6_dlg_1082"><text>You take checks? Here, for two grand.</text></string>
 <string id="mercenary_kill_stalker_6_dlg_1091"><text>Checks'll do. Nobody's complained so far... Think 'bout it. When you have it, then we'll talk.</text></string>
-<string id="mercenary_kill_stalker_6_dlg_1092"><text>I'm takin' it, I'm takin' it. Respect. Listen here, what and how you gotta do when a bloodsucker shows up on the horizon... Well besides grabbin' your legs and runnin', obviously...\nSo here's the deal: there's this artifact - Canister [TERM?] it's called? Findin' it is extremely hard, very rare. They say it's only been seen in the Rusty Forest [TERM?], the one on the Radar [TERM?]. Activate this art on your belt and walk around whistlin'... the bloodsucker's pipe barely touches you...</text></string>
+<string id="mercenary_kill_stalker_6_dlg_1092"><text>I'm takin' it, I'm takin' it. Respect. Listen here, what and how you gotta do when a bloodsucker shows up on the horizon... Well besides grabbin' your legs and runnin', obviously...\nSo here's the deal: there's this artifact - Balloon it's called? Findin' it is extremely hard, very rare. They say it's only been seen in the Rusty Forest, the one on the Radar. Activate this art on your belt and walk around whistlin'... the bloodsucker's pipe barely touches you...</text></string>
 <string id="mercenary_kill_stalker_6_dlg_110"><text>How am I supposed to score that? Alright...</text></string>
 <string id="mercenary_kill_stalker_6_dlg_201"><text>Ah! It's you, squeezer. Huntin' bloodsuckers? Or are they huntin' you?</text></string>
 <string id="mercenary_kill_stalker_6_dlg_202"><text>Yeah, them... What about you, haven't changed your mind about sharing your good fortune?</text></string>
@@ -1483,7 +1483,7 @@
 
 <string id="mercenary_kill_stalker_6_dlg_done_0"><text>I found out about that secret artifact...</text></string>
 <string id="mercenary_kill_stalker_6_dlg_done_1"><text>Well, well. And, what kind of miracle is it?</text></string>
-<string id="mercenary_kill_stalker_6_dlg_done_2"><text>You need a very rare art. Canister [TERM?] it's called. That's it, basically. Where to get it?.. He said it was found on the Radar [TERM?], in the Rusty Forest [TERM?].</text></string>
+<string id="mercenary_kill_stalker_6_dlg_done_2"><text>You need a very rare artifact called "Balloon". That's it, basically. Where to get it?.. He said it was found on the Radar, in the Rusty Forest.</text></string>
 <string id="mercenary_kill_stalker_6_dlg_done_3"><text>Right... Uh-huh... Understood. Someone was already talking about this, another scam for...\nWho could I pawn this info off on... Although, there's enough crazy people around, many will agree to buy... Could make a profit...\nListen, don't run your mouth too much about what you learned and heard, okay?</text></string>
 <string id="mercenary_kill_stalker_6_dlg_done_4"><text>I gave up serious cash for this information. So, if you want me to keep quiet, you owe me some good loot!</text></string>
 
@@ -1499,9 +1499,9 @@
 <string id="petrenko_kill_stalker_1_dlg_104"><text>There was a rumor at the bar that you left Duty? Why is that? Didn't like the duds?</text></string>
 <string id="petrenko_kill_stalker_1_dlg_105"><text>The duds? What does that have to do with... My buddy got shot somewhere around these parts. Well, as soon as I found out, I hauled ass straight here. Thought I'd make it in time to help. Didn't make it. He died. Well, and I thought, what do we really need in life anyway? We fuss around, follow some kinds of rules. I'm sick of it!</text></string>
 <string id="petrenko_kill_stalker_1_dlg_106"><text>That's true, we do fuss around. Well, so, you're not planning on going back?</text></string>
-<string id="petrenko_kill_stalker_1_dlg_107"><text>No, I was thinking in my free time, I slogged away in this Duty for half a year, and I have absolutely nothing to show for it. I'll try to live like a stalker. I know the Zone a little already. I think I'll manage to save up a little for a rainy day. And I'll bail. Go home.\nYeah, by the way. Just to feel completely 'clean' I should return the gear I received for service. Are you heading to the Bar? Or maybe keep it for yourself. The armor, almost new, and my Abakan [TERM?]. If you don't mind sparing an art, I'll give it to you. A level three one, a good one.</text></string>
+<string id="petrenko_kill_stalker_1_dlg_107"><text>No, I was thinking in my free time, I slogged away in this Duty for half a year, and I have absolutely nothing to show for it. I'll try to live like a stalker. I know the Zone a little already. I think I'll manage to save up a little for a rainy day. And I'll bail. Go home.\nYeah, by the way. Just to feel completely 'clean' I should return the gear I received for service. Are you heading to the Bar? Or maybe keep it for yourself. The armor, almost new, and my Abakan. If you don't mind sparing an art, I'll give it to you. A level three one, a good one.</text></string>
 <string id="petrenko_kill_stalker_1_dlg_1081"><text>No, I'm not heading to the bar. Maybe later.</text></string>
-<string id="petrenko_kill_stalker_1_dlg_1082"><text>Hmm. I have an art, let me take it. I'll give it to Петренко [TERM?].</text></string>
+<string id="petrenko_kill_stalker_1_dlg_1082"><text>Hmm. I have an art, let me take it. I'll give it to Petrenko.</text></string>
 <string id="petrenko_kill_stalker_1_dlg_1083"><text>Level three you say... Wait a bit, I'll be quick.</text></string>
 <string id="petrenko_kill_stalker_1_dlg_1091"><text>Alright then, suit yourself, I'll hold onto it for now.</text></string>
 <string id="petrenko_kill_stalker_1_dlg_1092"><text>Then we have a deal. You're a good guy, even if you are Marked One. Here, take it.</text></string>
@@ -1521,48 +1521,48 @@
 <string id="petrenko_kill_stalker_1_dlg_done_4"><text>I gave him a good artifact for this deal. I kinda need to be compensated for my expenses!</text></string>
 
 <string id="shustriy_find_item_1"><text>Find one good jacket</text></string>
-<string id="shustriy_find_item_1_descr"><text>Шустрый [TERM?] is asking to find his jacket with chainmail lining, which he tossed while fleeing from blind dogs near a fallen tree, close to the railway tunnel that leads to the Sanatorium [TERM?]. He needs the jacket in good condition, since it's meant to be sold.</text></string>
+<string id="shustriy_find_item_1_descr"><text>Nimble is asking to find his jacket with chainmail lining, which he tossed while fleeing from blind dogs near a fallen tree, close to the railway tunnel that leads to the Sanatorium. He needs the jacket in good condition, since it's meant to be sold.</text></string>
 <string id="shustriy_find_item_1_text"><text>I had scored a pretty good jacket, swiped it from a bandit stash... Light, durable, with a chainmail lining... I already made a deal with a rookie in the village - he agreed to shell out a serious amount of cash for it. But when exiting the railway tunnel, you know, the one through which you can climb into the former hospital, a pack of dogs ambushed me - so I dropped everything I gathered... Maybe you could look for this outfit? It should be somewhere near the fallen tree, on that side of the embankment, not far from the tunnel... I'll make it worth your while...\nJust understand... today he still has the money, but tomorrow it'll all vanish somewhere and I might miss out. I think if you don't bring it in a couple of days, it'll be too late.\nIf it works out, I'll try to reward you properly. I have a stash for a rainy day:</text></string>
 <string id="shustriy_find_item_1_no_need"><text>This thing... I don't need the assault rifle anymore. I resolved the issue.</text></string>
 <string id="shustriy_find_item_1_gg_no_need"><text>In short, I already have the assault rifle. A good guy helped out.</text></string>
 
 <string id="shustriy_find_item_2"><text>Search for a gun at the Army Warehouses</text></string>
-<string id="shustriy_find_item_2_descr"><text>Шустрый [TERM?] needs a gun that's somewhere with the mercs at the Army Warehouses. Asking to find it. Got a couple of days...</text></string>
+<string id="shustriy_find_item_2_descr"><text>Nimble needs a gun that's somewhere with the mercs at the Army Warehouses. Asking to find it. Got a couple of days...</text></string>
 <string id="shustriy_find_item_2_text"><text>I was told that one of the guys, well they seem to be mercs, said that they got saddled with some new rifle. And supposedly, he wouldn't mind trading it for something else. Might you be at the Army Warehouses? I blurted out about this gun to someone in the heat of the moment, and well... In short, if I don't show it in a couple of days, things won't be too good for me... Could you help? Eh? You're such a lucky guy... Well, and I'll pay up, everything fair and square.</text></string>
 <string id="shustriy_find_item_2_no_need"><text>This thing... I don't need the assault rifle anymore. I resolved the issue.</text></string>
 <string id="shustriy_find_item_2_gg_no_need"><text>In short, I already have the assault rifle. A good guy helped out.</text></string>
 
 <string id="wolf_eliminate_lager_1"><text>Need to quiet down the boars</text></string>
-<string id="wolf_eliminate_lager_1_descr"><text>Boars set up a lair right next to the place where Волк [TERM?] and his friend made a stash. Волк [TERM?] asked to clear out the lair quickly, in a couple of hours, promised to reward generously.</text></string>
-<string id="wolf_eliminate_lager_1_text"><text>Listen, Marked One, a friend and I had a stash here, right behind the ATP [TERM?], where the trees grow thicker, just the right spot, basically. Anyway, boars recently made a lair for themselves there. And it turns out we just can't get to the stash easily now. Help out - shoot the boars, and I'll make it worth your while, for myself and my friend.\nJust need to make it in a couple of hours, because one little thing from that stash might not be needed by me anymore.\nIf you manage it, I'll respect you... And my respect, as a rule, can translate into something useful:</text></string>
+<string id="wolf_eliminate_lager_1_descr"><text>Boars set up a lair right next to the place where Wolf and his friend made a stash. Wolf asked to clear out the lair quickly, in a couple of hours, promised to reward generously.</text></string>
+<string id="wolf_eliminate_lager_1_text"><text>Listen, Marked One, a friend and I had a stash here, right behind the ATP, where the trees grow thicker, just the right spot, basically. Anyway, boars recently made a lair for themselves there. And it turns out we just can't get to the stash easily now. Help out - shoot the boars, and I'll make it worth your while, for myself and my friend.\nJust need to make it in a couple of hours, because one little thing from that stash might not be needed by me anymore.\nIf you manage it, I'll respect you... And my respect, as a rule, can translate into something useful:</text></string>
 
 <string id="wolf_eliminate_lager_2"><text>Need to wipe out the flesh completely</text></string>
-<string id="wolf_eliminate_lager_2_descr"><text>Волк [TERM?] is asking to clear the former farm of flesh before a group of rookies arrives there to rest. Need to manage to get rid of the mutants in eight hours.</text></string>
+<string id="wolf_eliminate_lager_2_descr"><text>Wolf is asking to clear the former farm of flesh before a group of rookies arrives there to rest. Need to manage to get rid of the mutants in eight hours.</text></string>
 <string id="wolf_eliminate_lager_2_text"><text>Even though this is the edge of the Zone, it's rough for rookies here. Bandits are only half the trouble, at least they understand Russian. But mutants - you can't negotiate with them. The pigs fancied a lair for themselves at the abandoned farm, and that's the only good spot for a transit camp on that side of the embankment. If you can clear the farm of the scum - I owe you. Just keep in mind, I heard a group of goofballs making plans to set up a camp there after a trek past the embankment for artifacts. I had a really urgent call of nature right then, didn't have time to warn them that they shouldn't make camp at the farm. By my estimates they'll get there in about eight hours.\nIf you manage to clear the farm in that time, you'll get this from me:</text></string>
 
 <string id="zastava_commander_eliminate_lager"><text>Kill the dogs at the checkpoint</text></string>
 <string id="zastava_commander_eliminate_lager_descr"><text>A pack of dogs has settled near the southern checkpoint of the Duty members in the Bar. The guard commander is asking to clear out their lair in an hour. The urgency is explained by the fact that a certain important courier is about to arrive at any minute.</text></string>
 <string id="zastava_commander_eliminate_lager_text"><text>Despite our efforts, some monsters still break through from the Garbage side. And you've probably seen the beasts south of the checkpoint yourself. Now dogs have settled there, and we're expecting the arrival of an important courier any minute now. We don't have the right to leave the post, and there's no one else to assign this to - all the fighters are on missions... If you help kill the creatures - you'll get a reward.\nIf you get it done in an hour, then you'll get this from me:</text></string>
 
-<string id="petrenko_courier_1"><text>Dynamite for Волк [TERM?] from the Duty members' leadership</text></string>
-<string id="petrenko_courier_1_descr"><text>Волк [TERM?] needs dynamite for some urgent and important business. Need to manage to deliver the crate in half a day.</text></string>
-<string id="petrenko_courier_1_text"><text>So here's the deal, Marked One. I don't think I need to explain who Волк [TERM?] is to you? He's busy with a job right now, an important one for us included. He urgently needed dynamite. Anyway, here's the crate, will you take the job to deliver it quickly? It's necessary that it absolutely ends up with Волк [TERM?] no later than in half a day, otherwise... In short, the whole plan will go up in smoke otherwise.\nIf you handle it, Волк [TERM?] promises a good reward:</text></string>
+<string id="petrenko_courier_1"><text>Dynamite for Wolf from the Duty members' leadership</text></string>
+<string id="petrenko_courier_1_descr"><text>Wolf needs dynamite for some urgent and important business. Need to manage to deliver the crate in half a day.</text></string>
+<string id="petrenko_courier_1_text"><text>So here's the deal, Marked One. I don't think I need to explain who Wolf is to you? He's busy with a job right now, an important one for us included. He urgently needed dynamite. Anyway, here's the crate, will you take the job to deliver it quickly? It's necessary that it absolutely ends up with Wolf no later than in half a day, otherwise... In short, the whole plan will go up in smoke otherwise.\nIf you handle it, Wolf promises a good reward:</text></string>
 
 <string id="petrenko_courier_2"><text>Artifact from the Duty members' leadership for the scientists at Yantar</text></string>
-<string id="petrenko_courier_2_descr"><text>Need to quickly, preferably by tomorrow, pass an artifact to Сахаров [TERM?].</text></string>
-<string id="petrenko_courier_2_text"><text>Aren't you heading to Yantar? Need to quickly deliver an artifact to Сахаров [TERM?], and I'll only be able to get there in a few days... Well? Сахаров [TERM?] said he won't cheat the courier...</text></string>
+<string id="petrenko_courier_2_descr"><text>Need to quickly, preferably by tomorrow, pass an artifact to Sakharov.</text></string>
+<string id="petrenko_courier_2_text"><text>Aren't you heading to Yantar? Need to quickly deliver an artifact to Sakharov, and I'll only be able to get there in a few days... Well? Sakharov said he won't cheat the courier...</text></string>
 
-<string id="petrenko_courier_3"><text>Supplies for Череп's [TERM?] group from the Duty members' leadership</text></string>
-<string id="petrenko_courier_3_descr"><text>Need to deliver provisions to a separate quad of Duty members, under the leadership of Череп [TERM?], if possible, within two days...</text></string>
-<string id="petrenko_courier_3_text"><text>A group of our Duty members under the command of Major Cherepanov, callsign - Череп [TERM?], is currently carrying out a special mission... Planning some actions... But... A hungry fighter is a bad fighter! We need to deliver provisions to them as quickly as possible... Will you take on this job?</text></string>
+<string id="petrenko_courier_3"><text>Supplies for Skull's group from the Duty members' leadership</text></string>
+<string id="petrenko_courier_3_descr"><text>Need to deliver provisions to a separate quad of Duty members, under the leadership of Skull, if possible, within two days...</text></string>
+<string id="petrenko_courier_3_text"><text>A group of our Duty members under the command of Major Cherepanov, callsign - Skull, is currently carrying out a special mission... Planning some actions... But... A hungry fighter is a bad fighter! We need to deliver provisions to them as quickly as possible... Will you take on this job?</text></string>
 
 <string id="petrenko_courier_4"><text>Artifact from the Duty members' leadership for Raven</text></string>
 <string id="petrenko_courier_4_descr"><text>Deliver an unusual artifact to Raven in the Dark Valley... Must manage it today.</text></string>
 <string id="petrenko_courier_4_text"><text>Have you met Raven in the Dark Valley? He's set up some decent channels past the Cordon... Ships all sorts of oddities out of the Zone for good money... I contacted him here, want to pass him an unusual artifact. Will you take it? Just be quick about it, one foot here, the other... Also here...</text></string>
 
-<string id="petrenko_courier_5"><text>Ammo for Борян [TERM?] from the Duty members' leadership</text></string>
-<string id="petrenko_courier_5_descr"><text>Deliver AK ammo to Борян [TERM?] in the Swamps... Twenty packs, armor-piercing. In a couple of days.</text></string>
-<string id="petrenko_courier_5_text"><text>There's a folk healer sitting in the Swamps, Борян [TERM?] is his name, gathers all sorts of different, useful herbs. We want to pass him a little ammo from us here, for the peace of mind of his treks. Will you pass it on? Twenty packs. Except I promised it quickly, can you make it by tomorrow? Otherwise I'll find someone else...</text></string>
+<string id="petrenko_courier_5"><text>Ammo for Boryan from the Duty members' leadership</text></string>
+<string id="petrenko_courier_5_descr"><text>Deliver AK ammo to Boryan in the Swamps... Twenty packs, armor-piercing. In a couple of days.</text></string>
+<string id="petrenko_courier_5_text"><text>There's a folk healer sitting in the Swamps, Boryan is his name, gathers all sorts of different, useful herbs. We want to pass him a little ammo from us here, for the peace of mind of his treks. Will you pass it on? Twenty packs. Except I promised it quickly, can you make it by tomorrow? Otherwise I'll find someone else...</text></string>
 
 <string id="petrenko_find_item_1"><text>Get the drugs</text></string>
 <string id="petrenko_find_item_1_descr"><text>The Duty members need "Cat's Eye" drugs, no less than 40 packs. These drugs can be obtained from the scientists in the Swamps.</text></string>
@@ -1614,36 +1614,36 @@
 <string id="skraga_courier_1_descr"><text>Take a container with artifacts to Sidorovich at the Cordon... Deliver by tomorrow.</text></string>
 <string id="skraga_courier_1_text"><text>I gathered a few simple arts here, need to drop them off to Sidor at the Cordon. Nothing special in there, but I coded the lock... to be safe... Well? Do we have a deal?</text></string>
 
-<string id="skraga_courier_2"><text>Crate with samples for Сахаров [TERM?] from the Freedom members</text></string>
-<string id="skraga_courier_2_descr"><text>A crate with monster parts needs to be taken to Сахаров [TERM?] at Yantar very quickly. A couple of days is the deadline, or they'll go bad.</text></string>
-<string id="skraga_courier_2_text"><text>Сахаров [TERM?] asked to pass him parts from various mutants... We packed a little crate here, but they stink terribly. Will you take it? Just make it quick, before they rot completely...</text></string>
+<string id="skraga_courier_2"><text>Crate with samples for Sakharov from the Freedom members</text></string>
+<string id="skraga_courier_2_descr"><text>A crate with monster parts needs to be taken to Sakharov at Yantar very quickly. A couple of days is the deadline, or they'll go bad.</text></string>
+<string id="skraga_courier_2_text"><text>Sakharov asked to pass him parts from various mutants... We packed a little crate here, but they stink terribly. Will you take it? Just make it quick, before they rot completely...</text></string>
 
 <string id="skraga_courier_3"><text>"Weed" for the folks in Limansk</text></string>
-<string id="skraga_courier_3_descr"><text>Need to take a bag of "weed" to Limansk. Михалыч [TERM?] supposedly won't cheat me... Need it by tomorrow.</text></string>
-<string id="skraga_courier_3_text"><text>That "plan" you dragged in, the drifters seemed to like it... Our guys blabbed about it everywhere, so now Михалыч [TERM?], a dealer from Limansk, is asking to supply him with some weed too. Will you take it? He won't cheat you. And don't trip out - there's no narc control there, but... Keep your eyes peeled.</text></string>
+<string id="skraga_courier_3_descr"><text>Need to take a bag of "weed" to Limansk. Mikhalych supposedly won't cheat me... Need it by tomorrow.</text></string>
+<string id="skraga_courier_3_text"><text>That "plan" you dragged in, the drifters seemed to like it... Our guys blabbed about it everywhere, so now Mikhalych, a dealer from Limansk, is asking to supply him with some weed too. Will you take it? He won't cheat you. And don't trip out - there's no narc control there, but... Keep your eyes peeled.</text></string>
 
 <string id="skraga_courier_4"><text>Artifact from the Freedom members for Raven</text></string>
 <string id="skraga_courier_4_descr"><text>Pass an artifact to Raven... Preferably faster, need to make it by tomorrow.</text></string>
 <string id="skraga_courier_4_text"><text>Came across an incomprehensible artifact here... Doesn't seem like any of the locals really need it. Try showing it to Raven. He pushes all sorts of stuff from the Zone overseas. Maybe he'll push this one too...</text></string>
 
-<string id="skraga_courier_5"><text>Mutant parts from the Freedom members for Борян [TERM?]</text></string>
-<string id="skraga_courier_5_descr"><text>Pass mutant parts to Борян [TERM?] in the Swamps... Preferably faster. Need to get it done in a couple of days.</text></string>
-<string id="skraga_courier_5_text"><text>Have you heard about Борян [TERM?]? Well this guy, a healer. Sits in the Swamps, gathers all sorts of different herbs, dries them. Helps the folks with illnesses. He asked to gather chimera claws, so we hustled - gathered them. Will you take it? Just needs to be quick - while they're fresh! Think you can make the round trip in a couple of days? If you're not sure - it's better we make a deal with someone else</text></string>
+<string id="skraga_courier_5"><text>Mutant parts from the Freedom members for Boryan</text></string>
+<string id="skraga_courier_5_descr"><text>Pass mutant parts to Boryan in the Swamps... Preferably faster. Need to get it done in a couple of days.</text></string>
+<string id="skraga_courier_5_text"><text>Have you heard about Boryan? Well this guy, a healer. Sits in the Swamps, gathers all sorts of different herbs, dries them. Helps the folks with illnesses. He asked to gather chimera claws, so we hustled - gathered them. Will you take it? Just needs to be quick - while they're fresh! Think you can make the round trip in a couple of days? If you're not sure - it's better we make a deal with someone else</text></string>
 
 <string id="skraga_find_item_1"><text>Get the Duty members' harness</text></string>
-<string id="skraga_find_item_1_descr"><text>For one shady business it's necessary to get two Duty armors with respiratory protection of the PSZ-9d-2 [TERM?] type. Deadline is three days.</text></string>
-<string id="skraga_find_item_1_text"><text>There's a special assignment. Not an easy one, by the way... Need the harness of the Duty members. Their armors with respiratory protection, type PSZ-9d-2 [TERM?]. A couple of pieces. And, I hope, you understand that you shouldn't run your mouth about this request of mine? You, as they say, help me, well, and I help you... I already asked a couple of stalker acquaintances about this, but, I believe that it's you who will get my material gratitude!</text></string>
+<string id="skraga_find_item_1_descr"><text>For one shady business it's necessary to get two Duty armors with respiratory protection of the PSZ-9d-2 type. Deadline is three days.</text></string>
+<string id="skraga_find_item_1_text"><text>There's a special assignment. Not an easy one, by the way... Need the harness of the Duty members. Their armors with respiratory protection, type PSZ-9d-2. A couple of pieces. And, I hope, you understand that you shouldn't run your mouth about this request of mine? You, as they say, help me, well, and I help you... I already asked a couple of stalker acquaintances about this, but, I believe that it's you who will get my material gratitude!</text></string>
 <string id="skraga_find_item_1_no_need"><text>Stalkers! Armors are no longer needed. Already have them.</text></string>
 <string id="skraga_find_item_1_gg_no_need"><text>Attention! All the suits we needed have already been delivered... You can save yourselves the trouble.</text></string>
 
 <string id="skraga_find_item_2"><text>Get grenades</text></string>
-<string id="skraga_find_item_2_descr"><text>Шинкарь [TERM?] is asking to get forty F-1 type grenades. Only have three to four days total.</text></string>
+<string id="skraga_find_item_2_descr"><text>Shinkar is asking to get forty F-1 type grenades. Only have three to four days total.</text></string>
 <string id="skraga_find_item_2_text"><text>Lately we've been catastrophically short on grenades. If you gather a batch of forty F-1s, then I'll have something to reward you with. Just hurry - the reward awaits the fastest stalker, not the laziest.</text></string>
 <string id="skraga_find_item_2_no_need"><text>Stalkers! The grenades have been delivered. Thank you for your efforts...</text></string>
 <string id="skraga_find_item_2_gg_no_need"><text>Attention! I already gave out the reward for the grenades. There is nothing else.</text></string>
 
 <string id="skraga_find_item_3"><text>Get Val assault rifles</text></string>
-<string id="skraga_find_item_3_descr"><text>Шинкарь [TERM?] needed two Val type assault rifles for some business. Promises a not-so-bad reward. But gave little time, only three to four days total.</text></string>
+<string id="skraga_find_item_3_descr"><text>Shinkar needed two Val type assault rifles for some business. Promises a not-so-bad reward. But gave little time, only three to four days total.</text></string>
 <string id="skraga_find_item_3_text"><text>There was a skirmish recently with those, local cops - the Duty members. And well... In general, the folks and I have an idea to frame these 'righteous' ones... Now we need a weapon that can be linked to them. I have a request for you - get two Val type assault rifles. Well, and don't worry about the reward - I won't cheat you.</text></string>
 <string id="skraga_find_item_3_no_need"><text>Stalkers! The deal is off. Vals are not required.</text></string>
 <string id="skraga_find_item_3_gg_no_need"><text>Attention! The assault rifles have been delivered. One lucky stalker got the reward. The rest - missed out.</text></string>
@@ -1660,27 +1660,27 @@
 <string id="skraga_find_item_5_no_need"><text>Stalkers! Illumination grenades are no longer needed. The necessary amount has been received.</text></string>
 <string id="skraga_find_item_5_gg_no_need"><text>Attention! I already gave out the reward for the grenades. Not needed anymore for now.</text></string>
 
-<string id="engineer_courier_1"><text>Grenade launcher for Кэп [TERM?], at the Barrier, from Шуруп [TERM?]</text></string>
-<string id="engineer_courier_1_descr"><text>Take a grenade launcher to the Barrier, to Кэп [TERM?]. Within an hour.</text></string>
+<string id="engineer_courier_1"><text>Grenade launcher for Cap, at the Barrier, from Screw</text></string>
+<string id="engineer_courier_1_descr"><text>Take a grenade launcher to the Barrier, to Cap. Within an hour.</text></string>
 <string id="engineer_courier_1_text"><text>If you ain't afraid of poking around the Zone, grab an RPG for the Barrier, I tuned it up a little, seems there shouldn't be any misfires, if you hold it tenderly... Just make it quick... otherwise there'll be no one to shoot it.</text></string>
 
-<string id="engineer_courier_2"><text>Scope for Шустрый [TERM?] from Шуруп [TERM?]</text></string>
-<string id="engineer_courier_2_descr"><text>Pass a scope to Шустрый [TERM?]. Needs to be delivered today.</text></string>
-<string id="engineer_courier_2_text"><text>One stalker was looking for a decent scope over the network... Basically I have one... Will you pass it on? Шустрый [TERM?] is his name, was hanging around the Bar seemingly... It should be with him today. Deal?</text></string>
+<string id="engineer_courier_2"><text>Scope for Nimble from Screw</text></string>
+<string id="engineer_courier_2_descr"><text>Pass a scope to Nimble. Needs to be delivered today.</text></string>
+<string id="engineer_courier_2_text"><text>One stalker was looking for a decent scope over the network... Basically I have one... Will you pass it on? Nimble is his name, was hanging around the Bar seemingly... It should be with him today. Deal?</text></string>
 
-<string id="engineer_courier_3"><text>Armor to the Barrier from Шуруп [TERM?]</text></string>
+<string id="engineer_courier_3"><text>Armor to the Barrier from Screw</text></string>
 <string id="engineer_courier_3_descr"><text>Take armor to the Barrier. Needs to be done in an hour, maybe faster.</text></string>
 <string id="engineer_courier_3_text"><text>I patched up an armor for one of our guys at the Barrier here. Could you take it over, make it snappy? Promised it yesterday even, but went on a bit of a bender... Only remembered by morning... Awkward...</text></string>
 
-<string id="engineer_courier_4"><text>Artifact for Лысый [TERM?] from Шуруп [TERM?]</text></string>
-<string id="engineer_courier_4_descr"><text>Take an artifact to Лысый [TERM?]... so it's there today. A card debt.</text></string>
-<string id="engineer_courier_4_text"><text>Listen, you uh... just don't blab to our guys too much... Basically there's a dude in the Bar, Лысый [TERM?]. Dropped in there the other day... incognito, had some business with the local master. Had a drink to meeting up, a bite to eat, and here's this swindler. Well and I got into this bastard for an N-amount. Didn't have any cash on me, and a card debt - you know yourself. Take the artifact as payment, alright? Getting seen there unnecessarily is risky for me. Just don't drag it out.. And do it so there's no unnecessary noise...</text></string>
+<string id="engineer_courier_4"><text>Artifact for Baldy from Screw</text></string>
+<string id="engineer_courier_4_descr"><text>Take an artifact to Baldy... so it's there today. A card debt.</text></string>
+<string id="engineer_courier_4_text"><text>Listen, you uh... just don't blab to our guys too much... Basically there's a dude in the Bar, Baldy. Dropped in there the other day... incognito, had some business with the local master. Had a drink to meeting up, a bite to eat, and here's this swindler. Well and I got into this bastard for an N-amount. Didn't have any cash on me, and a card debt - you know yourself. Take the artifact as payment, alright? Getting seen there unnecessarily is risky for me. Just don't drag it out.. And do it so there's no unnecessary noise...</text></string>
 
-<string id="capten_courier_1"><text>Armor from the Barrier for Шуруп [TERM?]</text></string>
-<string id="capten_courier_1_descr"><text>Need to take a Monolith members' armor to Шуруп [TERM?]... fast.</text></string>
-<string id="capten_courier_1_text"><text>We took an armor off a Monolith member here. Looks like nothing special, but it's unclear why they're so invulnerable in them! Take it to our handyman - Шуруп [TERM?], maybe he'll find something in it... Think you can run there in an hour, even with two smoke breaks. What about you? Won't turn it down?</text></string>
+<string id="capten_courier_1"><text>Armor from the Barrier for Screw</text></string>
+<string id="capten_courier_1_descr"><text>Need to take a Monolith members' armor to Screw... fast.</text></string>
+<string id="capten_courier_1_text"><text>We took an armor off a Monolith member here. Looks like nothing special, but it's unclear why they're so invulnerable in them! Take it to our handyman - Screw, maybe he'll find something in it... Think you can run there in an hour, even with two smoke breaks. What about you? Won't turn it down?</text></string>
 
-<string id="capten_courier_2"><text>Gift for the Hunter in the Bar from Кэп [TERM?]</text></string>
+<string id="capten_courier_2"><text>Gift for the Hunter in the Bar from Cap</text></string>
 <string id="capten_courier_2_descr"><text>If I see the hunter, I'll tell him there are no more bloodsuckers in the village at the warehouses. Need to inform him within two days, before he leaves and the mandible goes bad.</text></string>
 <string id="capten_courier_2_text"><text>There was a Stalker here recently. Everyone calls him Hunter. Seemingly hunts mutants and turns in their parts on the mainland. He was really beating himself up that bloodsuckers in the little village, right near here, roughed him up badly. Kept asking us to deal with them if we got the chance, even left arts - as an advance. In short, if you meet him - tell him we sorted out those creatures! Here's a trophy, a tentacle from one of their posse! Well, will you make the victim happy?</text></string>
 
@@ -1688,23 +1688,23 @@
 <string id="capten_courier_3_descr"><text>Deliver two electrochimera kidneys to Sakharov at Yantar. Must be done within 24 hours.</text></string>
 <string id="capten_courier_3_text"><text>Sakharov put out a message over the network saying that he and the other eggheads holed up at Yantar are after parts from rare mutants. As it happens, a couple of those showed up at our checkpoint recently — electric chimeras, you've heard of them, right? Nasty beasts. We barely held them off, and even then we took losses. Anyway, take what's left of those things to Yantar and let them study it. Maybe they'll figure out some kind of countermeasure...\nJust don't drag your feet — try to get it done within a day, or the innards will rot.</text></string>
 
-<string id="capten_courier_4"><text>Artifact for Михалыч [TERM?] from Кэп [TERM?]</text></string>
-<string id="capten_courier_4_descr"><text>Need to take a unique artifact to Limansk, to Михалыч [TERM?]. Supposedly promise a good reward. I can manage it in a couple of days.</text></string>
-<string id="capten_courier_4_text"><text>You know Михалыч [TERM?] - the trader in Limansk? He's interested in all sorts of unusual artifacts. And here I just came across one. Won't take the job to carry it? Even though Михалыч [TERM?] is kin to Sidor, he's not such a tightwad... won't shortchange the messenger.</text></string>
+<string id="capten_courier_4"><text>Artifact for Mikhalych from Cap</text></string>
+<string id="capten_courier_4_descr"><text>Need to take a unique artifact to Limansk, to Mikhalych. Supposedly promise a good reward. I can manage it in a couple of days.</text></string>
+<string id="capten_courier_4_text"><text>You know Mikhalych - the trader in Limansk? He's interested in all sorts of unusual artifacts. And here I just came across one. Won't take the job to carry it? Even though Mikhalych is kin to Sidor, he's not such a tightwad... won't shortchange the messenger.</text></string>
 
-<string id="cherep_courier_1"><text>PDA for Петренко [TERM?] from Череп [TERM?]</text></string>
-<string id="cherep_courier_1_descr"><text>Pass a Freedom member's PDA to Петренко [TERM?]. Deadline - two days.</text></string>
-<string id="cherep_courier_1_text"><text>We had a little spat with the Freedom members here, so we peeked at an interesting little file in the PDA of one of them, who's currently having a frying pan heated for him by devils... Couldn't decrypt it right off... Will you take the job to quickly pass it to Петренко [TERM?]? I sense there's some interesting info in there. Just make it snappy, before it gets outdated!</text></string>
+<string id="cherep_courier_1"><text>PDA for Petrenko from Skull</text></string>
+<string id="cherep_courier_1_descr"><text>Pass a Freedom member's PDA to Petrenko. Deadline - two days.</text></string>
+<string id="cherep_courier_1_text"><text>We had a little spat with the Freedom members here, so we peeked at an interesting little file in the PDA of one of them, who's currently having a frying pan heated for him by devils... Couldn't decrypt it right off... Will you take the job to quickly pass it to Petrenko? I sense there's some interesting info in there. Just make it snappy, before it gets outdated!</text></string>
 
-<string id="cherep_courier_2"><text>Little device for Prapor from Череп [TERM?]</text></string>
+<string id="cherep_courier_2"><text>Little device for Prapor from Skull</text></string>
 <string id="cherep_courier_2_descr"><text>Take a little device to Prapor at the Garbage checkpoint. Deadline - two days.</text></string>
 <string id="cherep_courier_2_text"><text>Know the commander of our checkpoint at the Garbage? He asked to find a certain little device, so we confiscated one from a layabout. What the hell do fools need good devices for... In short, if you carry it there - you'll get gratitude from Prapor personally.</text></string>
 
-<string id="cherep_courier_3"><text>Walkie-talkie for Киценко [TERM?] from Череп [TERM?]</text></string>
-<string id="cherep_courier_3_descr"><text>Pass a walkie-talkie to Sergeant Киценко [TERM?] in the Bar. Deadline - two days.</text></string>
-<string id="cherep_courier_3_text"><text>Know Киценко [TERM?]? He commands our quad on the southern edge of the Bar... Anyway, I have a proposal for him that I don't want to trust to regular comm channels. Will you take the walkie-talkie to him? I encrypted one channel there... He'll reward you, don't doubt it...</text></string>
+<string id="cherep_courier_3"><text>Walkie-talkie for Kitsenko from Skull</text></string>
+<string id="cherep_courier_3_descr"><text>Pass a walkie-talkie to Sergeant Kitsenko in the Bar. Deadline - two days.</text></string>
+<string id="cherep_courier_3_text"><text>Know Kitsenko? He commands our quad on the southern edge of the Bar... Anyway, I have a proposal for him that I don't want to trust to regular comm channels. Will you take the walkie-talkie to him? I encrypted one channel there... He'll reward you, don't doubt it...</text></string>
 
-<string id="cherep_courier_4"><text>Assault rifle for Brom from Череп [TERM?]</text></string>
+<string id="cherep_courier_4"><text>Assault rifle for Brom from Skull</text></string>
 <string id="cherep_courier_4_descr"><text>Take an assault rifle to the perpetually drunk Duty member Brom. Deadline - two days.</text></string>
 <string id="cherep_courier_4_text"><text>One of our guys... Brom... Got into big trouble - lost his weapon. We clashed with those stoned freaks here and took what seems like a similar gun off one of them! Will you take it to the Bar? I think Brom will be on cloud nine, just tell him not to be in a particular hurry to get there, there's enough work for him here too!</text></string>
 
@@ -1724,37 +1724,37 @@
 <string id="prapor_courier_4_descr"><text>Take memory cards from recording devices to the scientists at Yantar. Must deliver in two days.</text></string>
 <string id="prapor_courier_4_text"><text>The nerds who hang out at Yantar set up their devices here, and well, asked to send the results from them sometimes. Only needs to be done quickly, because data gets outdated fast. If you're not heading that way, then I'll just send someone from my guys.</text></string>
 
-<string id="lim_trader_courier_1"><text>Artifact for Sidorovich from Михалыч [TERM?]</text></string>
+<string id="lim_trader_courier_1"><text>Artifact for Sidorovich from Mikhalych</text></string>
 <string id="lim_trader_courier_1_descr"><text>Take a unique artifact to Sidorovich, at the Cordon. Need to make it in two days.</text></string>
 <string id="lim_trader_courier_1_text"><text>Look ye 'ere, what I've got, eh?! Like it?! This thing needs takin' to my crony - at the Cordon. That old spec... negotiator knows better what to do with it. Just don't sleep on the road, fly like the wind, 'cause it's unstable, this formation.. got it? So it don't turn out that - carried an artifact, but brought a handful of zilch.</text></string>
 
-<string id="lim_trader_courier_2"><text>Artifact for the scientists from Михалыч [TERM?]</text></string>
+<string id="lim_trader_courier_2"><text>Artifact for the scientists from Mikhalych</text></string>
 <string id="lim_trader_courier_2_descr"><text>Take an unknown artifact to Yantar. Maybe it'll interest the scientists. Need to get it done in a day.</text></string>
 <string id="lim_trader_courier_2_text"><text>My lads brought me somethin' incomprehensible... I ain't ever seen such a thing, and keepin' it on me - is somewhat frightenin', and to throw it out... *cough*.. well the toad would choke me with greed... So I already contacted who I need to - can ye find the way to Yantar? Oh, then take it. The men of science said they'll give the courier a good reward, ye'll be glad.</text></string>
 
-<string id="lim_trader_courier_3"><text>Supplies for the Freedom members from Михалыч [TERM?]</text></string>
+<string id="lim_trader_courier_3"><text>Supplies for the Freedom members from Mikhalych</text></string>
 <string id="lim_trader_courier_3_descr"><text>The trader from Limansk is passing some food supplies to the Freedom members at the Army Warehouses. Maybe bloodsucker tentacles in tomato sauce? One day deadline, or they'll go sour.</text></string>
 <string id="lim_trader_courier_3_text"><text>Here's the deal - the connoisseurs of local cuisine, who dwell at the Warehouses, asked me real nice to pass 'em some human grub... 'cause seemingly "bloodsucker maws in tomato sauce" just won't go down their gullets anymore... heh-heh-heh. Generally I've got somethin' more or less ordinary for 'em... the kind everyone eats. Just be swift about it, 'cause ye know yerself - don't eat for a day here, and ye've croaked from starvation... there'll be no one to settle up with ye.</text></string>
 
-<string id="lim_trader_courier_4"><text>Armor to the Barrier from Михалыч [TERM?]</text></string>
-<string id="lim_trader_courier_4_descr"><text>Take a new armor to Кэп [TERM?], maybe it'll protect against this unknown weapon. Gave a deadline until tomorrow.</text></string>
-<string id="lim_trader_courier_4_text"><text>There's an uncle at the Barrier - Кэп [TERM?]... heard of him? Maybe he is a captain, a sea wolf, and maybe not - that ain't important... He and I got our own, little commerce. So look. He said that lately, these... Monolith members are pushin' on 'em, or whatever they are, and they got some new weapon too... Gotta take this armor to him - maybe it'll help him against those adversaries, that push from the Radar [TERM?]... Will ye take it? He'll give ye somethin' for it - somethin' good, don't doubt it.</text></string>
+<string id="lim_trader_courier_4"><text>Armor to the Barrier from Mikhalych</text></string>
+<string id="lim_trader_courier_4_descr"><text>Take a new armor to Cap, maybe it'll protect against this unknown weapon. Gave a deadline until tomorrow.</text></string>
+<string id="lim_trader_courier_4_text"><text>There's an uncle at the Barrier - Cap... heard of him? Maybe he is a captain, a sea wolf, and maybe not - that ain't important... He and I got our own, little commerce. So look. He said that lately, these... Monolith members are pushin' on 'em, or whatever they are, and they got some new weapon too... Gotta take this armor to him - maybe it'll help him against those adversaries, that push from the Radar... Will ye take it? He'll give ye somethin' for it - somethin' good, don't doubt it.</text></string>
 
-<string id="lim_trader_courier_5"><text>Artifact for Борян [TERM?] from Михалыч [TERM?]</text></string>
-<string id="lim_trader_courier_5_descr"><text>Take a new artifact to Борян [TERM?], in the Swamps. Need to run there within three days.</text></string>
-<string id="lim_trader_courier_5_text"><text>Ye heard 'bout Борян [TERM?]? Well that one, supposedly the "folk doctor" - sits in the Swamps, gathers some herbs, dries 'em... helps good folks with all sorts of ailments and sicknesses - a good man. And me and the uncles here decided, that we gotta thank him too, from our side, somehow: gift him an artifact like this, that's got healin' properties. Just gotta pull this off snappy - so that magical power don't vanish from the artifact! Can ye do it in three days? If ye can, then Борян [TERM?] will pour ye a bit of somethin' useful - he's got some, for stalkers. And if not, then I'll look for somebody else..</text></string>
+<string id="lim_trader_courier_5"><text>Artifact for Boryan from Mikhalych</text></string>
+<string id="lim_trader_courier_5_descr"><text>Take a new artifact to Boryan, in the Swamps. Need to run there within three days.</text></string>
+<string id="lim_trader_courier_5_text"><text>Ye heard 'bout Boryan? Well that one, supposedly the "folk doctor" - sits in the Swamps, gathers some herbs, dries 'em... helps good folks with all sorts of ailments and sicknesses - a good man. And me and the uncles here decided, that we gotta thank him too, from our side, somehow: gift him an artifact like this, that's got healin' properties. Just gotta pull this off snappy - so that magical power don't vanish from the artifact! Can ye do it in three days? If ye can, then Boryan will pour ye a bit of somethin' useful - he's got some, for stalkers. And if not, then I'll look for somebody else..</text></string>
 
-<string id="borzyi_courier_1"><text>"Gift" for Tooth from Борзый [TERM?]</text></string>
+<string id="borzyi_courier_1"><text>"Gift" for Tooth from Borzyi</text></string>
 <string id="borzyi_courier_1_descr"><text>Pass a crate to Tooth...</text></string>
 <string id="borzyi_courier_1_text"><text>Ye heard 'bout Tooth - well he's at the Bar, sellin' all sorts of tall tales to the suckers for serious dough - heard of him? Yeah I know, he conned you too.. heh-heh. So here's the deal, we gathered somethin' for him here... basically you ain't interested in this. I jotted down a couple lines for him there. He'll basically understand what it's 'bout... Will ya zip over there? Gotta get it done in half a day. Tooth will throw somethin' your way, don't doubt it - you won't be left holdin' the bag. Well, did we chop it up?</text></string>
 
-<string id="borzyi_courier_2"><text>Package for Вахтанг [TERM?] from Борзый [TERM?]</text></string>
-<string id="borzyi_courier_2_descr"><text>Need to pass a package from Борзый [TERM?] to the merc Вахтанг [TERM?], at the Army Warehouses.</text></string>
-<string id="borzyi_courier_2_text"><text>So like here's the deal - completely, fo' real, by chance one of our bros came across all sorts of busted PDAs. A pretty serious pile. And one dude at the Warehouses, Вахтанг [TERM?] is his street name, collects 'em. I packed 'em in a little crate, well you uh, haul it over. If in half a day, then Вахтанг [TERM?] will pour ya somethin'. Alright?</text></string>
+<string id="borzyi_courier_2"><text>Package for Vakhtang from Borzyi</text></string>
+<string id="borzyi_courier_2_descr"><text>Need to pass a package from Borzyi to the merc Vakhtang, at the Army Warehouses.</text></string>
+<string id="borzyi_courier_2_text"><text>So like here's the deal - completely, fo' real, by chance one of our bros came across all sorts of busted PDAs. A pretty serious pile. And one dude at the Warehouses, Vakhtang is his street name, collects 'em. I packed 'em in a little crate, well you uh, haul it over. If in half a day, then Vakhtang will pour ya somethin'. Alright?</text></string>
 
 <string id="borov_kill_stalker"><text>Find out what happened to the courier.</text></string>
 <string id="borov_kill_stalker_descr"><text>Need to find out where the courier disappeared to and, if possible, find his belongings.</text></string>
-<string id="borov_kill_stalker_text"><text>In short, here's the deal - three clowns were hoofin' it to me, one had some serious intel. I told 'em, shit, keep your heads down, you seals, take the back roads to me, so no one even catches a shadow... But no - got into a scrap with some stalker trash on the way, only one made it out of that mess. Another one supposedly got nailed on the spot with a grenade, and the third seems like he got wounded, maybe ain't kicked the bucket yet. And here word got 'round that the Duty members pinched someone, someone from our guys.. If it's my courier, that's gonna be real bad - the Duty members got this one beast, Иванцов [TERM?] is his last name - absolutely zero street smarts, a cop's mug... he'll crack anyone you want in a second.\nYou should go, rub shoulders there, cipher out what's what, who they pinched... Only the first guy you meet ain't gonna start waggin' his tongue there, I reckon... Roll up on one Duty member, tip him off that you're from me. In short, find out - who they pinched and what they found on him, and if they found anything at all... A notebook, a note, a journal... a message, in short, somethin'... And if you bring it to me, you'll be a real beauty - I'll roll out a prize, everyone will be green with envy. And don't drag it out - two days deadline for this, no more.</text></string>
+<string id="borov_kill_stalker_text"><text>In short, here's the deal - three clowns were hoofin' it to me, one had some serious intel. I told 'em, shit, keep your heads down, you seals, take the back roads to me, so no one even catches a shadow... But no - got into a scrap with some stalker trash on the way, only one made it out of that mess. Another one supposedly got nailed on the spot with a grenade, and the third seems like he got wounded, maybe ain't kicked the bucket yet. And here word got 'round that the Duty members pinched someone, someone from our guys.. If it's my courier, that's gonna be real bad - the Duty members got this one beast, Ivantsov is his last name - absolutely zero street smarts, a cop's mug... he'll crack anyone you want in a second.\nYou should go, rub shoulders there, cipher out what's what, who they pinched... Only the first guy you meet ain't gonna start waggin' his tongue there, I reckon... Roll up on one Duty member, tip him off that you're from me. In short, find out - who they pinched and what they found on him, and if they found anything at all... A notebook, a note, a journal... a message, in short, somethin'... And if you bring it to me, you'll be a real beauty - I'll roll out a prize, everyone will be green with envy. And don't drag it out - two days deadline for this, no more.</text></string>
 
 <string id="borov_kill_stalker_dlg_101"><text>What are you lookin' out for here?</text></string>
 <string id="borov_kill_stalker_dlg_1083"><text>An artifact? For what? I'll find you a dozen broken PDAs like that. I'll go to that stalker of yours...</text></string>
@@ -1769,99 +1769,99 @@
 <string id="borov_kill_stalker_dlg_done_2"><text>What gear, there was nothing - either he lost it while crawling, or destroyed it, or something else. Here, just a broken PDA...</text></string>
 <string id="borov_kill_stalker_dlg_done_3"><text>Yeah... This ain't a PDA, you can't even tell whose it was now. Well then... there was nothin' - and that's good too. Means it wasn't him, or he managed to figure it out and got rid of it in time... Thanks for that anyway.</text></string>
 
-<string id="lesnik_courier_1"><text>Flesh hides for the hunters from Jaeger [TERM?]</text></string>
-<string id="lesnik_courier_1_descr"><text>Pass five flesh hides to Ignat [TERM?] in the Gut from Jaeger [TERM?]. Two days deadline.</text></string>
+<string id="lesnik_courier_1"><text>Flesh hides for the hunters from Jaeger</text></string>
+<string id="lesnik_courier_1_descr"><text>Pass five flesh hides to Ignat in the Gut from Jaeger. Two days deadline.</text></string>
 <string id="lesnik_courier_1_text"><text>I shot some pigs here, gathered some hides. Now I need to pass them to the hunters in the Gut for tanning. You wouldn't happen to be heading that way? Just think it over right away: the hides will go bad if you don't make it in a couple of days. If anything - I'll hire the guys from Freedom.</text></string>
 
-<string id="lesnik_courier_2"><text>Monster parts for Boryan [TERM?] from Jaeger [TERM?]</text></string>
-<string id="lesnik_courier_2_descr"><text>Jaeger [TERM?] is passing a crate with monster meat to Boryan [TERM?] in the Swamps. Two days deadline.</text></string>
-<string id="lesnik_courier_2_text"><text>I want to make Boryan [TERM?], the healer from the Swamps, happy - his herbs helped, thanks to him... Here, I gathered something for his medical practice, want to pass it to him. Are you heading towards the Swamps by chance? Need to carry it over in a couple of days, make it before they go bad. Will you take the job?</text></string>
+<string id="lesnik_courier_2"><text>Monster parts for Boryan from Jaeger</text></string>
+<string id="lesnik_courier_2_descr"><text>Jaeger is passing a crate with monster meat to Boryan in the Swamps. Two days deadline.</text></string>
+<string id="lesnik_courier_2_text"><text>I want to make Boryan, the healer from the Swamps, happy - his herbs helped, thanks to him... Here, I gathered something for his medical practice, want to pass it to him. Are you heading towards the Swamps by chance? Need to carry it over in a couple of days, make it before they go bad. Will you take the job?</text></string>
 
-<string id="lesnik_courier_3"><text>Chimera claws for Pakhom [TERM?] from Jaeger [TERM?]</text></string>
-<string id="lesnik_courier_3_descr"><text>Pass five chimera claws to Pakhom [TERM?], the quartermaster of the zoologists' base in the Swamps, for experiments. Gave a couple of days deadline.</text></string>
+<string id="lesnik_courier_3"><text>Chimera claws for Pakhom from Jaeger</text></string>
+<string id="lesnik_courier_3_descr"><text>Pass five chimera claws to Pakhom, the quartermaster of the zoologists' base in the Swamps, for experiments. Gave a couple of days deadline.</text></string>
 <string id="lesnik_courier_3_text"><text>The nerds who organized a base for themselves in the Swamps were very interested in chimera claws for their experiments. If you're heading that way, would you agree to quickly pass along five of these claws? Just try to make the trip in a couple of days? Seems like they need particularly fresh claws, trash is not required.</text></string>
 
-<string id="lesnik_courier_4"><text>Artifacts to Yantar from Jaeger [TERM?]</text></string>
-<string id="lesnik_courier_4_descr"><text>Pass two unusual artifacts to Sakharov [TERM?]. Must manage it by tomorrow.</text></string>
-<string id="lesnik_courier_4_text"><text>I accidentally came across a couple of unusual arts here, in our thicket. If you have the chance to take them to Sakharov [TERM?] at Yantar, you'll come out ahead. Just make it quick, preferably by tomorrow.</text></string>
+<string id="lesnik_courier_4"><text>Artifacts to Yantar from Jaeger</text></string>
+<string id="lesnik_courier_4_descr"><text>Pass two unusual artifacts to Sakharov. Must manage it by tomorrow.</text></string>
+<string id="lesnik_courier_4_text"><text>I accidentally came across a couple of unusual arts here, in our thicket. If you have the chance to take them to Sakharov at Yantar, you'll come out ahead. Just make it quick, preferably by tomorrow.</text></string>
 
-<string id="lesnik_courier_5"><text>Tails for Sidorovich from Jaeger [TERM?]</text></string>
+<string id="lesnik_courier_5"><text>Tails for Sidorovich from Jaeger</text></string>
 <string id="lesnik_courier_5_descr"><text>Pass ten pseudo tails to Sidorovich. Two days deadline.</text></string>
 <string id="lesnik_courier_5_text"><text>Sidorovich gave me a signal that he urgently needs pseudo tails. I shot some here. Very good ones. You weren't planning on heading towards the Cordon? Maybe you'll grab them? Need to manage it in a couple of days here, so they don't rot...</text></string>
 
 <string id="green_glavn_courier_1"><text>Batch of sausages for the Freedom members</text></string>
-<string id="green_glavn_courier_1_descr"><text>Pass a box with a batch of sausages from the hunters to Lukash [TERM?] at the Warehouses. Two days deadline, or they'll stink anyway.</text></string>
-<string id="green_glavn_courier_1_text"><text>By agreement with the guys from Freedom, we are obligated to supply a batch of sausages of our own making every week. The deadline is approaching, and there's no one to pass them with - will you take the job to deliver the box with our "delicacies" to Lukash [TERM?]? He'll settle up with you - don't worry.</text></string>
+<string id="green_glavn_courier_1_descr"><text>Pass a box with a batch of sausages from the hunters to Lukash at the Warehouses. Two days deadline, or they'll stink anyway.</text></string>
+<string id="green_glavn_courier_1_text"><text>By agreement with the guys from Freedom, we are obligated to supply a batch of sausages of our own making every week. The deadline is approaching, and there's no one to pass them with - will you take the job to deliver the box with our "delicacies" to Lukash? He'll settle up with you - don't worry.</text></string>
 
 <string id="green_glavn_courier_2"><text>Batch of sausages for the Duty members</text></string>
-<string id="green_glavn_courier_2_descr"><text>Need to pass another batch of "delicacies" from the hunters to Petrenko [TERM?]... Two days deadline, or they'll stink anyway.</text></string>
-<string id="green_glavn_courier_2_text"><text>We made a deal with the Duty members. Here, from time to time we pass them a batch of sausages of our own making. There hasn't been a courier from them in the last few days. Will you take the job to deliver the box? It's not a lot, a weekly supply. And Petrenko [TERM?] will settle up with you fairly.</text></string>
+<string id="green_glavn_courier_2_descr"><text>Need to pass another batch of "delicacies" from the hunters to Petrenko... Two days deadline, or they'll stink anyway.</text></string>
+<string id="green_glavn_courier_2_text"><text>We made a deal with the Duty members. Here, from time to time we pass them a batch of sausages of our own making. There hasn't been a courier from them in the last few days. Will you take the job to deliver the box? It's not a lot, a weekly supply. And Petrenko will settle up with you fairly.</text></string>
 
-<string id="green_glavn_courier_3"><text>Sausage from the hunters for Boryan [TERM?]</text></string>
-<string id="green_glavn_courier_3_descr"><text>Take a box with sausage to Boryan [TERM?], in the Swamps, out of gratitude. Must make it in a day.</text></string>
-<string id="green_glavn_courier_3_text"><text>Boryan [TERM?], the doctor in the Swamps, helps out from time to time with his herbs for ailments. Well, and out of gratitude we pass our delicacies to him from time to time. If you're heading there, would you agree to grab a little box with sausages? Just try to make the trip quickly - Boryan [TERM?] said that mutants devoured all his grub when he was away. Can you make it in a day?</text></string>
+<string id="green_glavn_courier_3"><text>Sausage from the hunters for Boryan</text></string>
+<string id="green_glavn_courier_3_descr"><text>Take a box with sausage to Boryan, in the Swamps, out of gratitude. Must make it in a day.</text></string>
+<string id="green_glavn_courier_3_text"><text>Boryan, the doctor in the Swamps, helps out from time to time with his herbs for ailments. Well, and out of gratitude we pass our delicacies to him from time to time. If you're heading there, would you agree to grab a little box with sausages? Just try to make the trip quickly - Boryan said that mutants devoured all his grub when he was away. Can you make it in a day?</text></string>
 
 <string id="green_glavn_courier_4"><text>Batch of sausages for the bros in the Dark Valley</text></string>
 <string id="green_glavn_courier_4_descr"><text>Need to pass another batch of "delicacies" from the hunters to Borov, in the Dark Valley... Must make it in a day.</text></string>
 <string id="green_glavn_courier_4_text"><text>We have a small deal with the guys from the Dark Valley. We give them our sausages, they also help out with a few things. Won't you take the job to carry over another batch? Just make it quick - Borov doesn't like delays. If you think you won't make it there in a day - I'll just send one of my guys.</text></string>
 
-<string id="green_glavn_courier_5"><text>Ammo for Jaeger [TERM?] in the Red Forest</text></string>
-<string id="green_glavn_courier_5_descr"><text>Pass two hundred rounds with a heavy unjacketed bullet to Jaeger [TERM?] in the Red Forest within two days.</text></string>
-<string id="green_glavn_courier_5_text"><text>Jaeger [TERM?] from the Red Forest sometimes tosses us parts of the beasts from over there. Recently asked to gather some ammo for a shotgun with a heavy bullet for him. Won't you pass them from us? Can you make it there in two days? If not, then we'll send someone else...</text></string>
+<string id="green_glavn_courier_5"><text>Ammo for Jaeger in the Red Forest</text></string>
+<string id="green_glavn_courier_5_descr"><text>Pass two hundred rounds with a heavy unjacketed bullet to Jaeger in the Red Forest within two days.</text></string>
+<string id="green_glavn_courier_5_text"><text>Jaeger from the Red Forest sometimes tosses us parts of the beasts from over there. Recently asked to gather some ammo for a shotgun with a heavy bullet for him. Won't you pass them from us? Can you make it there in two days? If not, then we'll send someone else...</text></string>
 
 <string id="green_glavn_eliminate_lager_1"><text>Destroy the flesh lair</text></string>
-<string id="green_glavn_eliminate_lager_1_descr"><text>Ignat [TERM?] is asking to clear out the flesh lair in the Gut. Promises to throw in an artifact and sausages as a reward, but need to manage to finish the mutants off in a day.</text></string>
+<string id="green_glavn_eliminate_lager_1_descr"><text>Ignat is asking to clear out the flesh lair in the Gut. Promises to throw in an artifact and sausages as a reward, but need to manage to finish the mutants off in a day.</text></string>
 <string id="green_glavn_eliminate_lager_1_text"><text>There's a certain matter here. The local ecologists got the urge to run some experiment. And as luck would have it, fleshes fancied that area. My guys are busy right now, and the nerds are burning up, that's how urgent it is. Will you take the job to help science and rid them of the neighborhood with mutants? Need to get it done in a day. \nI'll make it worth your while. I have a little artifact and I'll toss in some of our sausage.</text></string>
 
-<string id="boryan_courier_1"><text>Medicine from Boryan [TERM?] for the Duty members</text></string>
-<string id="boryan_courier_1_descr"><text>Take a package with medicinal herbs to the Bar, to Colonel Petrenko [TERM?]. One day deadline.</text></string>
-<string id="boryan_courier_1_text"><text>The Duty members asked to pass along another batch of my herbs. Would you agree? Just make it quick, seems one of them over there has a bad stomach - he's dying. Can you manage it in a day? Petrenko [TERM?] will reward you. If you're not sure - it's better I ask someone else.</text></string>
+<string id="boryan_courier_1"><text>Medicine from Boryan for the Duty members</text></string>
+<string id="boryan_courier_1_descr"><text>Take a package with medicinal herbs to the Bar, to Colonel Petrenko. One day deadline.</text></string>
+<string id="boryan_courier_1_text"><text>The Duty members asked to pass along another batch of my herbs. Would you agree? Just make it quick, seems one of them over there has a bad stomach - he's dying. Can you manage it in a day? Petrenko will reward you. If you're not sure - it's better I ask someone else.</text></string>
 
-<string id="boryan_courier_2"><text>Medicine from Boryan [TERM?] for the hunters</text></string>
+<string id="boryan_courier_2"><text>Medicine from Boryan for the hunters</text></string>
 <string id="boryan_courier_2_descr"><text>Take a package with medicinal herbs to the Gut, to the sawmill. One day deadline.</text></string>
-<string id="boryan_courier_2_text"><text>The hunters asked to pass along another batch of my herbs. Would you agree? Just make it quick, seems one of them over there has a bad stomach - he's dying. Can you manage it in a day? Ignat [TERM?] will reward you. If you're not sure - it's better I ask someone else.</text></string>
+<string id="boryan_courier_2_text"><text>The hunters asked to pass along another batch of my herbs. Would you agree? Just make it quick, seems one of them over there has a bad stomach - he's dying. Can you manage it in a day? Ignat will reward you. If you're not sure - it's better I ask someone else.</text></string>
 
-<string id="boryan_courier_3"><text>Medicine from Boryan [TERM?] for the Freedom members</text></string>
-<string id="boryan_courier_3_descr"><text>Find Shinkar [TERM?] at the Freedom members' base and pass him a package with medicinal herbs. Only a day deadline.</text></string>
-<string id="boryan_courier_3_text"><text>There was a courier from the Freedom members recently. Shinkar [TERM?] complains that an illness has befallen them - asked to pass another batch of my herbs. Would you agree? Just make it quick. Can you manage it in a day? Shinkar [TERM?] will pour you a bit of something. If you're not sure - it's better I ask someone else.</text></string>
+<string id="boryan_courier_3"><text>Medicine from Boryan for the Freedom members</text></string>
+<string id="boryan_courier_3_descr"><text>Find Shinkar at the Freedom members' base and pass him a package with medicinal herbs. Only a day deadline.</text></string>
+<string id="boryan_courier_3_text"><text>There was a courier from the Freedom members recently. Shinkar complains that an illness has befallen them - asked to pass another batch of my herbs. Would you agree? Just make it quick. Can you manage it in a day? Shinkar will pour you a bit of something. If you're not sure - it's better I ask someone else.</text></string>
 
-<string id="boryan_courier_4"><text>Medicine from Boryan [TERM?] to Limansk</text></string>
-<string id="boryan_courier_4_descr"><text>Take a couple of packages with medicinal herbs to Limansk, to Mikhalych [TERM?]. Need to deliver in a day, day and a half.</text></string>
-<string id="boryan_courier_4_text"><text>Mikhalych [TERM?] sent a little man over, seems like my herbs are doing well with the stalkers there. Asked to pass another batch of my herbs. Would you agree? Just make it quick, seems one of them over there has a bad stomach - he's dying. Can you manage it in a day? Mikhalych [TERM?] will find a way to reward the courier. But if you're not sure - it's better I ask someone else.</text></string>
+<string id="boryan_courier_4"><text>Medicine from Boryan to Limansk</text></string>
+<string id="boryan_courier_4_descr"><text>Take a couple of packages with medicinal herbs to Limansk, to Mikhalych. Need to deliver in a day, day and a half.</text></string>
+<string id="boryan_courier_4_text"><text>Mikhalych sent a little man over, seems like my herbs are doing well with the stalkers there. Asked to pass another batch of my herbs. Would you agree? Just make it quick, seems one of them over there has a bad stomach - he's dying. Can you manage it in a day? Mikhalych will find a way to reward the courier. But if you're not sure - it's better I ask someone else.</text></string>
 
-<string id="boryan_courier_5"><text>Medicine from Boryan [TERM?] for the bros in the Dark Valley</text></string>
+<string id="boryan_courier_5"><text>Medicine from Boryan for the bros in the Dark Valley</text></string>
 <string id="boryan_courier_5_descr"><text>Take a few packages with medicinal herbs to the Valley, to Borov. Half a day for delivery.</text></string>
 <string id="boryan_courier_5_text"><text>Know about Borov? He's the main boss in the Dark Valley. An errand boy of his came running, asking to send more herbs. Would you agree? Just make it quick, something's burning up with them over there. Can you manage it in about 12 hours? Borov will reward you. If you're not sure - it's better I ask someone else.</text></string>
 
-<string id="boryan_courier_6"><text>Medicine from Boryan [TERM?] for Jaeger [TERM?] in the Red Forest</text></string>
-<string id="boryan_courier_6_descr"><text>Take a couple of packages with medicinal herbs to Jaeger [TERM?] in the Red Forest. Need to manage it in a day and a half maximum.</text></string>
-<string id="boryan_courier_6_text"><text>Haven't met with Jaeger [TERM?] in the Red Forest? He manages the mutant herds over there... Sometimes sends me some guts too, needed for medical practice. Will you take a couple of packages with my herbs to him? Just see here, the package needs to be delivered in about a day and a half - max. If you have your own business somewhere, then I'll ask somebody else.</text></string>
+<string id="boryan_courier_6"><text>Medicine from Boryan for Jaeger in the Red Forest</text></string>
+<string id="boryan_courier_6_descr"><text>Take a couple of packages with medicinal herbs to Jaeger in the Red Forest. Need to manage it in a day and a half maximum.</text></string>
+<string id="boryan_courier_6_text"><text>Haven't met with Jaeger in the Red Forest? He manages the mutant herds over there... Sometimes sends me some guts too, needed for medical practice. Will you take a couple of packages with my herbs to him? Just see here, the package needs to be delivered in about a day and a half - max. If you have your own business somewhere, then I'll ask somebody else.</text></string>
 
-<string id="borov_courier_1"><text>Cloak for Boryan [TERM?] from Borov</text></string>
-<string id="borov_courier_1_descr"><text>Take a cloak made of flesh hide to the Swamps, to Boryan [TERM?]. Need to deliver within two days.</text></string>
-<string id="borov_courier_1_text"><text>Boryan [TERM?], the homegrown doc who hangs out in the Swamps, helped our sick bros with his roots. Take our signature little cloak to him out of gratitude. Just do it real snappy, 'cause seems like he gets offended that we don't hook him up on time. Think you can manage it in a couple of days? No? If you ain't sure - better I send somebody else...</text></string>
+<string id="borov_courier_1"><text>Cloak for Boryan from Borov</text></string>
+<string id="borov_courier_1_descr"><text>Take a cloak made of flesh hide to the Swamps, to Boryan. Need to deliver within two days.</text></string>
+<string id="borov_courier_1_text"><text>Boryan, the homegrown doc who hangs out in the Swamps, helped our sick bros with his roots. Take our signature little cloak to him out of gratitude. Just do it real snappy, 'cause seems like he gets offended that we don't hook him up on time. Think you can manage it in a couple of days? No? If you ain't sure - better I send somebody else...</text></string>
 
 <string id="borov_courier_2"><text>Cloak for the hunters from Borov</text></string>
 <string id="borov_courier_2_descr"><text>Take a cloak made of flesh hide to the Gut, to the sawmill, within a day.</text></string>
-<string id="borov_courier_2_text"><text>The guys from the Gut send us gifts from time to time, so out of gratitude I'd like to pass along our signature little cloak. Will ya fly over there, to Ignat [TERM?]? Just make it quick - one foot here, and the other gets torn off... Ha-ha. Joke. Basically gotta make it in a day! You takin' the job?</text></string>
+<string id="borov_courier_2_text"><text>The guys from the Gut send us gifts from time to time, so out of gratitude I'd like to pass along our signature little cloak. Will ya fly over there, to Ignat? Just make it quick - one foot here, and the other gets torn off... Ha-ha. Joke. Basically gotta make it in a day! You takin' the job?</text></string>
 
-<string id="borov_courier_3"><text>PDA for Vakhtang [TERM?] from Borov</text></string>
-<string id="borov_courier_3_descr"><text>Take 25 broken PDAs to the Army Warehouses, to the merc Vakhtang [TERM?]. Deadline - two days.</text></string>
-<string id="borov_courier_3_text"><text>Found some broken PDAs here by chance. And there's a little man who's very interested in 'em. Sits at the Army Warehouses, Vakhtang [TERM?]. If you take the job to drag this scrap over to him, he'll reward ya. Just make it quick - two days for all the screw-ups. Think you can handle it?</text></string>
+<string id="borov_courier_3"><text>PDA for Vakhtang from Borov</text></string>
+<string id="borov_courier_3_descr"><text>Take 25 broken PDAs to the Army Warehouses, to the merc Vakhtang. Deadline - two days.</text></string>
+<string id="borov_courier_3_text"><text>Found some broken PDAs here by chance. And there's a little man who's very interested in 'em. Sits at the Army Warehouses, Vakhtang. If you take the job to drag this scrap over to him, he'll reward ya. Just make it quick - two days for all the screw-ups. Think you can handle it?</text></string>
 
-<string id="borov_courier_4"><text>Carbines for Vakhtang [TERM?] from Borov</text></string>
-<string id="borov_courier_4_descr"><text>Take two TDI KRISS Vector submachine guns to the Army Warehouses to the merc Vakhtang [TERM?]. Deadline - two days.</text></string>
-<string id="borov_courier_4_text"><text>There's a man sittin' at the Army Warehouses, goes by Vakhtang [TERM?]. If you take the job to drag a couple of carbines over to him, he'll reward ya. What he needs 'em for - I don't know. But, apparently, he needs 'em bad, since he demands it gets done in two days max. Think you can handle it?</text></string>
+<string id="borov_courier_4"><text>Carbines for Vakhtang from Borov</text></string>
+<string id="borov_courier_4_descr"><text>Take two TDI KRISS Vector submachine guns to the Army Warehouses to the merc Vakhtang. Deadline - two days.</text></string>
+<string id="borov_courier_4_text"><text>There's a man sittin' at the Army Warehouses, goes by Vakhtang. If you take the job to drag a couple of carbines over to him, he'll reward ya. What he needs 'em for - I don't know. But, apparently, he needs 'em bad, since he demands it gets done in two days max. Think you can handle it?</text></string>
 
 <string id="tm_kill_stalker_1_start_0"><text>Sidor, I uh...</text></string>
 <string id="tm_kill_stalker_1_start_1"><text>Well, what do you want, invalid?</text></string>
 <string id="tm_kill_stalker_1_start_2"><text>Medicine and ammo - that's good, of course, thanks for throwing them my way, but... how about some cash or something more substantial, eh? I'll work it off. I'm tired of walking around like a ragamuffin...</text></string>
 <string id="tm_kill_stalker_1_start_3"><text>There is one little job, just right for ragamuffins. I'm joking, joking.\nYou already know about the beast-catchers in the Gut, right? I don't give a damn about their hunting business - let them salt whatever guts they want, that's not the point. The point is that they somehow ship all these offal through their own channels. And I'm very interested, are artifacts also leaving through those same channels? The situation is such that I don't like how my main buyer has been behaving lately... Apparently, I'll have to look for another, more generous one. So look, Marked One, talk to the hunters. Their bosses won't say anything, that's understandable, but maybe one of the rank-and-file trappers knows how they smuggle the loot past the perimeter. In short, clear up this point.</text></string>
-<string id="tm_kill_stalker_1_start_41"><text>I have a feeling I didn't run around for sausage just for nothing, either. You sly old bug. I have an acquaintance, a hunter I can talk to about this topic. Nazar [TERM?] is his name. But what if he gets stubborn?</text></string>
+<string id="tm_kill_stalker_1_start_41"><text>I have a feeling I didn't run around for sausage just for nothing, either. You sly old bug. I have an acquaintance, a hunter I can talk to about this topic. Nazar is his name. But what if he gets stubborn?</text></string>
 <string id="tm_kill_stalker_1_start_42"><text>I have a feeling I didn't run around for sausage just for nothing, either. You sly old bug. And who am I supposed to ask around there? Every random hunter I meet?</text></string>
 <string id="tm_kill_stalker_1_start_43"><text>Sorry, Sidorovich, but I'm forced to decline. I didn't like wandering around the Gut. A very unwelcoming place. Maybe later.</text></string>
 <string id="tm_kill_stalker_1_start_51"><text>Well you try your best, show some eloquence. And try not to drag it out. Commerce doesn't like downtime. If you don't manage it in a couple of days, then I'll find another messenger, a more nimble one.</text></string>
-<string id="tm_kill_stalker_1_start_52"><text>Why, every one? I have one accommodating guy in mind, drops by here sometimes. Nazar [TERM?] is his name, he has a camp in the southern part of the Gut near the power line mast. Teaches the young ones the hunting trade there. Have a chat with him. And try not to drag it out. Commerce doesn't like downtime. If you don't manage it in a couple of days, then I'll find another messenger, a more nimble one.</text></string>
+<string id="tm_kill_stalker_1_start_52"><text>Why, every one? I have one accommodating guy in mind, drops by here sometimes. Nazar is his name, he has a camp in the southern part of the Gut near the power line mast. Teaches the young ones the hunting trade there. Have a chat with him. And try not to drag it out. Commerce doesn't like downtime. If you don't manage it in a couple of days, then I'll find another messenger, a more nimble one.</text></string>
 <string id="tm_kill_stalker_1_start_6"><text>We have a deal. Prepare the reward.</text></string>
 
 <string id="tm_kill_stalker_dlg_0"><text>Can I distract you for a word or two?</text></string>
@@ -1893,53 +1893,53 @@
 <string id="tm_kill_stalker_1_done_11"><text>And... what?</text></string>
 <string id="tm_kill_stalker_1_done_12"><text>What, what? Nothing... Alright, remember my generosity.</text></string>
 
-<string id="tex_tm_kill_stalker"><text>Sidorovich asked to find out about the hunters' sales channels. Advised to talk to Nazar [TERM?], who is somewhere in the south of the Gut. Only gave a couple of days deadline, need to make it.</text></string>
-<string id="mercenary_baloon_start_0"><text>Зуб [TERM?], I have a question.</text></string>
+<string id="tex_tm_kill_stalker"><text>Sidorovich asked to find out about the hunters' sales channels. Advised to talk to Nazar, who is somewhere in the south of the Gut. Only gave a couple of days deadline, need to make it.</text></string>
+<string id="mercenary_baloon_start_0"><text>Zub, I have a question.</text></string>
 <string id="mercenary_baloon_start_1"><text>You know, Marked One, that my answers cost money.</text></string>
 <string id="mercenary_baloon_start_2"><text>Yeah, that's clear. You wouldn't happen to know how one can protect against bloodsuckers? Some method, or something else?</text></string>
 <string id="mercenary_baloon_start_3"><text>Have you encountered bloodsuckers? Well, you've probably been lucky so far? Those bastards produce something that makes a person's skin burst. Terrible stuff. But... there's a rumor that someone found a way to fight against this 'radiation'. Supposedly there is an artifact in the Zone that protects you very well. I have my suspicions about one of these 'experts'. Would you agree to pay him a visit and feel him out regarding this miracle artifact? I think it'll be useful for everyone.</text></string>
 <string id="mercenary_baloon_start_4"><text>And where do I look for this 'expert'?</text></string>
 <string id="mercenary_baloon_start_5"><text>Running around, searching... no, count me out.</text></string>
-<string id="mercenary_baloon_start_6"><text>There's a guy at the Army Warehouses. His name is Павло Зубр [TERM?]. Go see him and have a chat. And if you find out anything interesting, then I, in turn, will try not to cheat you. What if something really... helps.</text></string>
-<string id="mercenary_baloon_start_7"><text>I'll be at the warehouses, I'll ask this Зубр [TERM?], maybe I'll find something out.</text></string>
+<string id="mercenary_baloon_start_6"><text>There's a guy at the Army Warehouses. His name is Pavlo Zubr. Go see him and have a chat. And if you find out anything interesting, then I, in turn, will try not to cheat you. What if something really... helps.</text></string>
+<string id="mercenary_baloon_start_7"><text>I'll be at the warehouses, I'll ask this Zubr, maybe I'll find something out.</text></string>
 <string id="mercenary_baloon_start_8"><text>Waiting for news.</text></string>
 <string id="mercenary_baloon_start_9"><text>You asked, I answered. Suit yourself.</text></string>
 
-<string id="mercenary_baloon_dlg_0"><text>Павло [TERM?], got some business.</text></string>
+<string id="mercenary_baloon_dlg_0"><text>Pavlo, got some business.</text></string>
 <string id="mercenary_baloon_dlg_101"><text>Ah, well? What wind blew ya in?</text></string>
 <string id="mercenary_baloon_dlg_102"><text>A tailwind, of course. Come back down to earth, we need to talk.</text></string>
-<string id="mercenary_baloon_dlg_103"><text>Ah, Marked One? I heard somethin' 'bout ya like that. Are you the one who squeezed Крот [TERM?]? 'Bout time somebody did - sneakin' around everywhere, botherin' everyone.</text></string>
-<string id="mercenary_baloon_dlg_104"><text>Крот [TERM?]? Squeezed? No, everything's fine. Anyway, I have another question...</text></string>
+<string id="mercenary_baloon_dlg_103"><text>Ah, Marked One? I heard somethin' 'bout ya like that. Are you the one who squeezed Mole? 'Bout time somebody did - sneakin' around everywhere, botherin' everyone.</text></string>
+<string id="mercenary_baloon_dlg_104"><text>Mole? Squeezed? No, everything's fine. Anyway, I have another question...</text></string>
 <string id="mercenary_baloon_dlg_105"><text>So wait, didn't they whack him? Or... Weird, people were sayin' that... he croaked. Looks like they were bullshittin'. What's the question?</text></string>
 <string id="mercenary_baloon_dlg_106"><text>Someone said you've been having good luck with bloodsuckers? That you know some secret on how to survive their roar? Maybe you'll tell me?</text></string>
 <string id="mercenary_baloon_dlg_107"><text>Well, you should tell this 'somebody' that you won't even get a pimple for free, as they say. You wanna know my secret - pay up. Bucks from you. Two grand. Then we'll have a business talk. I'll lay it all out for ya, honestly - what, how much, what for, and I'll even throw somethin' on top.</text></string>
 <string id="mercenary_baloon_dlg_1081"><text>Two thousand? In checks? Don't have it on me, but... I'll think about it.</text></string>
 <string id="mercenary_baloon_dlg_1082"><text>You take checks? Here, hold these two grand.</text></string>
 <string id="mercenary_baloon_dlg_1091"><text>Checks'll do. Nobody's complained so far... Think 'bout it. When you have it, then we'll talk.</text></string>
-<string id="mercenary_baloon_dlg_1092"><text>I'm takin' it, of course... Listen here, what and how you gotta do, when a bloodsucker shows up on the horizon... Well, besides grabbin' your legs and runnin', obviously...\nSo here's the deal: there's this artifact - Canister [TERM?] it's called. Findin' it is extremely hard, very rare. They say it's only been seen in the Rusty Forest [TERM?], the one on the Radar [TERM?]. Somewhere in its western part... found it last time. Activate this art on your belt and walk around whistlin'... the bloodsucker's pipe barely touches you... You can, of course, boil one up yourself, the nerds are a smart bunch, found a recipe for it. Need three good arts, well and the mandible of that very bloodsucker. I ain't tested the recipe myself, comes out expensive. Plus I got this little art in reserve, don't need it right now. I'll share the recipe, you showed me respect.</text></string>
-<string id="mercenary_baloon_dlg_110"><text>On the Radar [TERM?]?! Alright... or maybe I'll boil it myself, if it's needed.</text></string> 
+<string id="mercenary_baloon_dlg_1092"><text>I'm takin' it, of course... Listen here, what and how you gotta do, when a bloodsucker shows up on the horizon... Well, besides grabbin' your legs and runnin', obviously...\nSo here's the deal: there's this artifact - Balloon it's called. Findin' it is extremely hard, very rare. They say it's only been seen in the Rusty Forest, the one on the Radar. Somewhere in its western part... found it last time. Activate this art on your belt and walk around whistlin'... the bloodsucker's pipe barely touches you... You can, of course, boil one up yourself, the nerds are a smart bunch, found a recipe for it. Need three good arts, well and the mandible of that very bloodsucker. I ain't tested the recipe myself, comes out expensive. Plus I got this little art in reserve, don't need it right now. I'll share the recipe, you showed me respect.</text></string>
+<string id="mercenary_baloon_dlg_110"><text>On the Radar?! Alright... or maybe I'll boil it myself, if it's needed.</text></string> 
 <string id="mercenary_baloon_dlg_201"><text>Ah! It's you, squeezer. Huntin' bloodsuckers? Or are they huntin' you?</text></string>
 <string id="mercenary_baloon_dlg_202"><text>Yeah, them... What about you, haven't changed your mind about sharing your good fortune?</text></string>
 <string id="mercenary_baloon_dlg_203"><text>Marked One, we already chopped it up - you give me two thousand greenbacks, and I tell you everything I know.</text></string>
 
 <string id="mercenary_baloon_done_0"><text>I found out about that secret artifact.</text></string>
 <string id="mercenary_baloon_done_1"><text>Well, well. And what kind of miracle is it?</text></string>
-<string id="mercenary_baloon_done_2"><text>You need a very rare art. Canister [TERM?] it's called. Where to get it?.. He said it was found last time on the Radar [TERM?], in the Rusty Forest [TERM?].</text></string>
+<string id="mercenary_baloon_done_2"><text>You need a very rare art. Balloon it's called. Where to get it?.. He said it was found last time on the Radar, in the Rusty Forest.</text></string>
 <string id="mercenary_baloon_done_3"><text>And that's it?</text></string>
 <string id="mercenary_baloon_done_4"><text>There is, however, also a recipe for this 'antidote'.</text></string>
-<string id="mercenary_baloon_done_5"><text>Now that's a different conversation. Otherwise - the Radar [TERM?], who in their right mind would poke their head in there. Although... there are enough crazy people around, many will agree to buy this information. Could make a profit.</text></string>
+<string id="mercenary_baloon_done_5"><text>Now that's a different conversation. Otherwise - the Radar, who in their right mind would poke their head in there. Although... there are enough crazy people around, many will agree to buy this information. Could make a profit.</text></string>
 <string id="mercenary_baloon_done_6"><text>Well and what will I get for this? This information cost me good money.</text></string>
 <string id="mercenary_baloon_done_7"><text>Listen, don't run your mouth too much about what you learned and heard, okay? And here, take this... a little gift. You earned it.</text></string>
 <string id="mercenary_baloon_done_8"><text>Earned it?! I gave up serious cash for this info. And you decided to get off with an art. That won't do.</text></string>
 <string id="mercenary_baloon_done_9"><text>Marked One, don't make noise. You got an artifact as a reward, you kept the recipe, so be satisfied. By all rights, I should also collect a fee from you for the tip on this 'expert'. Therefore, consider us even. Run along.</text></string>
-<string id="tex_mercenary_baloon"><text>Find a stalker, and try to get the method of protection against bloodsuckers from him. Павло Зубр [TERM?], at the Army Warehouses</text></string>
+<string id="tex_mercenary_baloon"><text>Find a stalker, and try to get the method of protection against bloodsuckers from him. Pavlo Zubr, at the Army Warehouses</text></string>
 <string id="borov_kill_stalker_start_0"><text>Maybe I need to find someone else?</text></string>
 <string id="borov_kill_stalker_start_1"><text>Listen here, Marked One, you ain't one of the former ones by chance? Can't tell from the mug, true, but you got that stench comin' off ya. Daddy Borov's got a nose for it.</text></string>
 <string id="borov_kill_stalker_start_2"><text>What do you care? In the Zone, like in the army, everyone starts with a clean slate. So, are there any 'missing in action'? If not, then I'll be going.</text></string>
-<string id="borov_kill_stalker_start_3"><text>Hold up. You're right, I don't give a shit what you had goin' on in the past. Main thing is that you can be useful right now. In short, here's the deal. Three clowns were hoofin' it to me from the Agroprom [TERM?], one had some serious intel. I told 'em, shit, keep your heads down, you seals, take the back roads to me, so no one even catches a shadow... But no - got into a scrap with some stalker trash at the Garbage, only one made it out of that mess. Another one supposedly got nailed on the spot with a grenade, and the third seems like he got wounded, maybe ain't kicked the bucket yet. And here word got 'round that the Duty members pinched someone, someone from our guys.. If it's my courier, that's gonna be real bad - the Duty members got this one beast, Иванцов [TERM?] is his last name - absolutely zero street smarts, a cop's mug... he'll crack anyone you want in a second.\nYou should go, rub shoulders there, cipher out what's what, who they pinched... Only the first guy you meet ain't gonna start waggin' his tongue there, I reckon... Roll up on one Duty member, there's a guy there - an acquaintance, likes to hit the bottle. Tip him off that you're from me. In short, find out - who they pinched and what they found on him, and if they found anything at all... A notebook, a note, a journal... a message, in short, somethin'... And if you bring it to me, you'll be a real beauty - I'll roll out a prize, everyone will be green with envy. And don't drag it out, the matter is urgent. These mix-ups are already pissin' me off.</text></string>
+<string id="borov_kill_stalker_start_3"><text>Hold up. You're right, I don't give a shit what you had goin' on in the past. Main thing is that you can be useful right now. In short, here's the deal. Three clowns were hoofin' it to me from the Agroprom, one had some serious intel. I told 'em, shit, keep your heads down, you seals, take the back roads to me, so no one even catches a shadow... But no - got into a scrap with some stalker trash at the Garbage, only one made it out of that mess. Another one supposedly got nailed on the spot with a grenade, and the third seems like he got wounded, maybe ain't kicked the bucket yet. And here word got 'round that the Duty members pinched someone, someone from our guys.. If it's my courier, that's gonna be real bad - the Duty members got this one beast, Ivantsov is his last name - absolutely zero street smarts, a cop's mug... he'll crack anyone you want in a second.\nYou should go, rub shoulders there, cipher out what's what, who they pinched... Only the first guy you meet ain't gonna start waggin' his tongue there, I reckon... Roll up on one Duty member, there's a guy there - an acquaintance, likes to hit the bottle. Tip him off that you're from me. In short, find out - who they pinched and what they found on him, and if they found anything at all... A notebook, a note, a journal... a message, in short, somethin'... And if you bring it to me, you'll be a real beauty - I'll roll out a prize, everyone will be green with envy. And don't drag it out, the matter is urgent. These mix-ups are already pissin' me off.</text></string>
 <string id="borov_kill_stalker_start_41"><text>Who am I supposed to ask? In the Bar of these Duty members, if I run into the wrong guy, they'll whack me.</text></string>
 <string id="borov_kill_stalker_start_42"><text>Borov, I don't play these games. They'll whack me for asking questions like that.</text></string>
-<string id="borov_kill_stalker_start_5"><text>There's one guy there, Барин [TERM?] - that's his handle. Go chop it up with him.</text></string>
+<string id="borov_kill_stalker_start_5"><text>There's one guy there, Barin - that's his handle. Go chop it up with him.</text></string>
 <string id="borov_kill_stalker_start_6"><text>Well, then shoo out of here. And forget our conversation.</text></string>
 
 <string id="borov_kill_stalker_dlg_0"><text>Still drinking the bitter stuff?</text></string>
@@ -1952,12 +1952,12 @@
 <string id="borov_kill_stalker_dlg_1081"><text>Depressing for him. Maybe someone will bring you a drink today. I'll pass for now.</text></string>
 <string id="borov_kill_stalker_dlg_1082"><text>Hold your bottles, but I'm not drinking with you. Who do I ask at the Garbage?</text></string>
 <string id="borov_kill_stalker_dlg_1091"><text>Squeamish? Well, well, watch out so it doesn't come back to bite you.</text></string>
-<string id="borov_kill_stalker_dlg_1092"><text>A business talk! Otherwise it's immediately 'I'm from Borov'... As if I ever did anything for Borov for free. Ask Артём Кулинар [TERM?], his stalker trash clashed with the bandits there. And... Look... I don't know you, and you don't know me. Got it?</text></string>
+<string id="borov_kill_stalker_dlg_1092"><text>A business talk! Otherwise it's immediately 'I'm from Borov'... As if I ever did anything for Borov for free. Ask Artyom Cook, his stalker trash clashed with the bandits there. And... Look... I don't know you, and you don't know me. Got it?</text></string>
 <string id="borov_kill_stalker_dlg_1102"><text>You'd be better off... quitting.</text></string>
 <string id="borov_kill_stalker_dlg_201"><text>Ah! It's you again... Watch it, I'll whisper to the right people... Or are you here on business?</text></string>
 <string id="borov_kill_stalker_dlg_2021"><text>I brought you vodka. Who do I look for at the Garbage?</text></string>
 <string id="borov_kill_stalker_dlg_2022"><text>Don't get worked up. I'm just passing by.</text></string>
-<string id="borov_kill_stalker_dlg_203"><text>Hmm... Respect. Ask Артём Кулинар [TERM?]. And... Look... I don't know you, and you don't know me. Got it?</text></string>
+<string id="borov_kill_stalker_dlg_203"><text>Hmm... Respect. Ask Artyom Cook. And... Look... I don't know you, and you don't know me. Got it?</text></string>
 
 <string id="borov_kill_stalker_dlg2_0"><text>I'm here on business, I have a question.</text></string>
 <string id="borov_kill_stalker_dlg2_1"><text>Well? What do you want?</text></string>
@@ -1966,7 +1966,7 @@
 <string id="borov_kill_stalker_dlg2_4"><text>Well, and...</text></string>
 <string id="borov_kill_stalker_dlg2_5"><text>And what? A couple hundred buckshot and it's yours. We're a little low on supplies, and the monsters keep coming. You can see for yourself.</text></string>
 <string id="borov_kill_stalker_dlg2_6"><text>For some reason I didn't even doubt it. Straight up a couple hundred?! Or maybe we can solve this differently?</text></string>
-<string id="borov_kill_stalker_dlg2_7"><text>Differently, you say... Here's all sorts of monster meat for you. Trade it with Дэн [TERM?] at the Cordon, it's not far. If it's not enough - you'll shoot some on the way. I myself, as you understand, cannot leave. I'm sort of in charge here, keeping an eye on things.</text></string>
+<string id="borov_kill_stalker_dlg2_7"><text>Differently, you say... Here's all sorts of monster meat for you. Trade it with Dan at the Cordon, it's not far. If it's not enough - you'll shoot some on the way. I myself, as you understand, cannot leave. I'm sort of in charge here, keeping an eye on things.</text></string>
 <string id="borov_kill_stalker_dlg2_8"><text>I'll trade it, bring it back. Wait.</text></string>
 
 <string id="borov_kill_stalker_dlg3_0"><text>Where are that swindler's things?</text></string>
@@ -1985,35 +1985,35 @@
 <string id="borov_kill_stalker_done_52"><text>Yeah... This ain't a PDA, you can't even tell whose it was now. Well then... there was nothin' - and that's good too. Means it wasn't him, or he managed to figure it out and got rid of it in time... Thanks for that anyway. Hold this little present.</text></string>
 <string id="borov_kill_stalker_done_6"><text>Not bad, a decent gun.</text></string>
 <string id="borov_kill_stalker_done_7"><text>A worthy reward, thank you.</text></string>
-<string id="tex_borov_kill_stalker"><text>Need to find out for Borov where his courier disappeared to and, if possible, find his belongings. Advised to chat with the Duty member Барин [TERM?], in the Bar.</text></string>
-<string id="tex_shustriy_find_item"><text>Шустрый [TERM?] is asking to bring a new merc suit, with a mask. As a reward promised to help boil a 'Stone Flower' artifact, completely covered in 'green'.</text></string>
+<string id="tex_borov_kill_stalker"><text>Need to find out for Borov where his courier disappeared to and, if possible, find his belongings. Advised to chat with the Duty member Barin, in the Bar.</text></string>
+<string id="tex_shustriy_find_item"><text>Nimble is asking to bring a new merc suit, with a mask. As a reward promised to help boil a 'Stone Flower' artifact, completely covered in 'green'.</text></string>
 <string id="shustriy_find_item_start_0"><text>I see you've settled into your new place.</text></string>
-<string id="shustriy_find_item_start_1"><text>Oh, Marked One, speak of the devil, here's the deal... I heard that the mercs have a trader, what's his name... Вахтанг [TERM?]. He deals in rare property. You can't get that kind of stuff here. What I'm getting at... Ordinary stalkers can't approach the mercs, they'll shoot you and won't ask your name, but you, as they say, smoothed things over with them... somehow? The folks decided to move north, and they're taking me into their company, but I don't have decent armor. If you agree to bring me a brand new merc armor, with a mask, then I'll help you boil a good art, covered in 'green', you won't regret it. A 'Stone Flower', the one from the 'Carousel'.</text></string>
+<string id="shustriy_find_item_start_1"><text>Oh, Marked One, speak of the devil, here's the deal... I heard that the mercs have a trader, what's his name... Vakhtang. He deals in rare property. You can't get that kind of stuff here. What I'm getting at... Ordinary stalkers can't approach the mercs, they'll shoot you and won't ask your name, but you, as they say, smoothed things over with them... somehow? The folks decided to move north, and they're taking me into their company, but I don't have decent armor. If you agree to bring me a brand new merc armor, with a mask, then I'll help you boil a good art, covered in 'green', you won't regret it. A 'Stone Flower', the one from the 'Carousel'.</text></string>
 <string id="shustriy_find_item_start_2"><text>Literally covered in 'green'?!</text></string>
 <string id="shustriy_find_item_start_3"><text>You don't believe me?! I'm speaking seriously. I've already gotten the hang of this business, only things are tight with the components, but that's for later. And besides: everything fair and square - comes out green, like an emerald.</text></string>
 <string id="shustriy_find_item_start_41"><text>I don't have time right now, ask someone else.</text></string>
-<string id="shustriy_find_item_start_42"><text>Alright, I'll be at the warehouses, I'll drop by Вахтанг [TERM?].</text></string>
+<string id="shustriy_find_item_start_42"><text>Alright, I'll be at the warehouses, I'll drop by Vakhtang.</text></string>
 <string id="shustriy_find_item_start_51"><text>If no, then no. You'll regret it yourself later.</text></string>
 <string id="shustriy_find_item_start_52"><text>So I'm, uh, waiting. Don't you forget.</text></string>
 
-<string id="shustriy_find_item_done_0"><text>Шустрый [TERM?], brought you the armor, you'll be a real 'beaut'.</text></string>
+<string id="shustriy_find_item_done_0"><text>Nimble, brought you the armor, you'll be a real 'beaut'.</text></string>
 <string id="shustriy_find_item_done_1"><text>Marked One, respect. Now this is a thing, not like a bandit jacket.</text></string>
 <string id="shustriy_find_item_done_2"><text>How are things regarding boiling the 'Stone Flower'?</text></string>
 <string id="shustriy_find_item_done_3"><text>'Stone Flower'?.. I'll boil it, of course... bring the ingredients...</text></string>
 <string id="shustriy_find_item_done_4"><text>What?! I ran around, got the armor for him, and he - ingredients.</text></string>
-<string id="shustriy_find_item_done_5"><text>Well... uh... I warned you right away that things were tight with that. I'll boil the artifact, don't doubt it. All I need is - a dog tail, a tushkano head, a "Thorn" [TERM?] and a "Jellyfish" [TERM?].</text></string>
+<string id="shustriy_find_item_done_5"><text>Well... uh... I warned you right away that things were tight with that. I'll boil the artifact, don't doubt it. All I need is - a dog tail, a tushkano head, a "Thorn" and a "Jellyfish".</text></string>
 <string id="shustriy_find_item_done_61"><text>Got dragged in again... Alright, hold your armor, I'll go gather them. But, if you suddenly need anything else, then you've only got yourself to blame.</text></string>
 <string id="shustriy_find_item_done_62"><text>Think I'll keep the armor for myself. I like it too.</text></string>
 <string id="shustriy_find_item_done_71"><text>We agreed on this right away, remember.</text></string>
 <string id="shustriy_find_item_done_72"><text>You shouldn't have... You would've gotten a good artifact.</text></string>
 
-<string id="tex_prapor_courier"><text>Прапор [TERM?] is asking to take an artifact to Сидор [TERM?], boar hooves to Пахом [TERM?] and dog tails to Игнат [TERM?]. As a reward promised to help boil a "Slug" [TERM?] artifact, completely covered in "green".</text></string>
-<string id="gar_prapor_courier_start_dialog_0"><text>Help boil a "Slug" [TERM?] according to your recipe, just so it's completely covered in "green".</text></string>
-<string id="gar_prapor_courier_start_dialog_1"><text>Look at that! And in "green" right away?! The one from the "Springboard" [TERM?]? Well for that you need to have experience. And that, just like sexual impotence, comes with time. Heh-heh.</text></string>
+<string id="tex_prapor_courier"><text>Prapor is asking to take an artifact to Sidorovich, boar hooves to Pakhom and dog tails to Ignat. As a reward promised to help boil a "Slug" artifact, completely covered in "green".</text></string>
+<string id="gar_prapor_courier_start_dialog_0"><text>Help boil a "Slug" according to your recipe, just so it's completely covered in "green".</text></string>
+<string id="gar_prapor_courier_start_dialog_1"><text>Look at that! And in "green" right away?! The one from the "Springboard"? Well for that you need to have experience. And that, just like sexual impotence, comes with time. Heh-heh.</text></string>
 <string id="gar_prapor_courier_start_dialog_2"><text>Experience - that's understandable. Do you have experience yourself? Maybe we can make a deal?</text></string>
 <string id="gar_prapor_courier_start_dialog_3"><text>Maybe... only, you understand yourself... you help me - I help you.</text></string>
 <string id="gar_prapor_courier_start_dialog_4"><text>What do you need this time?</text></string>
-<string id="gar_prapor_courier_start_dialog_5"><text>I've got some urgent business piled up here. Need to finish it. Take a couple or three packages over. I can't pull my guys away, you see yourself what's going on here, the monsters keep coming, every gun counts. And you - are a free bird. Well, so what about it? It's not far from here, to Сидор [TERM?] and to the Swamps, and to the Gut too.</text></string>
+<string id="gar_prapor_courier_start_dialog_5"><text>I've got some urgent business piled up here. Need to finish it. Take a couple or three packages over. I can't pull my guys away, you see yourself what's going on here, the monsters keep coming, every gun counts. And you - are a free bird. Well, so what about it? It's not far from here, to Sidorovich and to the Swamps, and to the Gut too.</text></string>
 <string id="gar_prapor_courier_start_dialog_6"><text>It's not far... for you, maybe I'll take them, only I didn't get it, what about the artifact?</text></string>
 <string id="gar_prapor_courier_start_dialog_7"><text>With the art? It's all simple. You bring me everything on the list, I'll boil this thing for you, since you're... all thumbs, it'll be completely green. But that's only after we sort out our business.</text></string>
 <string id="gar_prapor_courier_start_dialog_81"><text>On the list, then... Tell me, where and what to carry.</text></string>
@@ -2023,33 +2023,33 @@
 <string id="gar_prapor_courier_start_dialog_10"><text>You sure talked a lot... Give me your tails and hooves with the artifact. Should write it down, so I don't forget who, where, and how much.</text></string>
 <string id="gar_prapor_courier_start_dialog_11"><text>Here, don't lose them. And I'll look out for the right anomaly in the meantime, here you also need to know which one and where to look.</text></string>
 
-<string id="sidor_artmod_31_reward_dialog_0"><text>Sidorovich, package for you from Прапор [TERM?] from the Garbage.</text></string>
+<string id="sidor_artmod_31_reward_dialog_0"><text>Sidorovich, package for you from Prapor from the Garbage.</text></string>
 <string id="sidor_artmod_31_reward_dialog_1"><text>What kind of bull... oddity did he send this time?</text></string>
 <string id="sidor_artmod_31_reward_dialog_2"><text>Some artifact, first time I see one like this, take it.</text></string>
 <string id="sidor_artmod_31_reward_dialog_3"><text>What are you standing there for? Hold a little medicine and get out of here, don't interfere with work.</text></string>
 <string id="sidor_artmod_31_reward_dialog_4"><text>Already left, why so nervous...</text></string>
 
-<string id="pahom_artmod_31_reward_dialog_0"><text>Пахом [TERM?], package for you from Прапор [TERM?] from the Garbage.</text></string>
+<string id="pahom_artmod_31_reward_dialog_0"><text>Pakhom, package for you from Prapor from the Garbage.</text></string>
 <string id="pahom_artmod_31_reward_dialog_1"><text>What kind of monster meat did he send this time?</text></string>
 <string id="pahom_artmod_31_reward_dialog_2"><text>A sack of boar hooves.</text></string>
 <string id="pahom_artmod_31_reward_dialog_3"><text>Hold some buckshot, for your troubles.</text></string>
 <string id="pahom_artmod_31_reward_dialog_4"><text>Yeah, understood...</text></string>
 
-<string id="ignat_artmod_31_reward_dialog_0"><text>Игнат [TERM?], package for you from Прапор [TERM?] from the Garbage.</text></string>
+<string id="ignat_artmod_31_reward_dialog_0"><text>Ignat, package for you from Prapor from the Garbage.</text></string>
 <string id="ignat_artmod_31_reward_dialog_1"><text>What kind of monster meat did he send this time?</text></string>
 <string id="ignat_artmod_31_reward_dialog_2"><text>A sack of dog tails.</text></string>
 <string id="ignat_artmod_31_reward_dialog_3"><text>Hold a couple of sausages, grab a bite.</text></string>
 <string id="ignat_artmod_31_reward_dialog_4"><text>Don't seem to be hungry...</text></string>
-<string id="tex_prapor_courier_dialog"><text>The Прапорщик [TERM?] asked to pass the memory cards to Сахаров [TERM?].</text></string>
+<string id="tex_prapor_courier_dialog"><text>The Warrant Officer asked to pass the memory cards to Sakharov.</text></string>
 <string id="gar_prapor_courier_dialog_0"><text>Preoccupied with something again?</text></string>
 <string id="gar_prapor_courier_dialog_1"><text>You're exactly who I need. Got a little job, for your fast legs.</text></string>
 <string id="gar_prapor_courier_dialog_2"><text>What, where and what's the reward?</text></string>
 <string id="gar_prapor_courier_dialog_3"><text>Wow, how fast everything is with you! Here's the deal: \nThe nerds who hang out at Yantar set up their devices here, and well, asked to send the results from them sometimes. Only needs to be done quickly, because data gets outdated by the day. If you're not heading that way, then I'll just send someone from my guys.</text></string>
 <string id="gar_prapor_courier_dialog_41"><text>I'm heading exactly there. What do I carry?</text></string>
 <string id="gar_prapor_courier_dialog_42"><text>Today definitely - not that way.</text></string>
-<string id="gar_prapor_courier_dialog_5"><text>Then hold the memory cards. Сахаров [TERM?] will reward you, don't doubt it.</text></string>
+<string id="gar_prapor_courier_dialog_5"><text>Then hold the memory cards. Sakharov will reward you, don't doubt it.</text></string>
 
-<string id="gar_prapor_courier_dlg_0"><text>Professor, I'm here to see you from the Прапорщик [TERM?] from the Garbage.</text></string>
+<string id="gar_prapor_courier_dlg_0"><text>Professor, I'm here to see you from the Warrant Officer from the Garbage.</text></string>
 <string id="gar_prapor_courier_dlg_1"><text>Yes, yes... He does us some favors. What do you have there?</text></string>
 <string id="gar_prapor_courier_dlg_2"><text>Memory cards from the devices, take them.</text></string> 
 <string id="gar_prapor_courier_dlg_3"><text>Thank you, thank you... Did you want something else?</text></string>
