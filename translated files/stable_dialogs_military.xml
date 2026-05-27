@@ -69,8 +69,8 @@
 <string id="mil_hunter_dialog_153"><text>So you saw them? We're waiting for someone here; a signal came from the village. But God knows what's happening in that village! Vlad said he saw bloodsuckers here too... He and Yuras went to scout it out. You just keep going where you were going, look around. And listen... If you find anything interesting, let us know later.</text></string>
 <string id="mil_hunter_dialog_154"><text>Brave souls... Alright, I'm going.</text></string>
 <string id="mil_hunter_dialog_301"><text>Well? Any luck?</text></string>
-<string id="mil_hunter_dialog_302"><text>You guys are... "jokers." Nothing scary, my foot! I barely made it out alive! There are bloodsuckers all over the place.</text></string>
-<string id="mil_hunter_dialog_303"><text>Whoa! No kidding! Well, man, you owe us one for staying alive! By the way, did you find anything interesting there? Maybe... a curious corpse or something.</text></string>
+<string id="mil_hunter_dialog_302"><text>You guys are... "jokers." Nothing scary, my ass! I barely made it out alive! There are bloodsuckers all over the place.</text></string>
+<string id="mil_hunter_dialog_303"><text>Whoa! No kidding! Well, man, you owe us one for staying alive! By the way, did you find anything interesting there? Maybe... a curious corpse or something?</text></string>
 <string id="mil_hunter_dialog_304"><text>Joking again? Thanks... I didn't find anything.</text></string>
 <string id="mil_hunter_dialog_401"><text>Why are you wandering around here like a ghost?</text></string>
 <string id="mil_hunter_dialog_402"><text>Just looking around.</text></string>
@@ -143,7 +143,7 @@
 <string id="mil_patrol_dialog1_0"><text>Dude, you're at the Freedom base! Relax, make yourself at home!</text></string>
 <string id="mil_patrol_dialog1_1"><text>I'm not exactly tensing up.</text></string>
 <string id="mil_patrol_dialog1_2"><text>Just stay within the bounds of decency, alright? If you start acting out, you've only yourself to blame. We had one guy here who didn't get it; he annoyed everyone so much we sent him for a stroll through a minefield in his birthday suit. Shinkar was swearing up a storm when that guy's arm landed on his head... You catch my drift?</text></string>
-<string id="mil_patrol_dialog1_3"><text>I catch it, I catch it.</text></string>
+<string id="mil_patrol_dialog1_3"><text>I got it, I got it.</text></string>
 <string id="mil_patrol_dialog1_4"><text>Good man! You're free to go.</text></string>
 
 <string id="mil_patrol_dialog2_0"><text>Ah, fresh meat...</text></string>

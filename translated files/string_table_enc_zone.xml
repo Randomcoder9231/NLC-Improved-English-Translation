@@ -29,7 +29,7 @@
 <string id="af-rusty-thorn"><text>"Thorn"</text></string> 
 <string id="af-soul"><text>"Soul"</text></string> 
 <string id="af-sul-new"><text>"Wrenched"</text></string>
-<string id="af_electra_blue"><text>"Moon Reflection"</text></string>
+<string id="af_electra_blue"><text>"Moonlight's Gleam"</text></string>
 <string id="af-vyvert"><text>"Wrenched"</text></string> 
 <string id="Agroprom"><text>Agroprom Research Institute</text></string> 
 <string id="Ameba"><text>"Fruit Punch"</text></string> 
@@ -37,12 +37,12 @@
 <string id="af_dummy_fire"><text>"Bubble"</text></string>
 <string id="Anomalies"><text>Anomalies</text></string> 
 <string id="Bald"><text>"Springboard"</text></string> 
-<string id="Bar"><text>Bar</text></string> [cite: 2]
+<string id="Bar"><text>Bar</text></string> 
 <string id="Darkdolina"><text>Dark Valley</text></string> 
 <string id="Electra"><text>"Electra"</text></string> 
 <string id="greedy"><text>"Greedy"</text></string> 
 <string id="psi_field"><text>"Matrix"</text></string> 
-<string id="af-baloon"><text>"Canister"</text></string>
+<string id="af-baloon"><text>"Balloon"</text></string>
 
 <string id="enc_zone_anomalies_greedy"><text>Unfortunately, regarding the definitions of this anomaly, known in stalker slang as "Greedy," scientists limit themselves only to vague hypotheses. The most popular of these states that it is a rift into some other dimension, and material objects from our universe undergo annihilation and conversion into nutritional energy. However, since the rift is truly small (in a metaphysical sense), it is impossible to pull a whole stalker through this "eye of a needle." Yet the suction force is quite high, so it feels as if something is holding him. Discarded objects can cause a certain collapse of this rift, which looks like the "saturation" of this anomaly's animal component.</text></string>
 
@@ -79,27 +79,27 @@
 
 <string id="af_electra_moonlight_new"><text>"Pseudo-light"</text></string>
 
-<string id="af_electra_moonlight_new_desc"><text>An artifact that outwardly resembles "Moonlight." That is how it got its name[cite: 1]. Where and how it appears has still not been reliably established. It is of no particular use in a stalker's daily life. Better to sell it.</text></string>
+<string id="af_electra_moonlight_new_desc"><text>An artifact that outwardly resembles "Moonlight." That is how it got its name. Where and how it appears has still not been reliably established. It is of no particular use in a stalker's daily life. Better to sell it.</text></string>
 
 <string id="af_electra_flash_new"><text>"Gleam"</text></string>
 
-<string id="af_electra_flash_new_desc"><text>Stalkers often confuse it with the "Flash" artifact due to its strong physical resemblance[cite: 1]. Unfortunately, in terms of anomalous properties, it doesn't even come close to the aforementioned artifact. It is only good for selling.</text></string>
+<string id="af_electra_flash_new_desc"><text>Stalkers often confuse it with the "Flash" artifact due to its strong physical resemblance. Unfortunately, in terms of anomalous properties, it doesn't even come close to the aforementioned artifact. It is only good for selling.</text></string>
 
 <string id="af-dummy-dummy-new"><text>"Storage Battery"</text></string>
 
-<string id="af_dummy_dummy_new_desc"><text>A very rare variety of the "Dummy" artifact[cite: 1]. It has excellent protection against electricity. No harmful effects from this artifact have been observed so far.</text></string>
+<string id="af_dummy_dummy_new_desc"><text>A very rare variety of the "Dummy" artifact. It has excellent protection against electricity. No harmful effects from this artifact have been observed so far.</text></string>
 
 <string id="af-eye"><text>"Eye"</text></string>
 
-<string id="af_eye_desc"><text>The "Eye" is an artifact that appears near the dual "Snow" anomaly[cite: 1]. The properties of the "Eye" differ slightly between specific artifacts. Its activation allows for a slight reduction in the wearer's gravitational mass. Common traits include: protection against impact effects and increased vulnerability of the wearer to chemical burns.</text></string>
+<string id="af_eye_desc"><text>The "Eye" is an artifact that appears near the dual "Snow" anomaly. The properties of the "Eye" differ slightly between specific artifacts. Its activation allows for a slight reduction in the wearer's gravitational mass. Common traits include: protection against impact effects and increased vulnerability of the wearer to chemical burns.</text></string>
 
-<string id="af_eye_desc_1"><text>The "Eye" is an artifact that appears near the dual "Snow" anomaly[cite: 1]. The properties of the "Eye" differ slightly between specific artifacts. Its activation allows for a slight reduction in the wearer's gravitational mass. Common traits include: protection against impact effects and increased vulnerability of the wearer to chemical burns.</text></string>
+<string id="af_eye_desc_1"><text>The "Eye" is an artifact that appears near the dual "Snow" anomaly. The properties of the "Eye" differ slightly between specific artifacts. Its activation allows for a slight reduction in the wearer's gravitational mass. Common traits include: protection against impact effects and increased vulnerability of the wearer to chemical burns.</text></string>
 
-<string id="af_eye_desc_2"><text>The "Eye" is an artifact that appears near the dual "Snow" anomaly[cite: 1]. The properties of the "Eye" differ slightly between specific artifacts. Its activation allows for a slight reduction in the wearer's gravitational mass. Common traits include: protection against impact effects and increased vulnerability of the wearer to chemical burns.</text></string>
+<string id="af_eye_desc_2"><text>The "Eye" is an artifact that appears near the dual "Snow" anomaly. The properties of the "Eye" differ slightly between specific artifacts. Its activation allows for a slight reduction in the wearer's gravitational mass. Common traits include: protection against impact effects and increased vulnerability of the wearer to chemical burns.</text></string>
 
-<string id="af_eye_desc_4"><text>The "Eye" is an artifact that appears near the dual "Snow" anomaly[cite: 1]. The properties of the "Eye" differ slightly between specific artifacts. Its activation allows for a slight reduction in the wearer's gravitational mass. Common traits include: protection against impact effects and increased vulnerability of the wearer to chemical burns.</text></string>
+<string id="af_eye_desc_4"><text>The "Eye" is an artifact that appears near the dual "Snow" anomaly. The properties of the "Eye" differ slightly between specific artifacts. Its activation allows for a slight reduction in the wearer's gravitational mass. Common traits include: protection against impact effects and increased vulnerability of the wearer to chemical burns.</text></string>
 
-<string id="af_eye_desc_5"><text>The "Eye" is an artifact that appears near the dual "Snow" anomaly[cite: 1]. The properties of the "Eye" differ slightly between specific artifacts. Its activation allows for a slight reduction in the wearer's gravitational mass. Common traits include: protection against impact effects.</text></string>
+<string id="af_eye_desc_5"><text>The "Eye" is an artifact that appears near the dual "Snow" anomaly. The properties of the "Eye" differ slightly between specific artifacts. Its activation allows for a slight reduction in the wearer's gravitational mass. Common traits include: protection against impact effects.</text></string>
 
 <string id="af_eye_desc_6"><text>A degenerate "Eye" artifact.</text></string>
 

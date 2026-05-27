@@ -4,11 +4,11 @@
 <string id="val_bandit_dialog_0"><text>What, you feelin' like crap?</text></string>
 <string id="val_bandit_dialog_1"><text>Help me out, man! I swear on my life, you won't regret it!</text></string>
 <string id="val_bandit_dialog_2"><text>Lookin' at you makes me sick! If you kick the bucket, it's good riddance!</text></string>
-<string id="val_bandit_dialog_3"><text>Keep your promises to yourself. Here, take the medkit! [cite: 21]</text></string>
+<string id="val_bandit_dialog_3"><text>Keep your promises to yourself. Here, take the medkit!</text></string>
 <string id="val_bandit_dialog_5"><text>I owe you big time! I'll tell the broskis you ain't no bullshitter! You'll get respect from the boss and from the rest of the deck too. Our Borov, he lives by the code...</text></string>
-<string id="val_bandit_dialog_6"><text>Borov? He's exactly who I need, got sumthin' to shoot the breeze with him 'bout.</text></string>
+<string id="val_bandit_dialog_6"><text>Borov? He's exactly who I need, got something to talk about with him.</text></string>
 <string id="val_bandit_dialog_7"><text>You... hey, what's your name again? Don't rush it, I'll give a shout kada it's okay. The big-shot don't like havin' his brain scrambled for nothin'... Mongol's my name, if you need sumthin'.</text></string>
-<string id="val_bandit_dialog_8"><text>They call me the Marked One. Well, get goin', I'll be waitin'.</text></string>
+<string id="val_bandit_dialog_8"><text>They call me the Marked One. Well, get going, I'll be waiting.</text></string>
 <!-- Пуля -->
 <string id="val_escort_nap1_dialog_101"><text>Thanks, brother! You helped save my partner! Here, take this, it's from the heart. And write down this recipe; it'll come in handy.</text></string>
 <string id="val_escort_nap1_dialog_102"><text>How did this happen? Why did the bandits capture your friend?</text></string>

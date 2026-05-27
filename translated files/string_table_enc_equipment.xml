@@ -6,7 +6,7 @@
 <string id="kamaz_accum"><text>Something resembling a battery</text></string>
 <string id="lot_many"><text>A bit of cash</text></string>
 <string id="lot_many_desc"><text>Cash in old Soviet bills. Used as a monetary equivalent for small transactions between stalkers...</text></string>
-<string id="green_kolbasa"><text>"Hunter's" sausage</text></string>
+<string id="green_kolbasa"><text>Hunter's Sausage</text></string>
 <string id="enc_green_kolbasa"><text>Hunters have learned how to prepare a rather good sausage from certain animals of the Zone. It is very filling and practically never spoils... As for the taste... Well, we aren't exactly gourmets here...</text></string>
 <string id="matches"><text>Box of matches</text></string>
 <string id="matches_desc"><text>Matches are an essential item in the Zone. Must be kept away from moisture...</text></string>
@@ -106,7 +106,7 @@
 <string id="drag_cat_eyes_descr"><text>The unique "Cat's Eye" drug, developed by scientific staff within the CEZ, allows for a temporary sharpening of vision in low-light environments. It has gained value among diggers and fans of night raids.</text></string>
 <string id="kartina04"><text>Photograph</text></string>
 <string id="enc_kartina04"><text>The photograph captures two people. One of them painfully reminds you of someone familiar.</text></string>
-<string id="ventilator_01"><text>"Eternal" fan</text></string>
+<string id="ventilator_01"><text>Eternal fan</text></string>
 <string id="enc_ventilator_01"><text>Another unexplained phenomenon of the Zone. A fan that works without power! Collectors would pay big money for such a thing.</text></string>
 <string id="item_battery_02"><text>Power battery</text></string>
 <string id="enc_item_battery_02"><text>Rechargeable battery. Very high capacity and reliable. In the Zone, it is used as a power element for radio stations and other devices.</text></string>
@@ -115,7 +115,7 @@
 <string id="enc_item_battery_04"><text>Rechargeable battery. Completely discharged.</text></string>
 <string id="item_battery_05"><text>Pack of AA batteries.</text></string>
 <string id="enc_item_battery_05"><text>A night in the Zone is something terrible. And to make it less creepy, many stalkers use headlamps. That's why traders bring in these batteries.</text></string>
-<string id="klyk_pribor_1c"><text>Klyk Unique Device</text></string>
+<string id="klyk_pribor_1c"><text>Klyk's Unique Device</text></string>
 <string id="enc_klyk_pribor_1c"><text>Klyk, a legendary mechanic of the Zone, invented and improved many things. What this particular device does is not reliably known, but like all unique things, it can be a collector's item.</text></string>
 <string id="item_psi_helmet_01"><text>Protective psy-helmet</text></string>
 <string id="enc_item_psi_helmet_01"><text>This psy-helmet belonged to the legendary Strelok! Thanks to the protective properties of this helmet, Strelok visited the very heart of the Zone.</text></string>
