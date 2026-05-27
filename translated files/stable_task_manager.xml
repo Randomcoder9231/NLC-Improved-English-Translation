@@ -1770,8 +1770,8 @@
 <string id="borov_kill_stalker_dlg_done_3"><text>Yeah... This ain't a PDA, you can't even tell whose it was now. Well then... there was nothin' - and that's good too. Means it wasn't him, or he managed to figure it out and got rid of it in time... Thanks for that anyway.</text></string>
 
 <string id="lesnik_courier_1"><text>Flesh hides for the hunters from Jaeger [TERM?]</text></string>
-<string id="lesnik_courier_1_descr"><text>Pass five flesh hides to Ignat [TERM?] in the Gut [TERM?] from Jaeger [TERM?]. Two days deadline.</text></string>
-<string id="lesnik_courier_1_text"><text>I shot some pigs here, gathered some hides. Now I need to pass them to the hunters in the Gut [TERM?] for tanning. You wouldn't happen to be heading that way? Just think it over right away: the hides will go bad if you don't make it in a couple of days. If anything - I'll hire the guys from Freedom.</text></string>
+<string id="lesnik_courier_1_descr"><text>Pass five flesh hides to Ignat [TERM?] in the Gut from Jaeger [TERM?]. Two days deadline.</text></string>
+<string id="lesnik_courier_1_text"><text>I shot some pigs here, gathered some hides. Now I need to pass them to the hunters in the Gut for tanning. You wouldn't happen to be heading that way? Just think it over right away: the hides will go bad if you don't make it in a couple of days. If anything - I'll hire the guys from Freedom.</text></string>
 
 <string id="lesnik_courier_2"><text>Monster parts for Boryan [TERM?] from Jaeger [TERM?]</text></string>
 <string id="lesnik_courier_2_descr"><text>Jaeger [TERM?] is passing a crate with monster meat to Boryan [TERM?] in the Swamps. Two days deadline.</text></string>
@@ -1810,7 +1810,7 @@
 <string id="green_glavn_courier_5_text"><text>Jaeger [TERM?] from the Red Forest sometimes tosses us parts of the beasts from over there. Recently asked to gather some ammo for a shotgun with a heavy bullet for him. Won't you pass them from us? Can you make it there in two days? If not, then we'll send someone else...</text></string>
 
 <string id="green_glavn_eliminate_lager_1"><text>Destroy the flesh lair</text></string>
-<string id="green_glavn_eliminate_lager_1_descr"><text>Ignat [TERM?] is asking to clear out the flesh lair in the Gut [TERM?]. Promises to throw in an artifact and sausages as a reward, but need to manage to finish the mutants off in a day.</text></string>
+<string id="green_glavn_eliminate_lager_1_descr"><text>Ignat [TERM?] is asking to clear out the flesh lair in the Gut. Promises to throw in an artifact and sausages as a reward, but need to manage to finish the mutants off in a day.</text></string>
 <string id="green_glavn_eliminate_lager_1_text"><text>There's a certain matter here. The local ecologists got the urge to run some experiment. And as luck would have it, fleshes fancied that area. My guys are busy right now, and the nerds are burning up, that's how urgent it is. Will you take the job to help science and rid them of the neighborhood with mutants? Need to get it done in a day. \nI'll make it worth your while. I have a little artifact and I'll toss in some of our sausage.</text></string>
 
 <string id="boryan_courier_1"><text>Medicine from Boryan [TERM?] for the Duty members</text></string>
@@ -1818,7 +1818,7 @@
 <string id="boryan_courier_1_text"><text>The Duty members asked to pass along another batch of my herbs. Would you agree? Just make it quick, seems one of them over there has a bad stomach - he's dying. Can you manage it in a day? Petrenko [TERM?] will reward you. If you're not sure - it's better I ask someone else.</text></string>
 
 <string id="boryan_courier_2"><text>Medicine from Boryan [TERM?] for the hunters</text></string>
-<string id="boryan_courier_2_descr"><text>Take a package with medicinal herbs to the Gut [TERM?], to the sawmill. One day deadline.</text></string>
+<string id="boryan_courier_2_descr"><text>Take a package with medicinal herbs to the Gut, to the sawmill. One day deadline.</text></string>
 <string id="boryan_courier_2_text"><text>The hunters asked to pass along another batch of my herbs. Would you agree? Just make it quick, seems one of them over there has a bad stomach - he's dying. Can you manage it in a day? Ignat [TERM?] will reward you. If you're not sure - it's better I ask someone else.</text></string>
 
 <string id="boryan_courier_3"><text>Medicine from Boryan [TERM?] for the Freedom members</text></string>
@@ -1842,8 +1842,8 @@
 <string id="borov_courier_1_text"><text>Boryan [TERM?], the homegrown doc who hangs out in the Swamps, helped our sick bros with his roots. Take our signature little cloak to him out of gratitude. Just do it real snappy, 'cause seems like he gets offended that we don't hook him up on time. Think you can manage it in a couple of days? No? If you ain't sure - better I send somebody else...</text></string>
 
 <string id="borov_courier_2"><text>Cloak for the hunters from Borov</text></string>
-<string id="borov_courier_2_descr"><text>Take a cloak made of flesh hide to the Gut [TERM?], to the sawmill, within a day.</text></string>
-<string id="borov_courier_2_text"><text>The guys from the Gut [TERM?] send us gifts from time to time, so out of gratitude I'd like to pass along our signature little cloak. Will ya fly over there, to Ignat [TERM?]? Just make it quick - one foot here, and the other gets torn off... Ha-ha. Joke. Basically gotta make it in a day! You takin' the job?</text></string>
+<string id="borov_courier_2_descr"><text>Take a cloak made of flesh hide to the Gut, to the sawmill, within a day.</text></string>
+<string id="borov_courier_2_text"><text>The guys from the Gut send us gifts from time to time, so out of gratitude I'd like to pass along our signature little cloak. Will ya fly over there, to Ignat [TERM?]? Just make it quick - one foot here, and the other gets torn off... Ha-ha. Joke. Basically gotta make it in a day! You takin' the job?</text></string>
 
 <string id="borov_courier_3"><text>PDA for Vakhtang [TERM?] from Borov</text></string>
 <string id="borov_courier_3_descr"><text>Take 25 broken PDAs to the Army Warehouses, to the merc Vakhtang [TERM?]. Deadline - two days.</text></string>
@@ -1856,12 +1856,12 @@
 <string id="tm_kill_stalker_1_start_0"><text>Sidor, I uh...</text></string>
 <string id="tm_kill_stalker_1_start_1"><text>Well, what do you want, invalid?</text></string>
 <string id="tm_kill_stalker_1_start_2"><text>Medicine and ammo - that's good, of course, thanks for throwing them my way, but... how about some cash or something more substantial, eh? I'll work it off. I'm tired of walking around like a ragamuffin...</text></string>
-<string id="tm_kill_stalker_1_start_3"><text>There is one little job, just right for ragamuffins. I'm joking, joking.\nYou already know about the beast-catchers in the Gut [TERM?], right? I don't give a damn about their hunting business - let them salt whatever guts they want, that's not the point. The point is that they somehow ship all these offal through their own channels. And I'm very interested, are artifacts also leaving through those same channels? The situation is such that I don't like how my main buyer has been behaving lately... Apparently, I'll have to look for another, more generous one. So look, Marked One, talk to the hunters. Their bosses won't say anything, that's understandable, but maybe one of the rank-and-file trappers knows how they smuggle the loot past the perimeter. In short, clear up this point.</text></string>
+<string id="tm_kill_stalker_1_start_3"><text>There is one little job, just right for ragamuffins. I'm joking, joking.\nYou already know about the beast-catchers in the Gut, right? I don't give a damn about their hunting business - let them salt whatever guts they want, that's not the point. The point is that they somehow ship all these offal through their own channels. And I'm very interested, are artifacts also leaving through those same channels? The situation is such that I don't like how my main buyer has been behaving lately... Apparently, I'll have to look for another, more generous one. So look, Marked One, talk to the hunters. Their bosses won't say anything, that's understandable, but maybe one of the rank-and-file trappers knows how they smuggle the loot past the perimeter. In short, clear up this point.</text></string>
 <string id="tm_kill_stalker_1_start_41"><text>I have a feeling I didn't run around for sausage just for nothing, either. You sly old bug. I have an acquaintance, a hunter I can talk to about this topic. Nazar [TERM?] is his name. But what if he gets stubborn?</text></string>
 <string id="tm_kill_stalker_1_start_42"><text>I have a feeling I didn't run around for sausage just for nothing, either. You sly old bug. And who am I supposed to ask around there? Every random hunter I meet?</text></string>
-<string id="tm_kill_stalker_1_start_43"><text>Sorry, Sidorovich, but I'm forced to decline. I didn't like wandering around the Gut [TERM?]. A very unwelcoming place. Maybe later.</text></string>
+<string id="tm_kill_stalker_1_start_43"><text>Sorry, Sidorovich, but I'm forced to decline. I didn't like wandering around the Gut. A very unwelcoming place. Maybe later.</text></string>
 <string id="tm_kill_stalker_1_start_51"><text>Well you try your best, show some eloquence. And try not to drag it out. Commerce doesn't like downtime. If you don't manage it in a couple of days, then I'll find another messenger, a more nimble one.</text></string>
-<string id="tm_kill_stalker_1_start_52"><text>Why, every one? I have one accommodating guy in mind, drops by here sometimes. Nazar [TERM?] is his name, he has a camp in the southern part of the Gut [TERM?] near the power line mast. Teaches the young ones the hunting trade there. Have a chat with him. And try not to drag it out. Commerce doesn't like downtime. If you don't manage it in a couple of days, then I'll find another messenger, a more nimble one.</text></string>
+<string id="tm_kill_stalker_1_start_52"><text>Why, every one? I have one accommodating guy in mind, drops by here sometimes. Nazar [TERM?] is his name, he has a camp in the southern part of the Gut near the power line mast. Teaches the young ones the hunting trade there. Have a chat with him. And try not to drag it out. Commerce doesn't like downtime. If you don't manage it in a couple of days, then I'll find another messenger, a more nimble one.</text></string>
 <string id="tm_kill_stalker_1_start_6"><text>We have a deal. Prepare the reward.</text></string>
 
 <string id="tm_kill_stalker_dlg_0"><text>Can I distract you for a word or two?</text></string>
@@ -1893,7 +1893,7 @@
 <string id="tm_kill_stalker_1_done_11"><text>And... what?</text></string>
 <string id="tm_kill_stalker_1_done_12"><text>What, what? Nothing... Alright, remember my generosity.</text></string>
 
-<string id="tex_tm_kill_stalker"><text>Sidorovich asked to find out about the hunters' sales channels. Advised to talk to Nazar [TERM?], who is somewhere in the south of the Gut [TERM?]. Only gave a couple of days deadline, need to make it.</text></string>
+<string id="tex_tm_kill_stalker"><text>Sidorovich asked to find out about the hunters' sales channels. Advised to talk to Nazar [TERM?], who is somewhere in the south of the Gut. Only gave a couple of days deadline, need to make it.</text></string>
 <string id="mercenary_baloon_start_0"><text>Зуб [TERM?], I have a question.</text></string>
 <string id="mercenary_baloon_start_1"><text>You know, Marked One, that my answers cost money.</text></string>
 <string id="mercenary_baloon_start_2"><text>Yeah, that's clear. You wouldn't happen to know how one can protect against bloodsuckers? Some method, or something else?</text></string>
@@ -2013,11 +2013,11 @@
 <string id="gar_prapor_courier_start_dialog_2"><text>Experience - that's understandable. Do you have experience yourself? Maybe we can make a deal?</text></string>
 <string id="gar_prapor_courier_start_dialog_3"><text>Maybe... only, you understand yourself... you help me - I help you.</text></string>
 <string id="gar_prapor_courier_start_dialog_4"><text>What do you need this time?</text></string>
-<string id="gar_prapor_courier_start_dialog_5"><text>I've got some urgent business piled up here. Need to finish it. Take a couple or three packages over. I can't pull my guys away, you see yourself what's going on here, the monsters keep coming, every gun counts. And you - are a free bird. Well, so what about it? It's not far from here, to Сидор [TERM?] and to the Swamps, and to the Gut [TERM?] too.</text></string>
+<string id="gar_prapor_courier_start_dialog_5"><text>I've got some urgent business piled up here. Need to finish it. Take a couple or three packages over. I can't pull my guys away, you see yourself what's going on here, the monsters keep coming, every gun counts. And you - are a free bird. Well, so what about it? It's not far from here, to Сидор [TERM?] and to the Swamps, and to the Gut too.</text></string>
 <string id="gar_prapor_courier_start_dialog_6"><text>It's not far... for you, maybe I'll take them, only I didn't get it, what about the artifact?</text></string>
 <string id="gar_prapor_courier_start_dialog_7"><text>With the art? It's all simple. You bring me everything on the list, I'll boil this thing for you, since you're... all thumbs, it'll be completely green. But that's only after we sort out our business.</text></string>
 <string id="gar_prapor_courier_start_dialog_81"><text>On the list, then... Tell me, where and what to carry.</text></string>
-<string id="gar_prapor_courier_start_dialog_91"><text>So it's like this, listen carefully: \nSidorovich asked to bring him odd artifacts, if we come across any... Here... we found one of those. Just make it quick, he's been waiting a long time. \nKnow about the nerds in the Swamps? They're studying the little beasts intensely... We gathered some boar hooves here, the kind they're interested in. You'll take them quickly, before they rot. \nThe hunters in the Gut [TERM?] make all sorts of things from tails. Well, we gathered some choice ones for them. Also needs to be done quickly, so they don't go to waste.</text></string>
+<string id="gar_prapor_courier_start_dialog_91"><text>So it's like this, listen carefully: \nSidorovich asked to bring him odd artifacts, if we come across any... Here... we found one of those. Just make it quick, he's been waiting a long time. \nKnow about the nerds in the Swamps? They're studying the little beasts intensely... We gathered some boar hooves here, the kind they're interested in. You'll take them quickly, before they rot. \nThe hunters in the Gut make all sorts of things from tails. Well, we gathered some choice ones for them. Also needs to be done quickly, so they don't go to waste.</text></string>
 <string id="gar_prapor_courier_start_dialog_82"><text>I might be a free bird, but I have enough of my own worries, I'll manage somehow.</text></string>
 <string id="gar_prapor_courier_start_dialog_92"><text>Your business, Marked One. And you could've had a good artifact.</text></string>
 <string id="gar_prapor_courier_start_dialog_10"><text>You sure talked a lot... Give me your tails and hooves with the artifact. Should write it down, so I don't forget who, where, and how much.</text></string>
