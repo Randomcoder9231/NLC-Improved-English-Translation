@@ -708,10 +708,10 @@
 <string id="ecolog_find_item_2_gg_no_need"><text>Gentlemen stalkers! We have collected the necessary amount of anomaly substance. No more is needed for now.</text></string>
 
 <string id="ecolog_find_item_3"><text>Bring observation data</text></string>
-<string id="ecolog_find_item_3_descr"><text>Retrieve data on memory cards from three measurement complexes in the "Misty Thicket".</text></string>
-<string id="ecolog_find_item_3_text"><text>We have several measurement complexes deployed in different locations. Unfortunately, the remote radio channel is extremely unstable, and we have not been able to receive the necessary information for a long time. It is necessary to deliver cards with accumulated data from the complexes in the so-called "Misty Thicket". According to the latest information, three installations are still working there. If it is not too much trouble for you, I ask you to make a voyage there. I have already spoken with several stalkers on this subject, but there is no news yet. We can guarantee a very good reward for this job...</text></string>
-<string id="ecolog_find_item_3_no_need"><text>Gentlemen stalkers. The data from the Misty Thicket has been received remotely. Therefore, I apologize for the trouble.</text></string>
-<string id="ecolog_find_item_3_gg_no_need"><text>Gentlemen stalkers! The measurement data from the Misty Thicket has already been received.</text></string>
+<string id="ecolog_find_item_3_descr"><text>Retrieve data on memory cards from three measurement complexes in the "Foggy Thicket".</text></string>
+<string id="ecolog_find_item_3_text"><text>We have several measurement complexes deployed in different locations. Unfortunately, the remote radio channel is extremely unstable, and we have not been able to receive the necessary information for a long time. It is necessary to deliver cards with accumulated data from the complexes in the so-called "Foggy Thicket". According to the latest information, three installations are still working there. If it is not too much trouble for you, I ask you to make a voyage there. I have already spoken with several stalkers on this subject, but there is no news yet. We can guarantee a very good reward for this job...</text></string>
+<string id="ecolog_find_item_3_no_need"><text>Gentlemen stalkers. The data from the Foggy Thicket has been received remotely. Therefore, I apologize for the trouble.</text></string>
+<string id="ecolog_find_item_3_gg_no_need"><text>Gentlemen stalkers! The measurement data from the Foggy Thicket has already been received.</text></string>
 
 <string id="ecolog_find_item_4"><text>Deliver observation data</text></string>
 <string id="ecolog_find_item_4_descr"><text>Retrieve data on memory cards from four measurement complexes in the Swamps.</text></string>

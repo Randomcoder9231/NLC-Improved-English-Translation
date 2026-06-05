@@ -13,7 +13,7 @@
 <string id="agr_secret_krysyk_name"><text>Rett's Stash</text></string>
 <string id="agr_secret_krysyk_desc"><text>Rett's PDA should be here.</text></string>
 <string id="aver_secret_luber_ammunition_name"><text>Ammunition Stockpile</text></string>
-<string id="aver_luber_ammunition_desc"><text>Mercenaries left some ammunition in Туманная чаща [TERM?].</text></string>
+<string id="aver_luber_ammunition_desc"><text>Mercenaries left some ammunition in Foggy Thicket.</text></string>
 <string id="mil_secret_borov_name"><text>Borov's Stash</text></string>
 <string id="mil_secret_borov_desc"><text>Borov said there's something worth taking here...</text></string>
 
@@ -28,9 +28,9 @@
 <string id="val_secret_oreh_desc3"><text>What I stashed there, I don't remember; I was drunk off my ass... and I trusted a Pseudodog to guard my stash... it'll tear a thief apart in one bite, and if not, I'll gnaw his face off myself.</text></string>
 
 <string id="dead_secret_oreh_name"><text>Nut's Tip</text></string>
-<string id="dead_secret_oreh_desc1"><text>Supposedly Ghost was setting up a den here. Stashed various junk too, so he could run to Припять [TERM?] light. The lead is solid. Only we can't check it...</text></string>
-<string id="dead_secret_oreh_desc2"><text>Supposedly Ghost was setting up a den here. Stashed various junk too, so he could run to Припять [TERM?] light. The lead is solid. Only we can't check it...</text></string>
-<string id="dead_secret_oreh_desc3"><text>Supposedly Ghost was setting up a den here. Stashed various junk too, so he could run to Припять [TERM?] light. The lead is solid. Only we can't check it...</text></string>
+<string id="dead_secret_oreh_desc1"><text>Supposedly Ghost was setting up a den here. Stashed various junk too, so he could run to Pripyat light. The lead is solid. Only we can't check it...</text></string>
+<string id="dead_secret_oreh_desc2"><text>Supposedly Ghost was setting up a den here. Stashed various junk too, so he could run to Pripyat light. The lead is solid. Only we can't check it...</text></string>
+<string id="dead_secret_oreh_desc3"><text>Supposedly Ghost was setting up a den here. Stashed various junk too, so he could run to Pripyat light. The lead is solid. Only we can't check it...</text></string>
 
 <string id="mar_secret_kirpich_name"><text>Crate on the Locomotive</text></string>
 <string id="mar_secret_kirpich_desc1"><text>Hid a bit of loot in a little crate on the roof of the steam engine. Leaving soon...</text></string>
@@ -85,9 +85,9 @@
 <string id="agr_secret_0008_desc3"><text>In the eastern building I hid a backpack with ammunition so cleverly you can't see it from below.</text></string>
 
 <string id="agr_secret_0009_name"><text>Radioactive Crate</text></string>
-<string id="agr_secret_0009_desc1"><text>Дюдяй [TERM?] left me his favorite suit. It's hidden in the eastern building. I just need to get hold of some antirads before going in for it; the place is seriously hot.</text></string>
-<string id="agr_secret_0009_desc2"><text>Дюдяй [TERM?] left me his favorite gun. It's hidden in the eastern building. I just need to get hold of some antirads before going in for it; the place is seriously hot.</text></string>
-<string id="agr_secret_0009_desc3"><text>Дюдяй [TERM?] lost his last stash in a dice game. Says he hid extra ammo and a few repair kits in the eastern building. Need to get hold of some antirads before going after that loot; the place is seriously hot.</text></string>
+<string id="agr_secret_0009_desc1"><text>Dyudyay left me his favorite suit. It's hidden in the eastern building. I just need to get hold of some antirads before going in for it; the place is seriously hot.</text></string>
+<string id="agr_secret_0009_desc2"><text>Dyudyay left me his favorite gun. It's hidden in the eastern building. I just need to get hold of some antirads before going in for it; the place is seriously hot.</text></string>
+<string id="agr_secret_0009_desc3"><text>Dyudyay lost his last stash in a dice game. Says he hid extra ammo and a few repair kits in the eastern building. Need to get hold of some antirads before going after that loot; the place is seriously hot.</text></string>
 
 <string id="agr_secret_0010_name"><text>Crate in the Stairwell</text></string>
 <string id="agr_secret_0010_desc1"><text>They say a group of stalkers set up a rainy-day stash in the eastern building. Hid everything in the crate under the stairs. Would be nice to rummage through it quietly.</text></string>
@@ -100,9 +100,9 @@
 <string id="agr_secret_0011_desc3"><text>First time I've found an artifact like this. Need to ask the old hands what it could sell for. I'll hold onto it for now. I can see just the right crate to hide it in.</text></string>
 
 <string id="agr_secret_0012_name"><text>Bag on the Support</text></string>
-<string id="agr_secret_0012_desc1"><text>I was digging through supplies when Богдан [TERM?] gave the alarm. I tossed the bag onto the support and ran for it. Wonder who he spotted? The military, or those strange types who've taken to prowling around here lately?</text></string>
-<string id="agr_secret_0012_desc2"><text>I was digging through supplies when Богдан [TERM?] gave the alarm. I tossed the bag onto the support and ran for it. Wonder who he spotted? The military, or those strange types who've taken to prowling around here lately?</text></string>
-<string id="agr_secret_0012_desc3"><text>I was digging through supplies when Богдан [TERM?] gave the alarm. I tossed the bag onto the support and ran for it. Wonder who he spotted? The military, or those strange types who've taken to prowling around here lately?</text></string>
+<string id="agr_secret_0012_desc1"><text>I was digging through supplies when Bogdan gave the alarm. I tossed the bag onto the support and ran for it. Wonder who he spotted? The military, or those strange types who've taken to prowling around here lately?</text></string>
+<string id="agr_secret_0012_desc2"><text>I was digging through supplies when Bogdan gave the alarm. I tossed the bag onto the support and ran for it. Wonder who he spotted? The military, or those strange types who've taken to prowling around here lately?</text></string>
+<string id="agr_secret_0012_desc3"><text>I was digging through supplies when Bogdan gave the alarm. I tossed the bag onto the support and ran for it. Wonder who he spotted? The military, or those strange types who've taken to prowling around here lately?</text></string>
 
 <string id="agr_secret_0013_name"><text>Junk Crate</text></string>
 <string id="agr_secret_0013_desc1"><text>Good thing I decided to look in that tool crate. Some stalker set up a stash here. Fine, no time for it now. When I'm coming back from the meet, then I'll take everything. Just hope the owner doesn't show up first.</text></string>
@@ -112,7 +112,7 @@
 <string id="agr_secret_0014_name"><text>Safe Under the Tree</text></string>
 <string id="agr_secret_0014_desc1"><text>Didn't think I'd turn out to be such a weakling. Found a safe under the fallen tree. Good place to dump extra weight. It fit the body armor I traded from the military, shot, canned food, and medkits.</text></string>
 <string id="agr_secret_0014_desc2"><text>Pressed some young guy here, stripped a bit of junk off him. Tomorrow the boys from Boar's crew should show up; I'll hand it all to them to grease palms. Let the junk sit in the safe for now, under the fallen tree.</text></string>
-<string id="agr_secret_0014_desc3"><text>Now that's luck - found two artifacts by the swamp! Better not let Савицкий [TERM?] see. Spotted a safe nearby under the fallen tree; I'll stash them in it.</text></string>
+<string id="agr_secret_0014_desc3"><text>Now that's luck - found two artifacts by the swamp! Better not let Savitsky see. Spotted a safe nearby under the fallen tree; I'll stash them in it.</text></string>
 
 <string id="agr_secret_0015_name"><text>Things in the Pipe</text></string>
 <string id="agr_secret_0015_desc1"><text>Yesterday I saw that deserter, the one sitting in the wagon in the middle of the swamp, hiding some junk in the pipe. And he also plays orphan, begging stalkers for food... He'd be worth shaking down properly.</text></string>
@@ -120,9 +120,9 @@
 <string id="agr_secret_0015_desc3"><text>Yesterday I saw that deserter, the one sitting in the wagon in the middle of the swamp, hiding some junk in the pipe. And he also plays orphan, begging stalkers for food... He'd be worth shaking down properly.</text></string>
 
 <string id="agr_secret_0016_name"><text>Radioactive Pipe</text></string>
-<string id="agr_secret_0016_desc1"><text>Михась [TERM?] was saying that the stalkers who set up camp in the eastern complex have a stash nearby. Supposedly there's a pipe under the trailer frame, and they keep loot in it. But you can't just walk up to it; the radiation all around is wild.</text></string>
-<string id="agr_secret_0016_desc2"><text>Михась [TERM?] was saying that the stalkers who set up camp in the eastern complex have a stash nearby. Supposedly there's a pipe under the trailer frame, and they keep loot in it. But you can't just walk up to it; the radiation all around is wild.</text></string>
-<string id="agr_secret_0016_desc3"><text>Михась [TERM?] was saying that the stalkers who set up camp in the eastern complex have a stash nearby. Supposedly there's a pipe under the trailer frame, and they keep loot in it. But you can't just walk up to it; the radiation all around is wild.</text></string>
+<string id="agr_secret_0016_desc1"><text>Mikhас was saying that the stalkers who set up camp in the eastern complex have a stash nearby. Supposedly there's a pipe under the trailer frame, and they keep loot in it. But you can't just walk up to it; the radiation all around is wild.</text></string>
+<string id="agr_secret_0016_desc2"><text>Mikhас was saying that the stalkers who set up camp in the eastern complex have a stash nearby. Supposedly there's a pipe under the trailer frame, and they keep loot in it. But you can't just walk up to it; the radiation all around is wild.</text></string>
+<string id="agr_secret_0016_desc3"><text>Mikhас was saying that the stalkers who set up camp in the eastern complex have a stash nearby. Supposedly there's a pipe under the trailer frame, and they keep loot in it. But you can't just walk up to it; the radiation all around is wild.</text></string>
 
 <string id="agr_secret_0017_name"><text>not used</text></string>
 <string id="agr_secret_0017_desc1"><text>not used</text></string>
@@ -140,14 +140,14 @@
 <string id="agr_secret_0019_desc3"><text>They say Duty members from Yantar sometimes raid Agroprom, supposedly to thin out the mutant population. And the artifacts they find along the way are hidden somewhere there too, so they don't have to share with command and can quietly sell them to Sidorovich later. Would be nice to find their stash...</text></string>
 
 <string id="agr_secret_0020_name"><text>Under the Hatch</text></string>
-<string id="agr_secret_0020_desc1"><text>Дрюха [TERM?] swore he knows where smugglers leave supplies for long crossings. Where the trail to the Swamps starts, there's an inconspicuous little hatch in the grass. They hide them under the cover.</text></string>
-<string id="agr_secret_0020_desc2"><text>Дрюха [TERM?] swore he knows where smugglers leave supplies for long crossings. Where the trail to the Swamps starts, there's an inconspicuous little hatch in the grass. They hide them under the cover.</text></string>
-<string id="agr_secret_0020_desc3"><text>Дрюха [TERM?] swore he knows where the client leaves payment for the smugglers. They always collect it on the way back. Basically, where the trail to the Swamps starts, there's an inconspicuous little hatch in the grass. They hide it under the cover.</text></string>
+<string id="agr_secret_0020_desc1"><text>Dryukha swore he knows where smugglers leave supplies for long crossings. Where the trail to the Swamps starts, there's an inconspicuous little hatch in the grass. They hide them under the cover.</text></string>
+<string id="agr_secret_0020_desc2"><text>Dryukha swore he knows where smugglers leave supplies for long crossings. Where the trail to the Swamps starts, there's an inconspicuous little hatch in the grass. They hide them under the cover.</text></string>
+<string id="agr_secret_0020_desc3"><text>Dryukha swore he knows where the client leaves payment for the smugglers. They always collect it on the way back. Basically, where the trail to the Swamps starts, there's an inconspicuous little hatch in the grass. They hide it under the cover.</text></string>
 
 <string id="agr_secret_0021_name"><text>Under the Bush by the Wall</text></string>
-<string id="agr_secret_0021_desc1"><text>Finally found a decent little place to store loot and spare gear. I'm sick of constantly kicking money to Стасик [TERM?] so he'll watch my stuff. Here, right beside the military, nobody will crawl around for sure, so I don't have to worry about it staying put.</text></string>
-<string id="agr_secret_0021_desc2"><text>Finally found a decent little place to store loot and spare gear. I'm sick of constantly kicking money to Стасик [TERM?] so he'll watch my stuff. Here, right beside the military, nobody will crawl around for sure, so I don't have to worry about it staying put.</text></string>
-<string id="agr_secret_0021_desc3"><text>Finally found a decent little place to store loot and spare gear. I'm sick of constantly kicking money to Стасик [TERM?] so he'll watch my stuff. Here, right beside the military, nobody will crawl around for sure, so I don't have to worry about it staying put.</text></string>
+<string id="agr_secret_0021_desc1"><text>Finally found a decent little place to store loot and spare gear. I'm sick of constantly kicking money to Stas so he'll watch my stuff. Here, right beside the military, nobody will crawl around for sure, so I don't have to worry about it staying put.</text></string>
+<string id="agr_secret_0021_desc2"><text>Finally found a decent little place to store loot and spare gear. I'm sick of constantly kicking money to Stas so he'll watch my stuff. Here, right beside the military, nobody will crawl around for sure, so I don't have to worry about it staying put.</text></string>
+<string id="agr_secret_0021_desc3"><text>Finally found a decent little place to store loot and spare gear. I'm sick of constantly kicking money to Stas so he'll watch my stuff. Here, right beside the military, nobody will crawl around for sure, so I don't have to worry about it staying put.</text></string>
 
 <string id="agr_secret_0022_name"><text>Institute Crate</text></string>
 <string id="agr_secret_0022_desc1"><text>not used</text></string>
@@ -165,9 +165,9 @@
 <string id="agr_secret_0024_desc3"><text>not used</text></string>
 
 <string id="agr_secret_0025_name"><text>Rotten Log</text></string>
-<string id="agr_secret_0025_desc1"><text>Кирюха [TERM?] gave me a lead on a little soldier's stash from the military base, the ones holed up in the Research Institute. He was afraid to climb in himself, might get spotted, but I'll go at night. Basically, he saw some rookie pretend he went off to take a piss, but really he was hiding something in a rotten log, under a bush, next to the fence.</text></string>
-<string id="agr_secret_0025_desc2"><text>Кирюха [TERM?] gave me a lead on a little soldier's stash from the military base, the ones holed up in the Research Institute. He was afraid to climb in himself, might get spotted, but I'll go at night. Basically, he saw some rookie pretend he went off to take a piss, but really he was hiding something in a rotten log, under a bush, next to the fence.</text></string>
-<string id="agr_secret_0025_desc3"><text>Кирюха [TERM?] gave me a lead on a little soldier's stash from the military base, the ones holed up in the Research Institute. He was afraid to climb in himself, might get spotted, but I'll go at night. Basically, he saw some rookie pretend he went off to take a piss, but really he was hiding something in a rotten log, under a bush, next to the fence.</text></string>
+<string id="agr_secret_0025_desc1"><text>Kiryukha gave me a lead on a little soldier's stash from the military base, the ones holed up in the Research Institute. He was afraid to climb in himself, might get spotted, but I'll go at night. Basically, he saw some rookie pretend he went off to take a piss, but really he was hiding something in a rotten log, under a bush, next to the fence.</text></string>
+<string id="agr_secret_0025_desc2"><text>Kiryukha gave me a lead on a little soldier's stash from the military base, the ones holed up in the Research Institute. He was afraid to climb in himself, might get spotted, but I'll go at night. Basically, he saw some rookie pretend he went off to take a piss, but really he was hiding something in a rotten log, under a bush, next to the fence.</text></string>
+<string id="agr_secret_0025_desc3"><text>Kiryukha gave me a lead on a little soldier's stash from the military base, the ones holed up in the Research Institute. He was afraid to climb in himself, might get spotted, but I'll go at night. Basically, he saw some rookie pretend he went off to take a piss, but really he was hiding something in a rotten log, under a bush, next to the fence.</text></string>
 
 <string id="agr_secret_0026_name"><text>Quartermaster's Crate</text></string>
 <string id="agr_secret_0026_desc1"><text>not used</text></string>
@@ -183,17 +183,17 @@
 
 <string id="bar_secret_0000_name"><text>Hidden Backpack</text></string>
 <string id="bar_secret_0000_desc1"><text>Swiped a whole 200 rounds of 7.62 and a damn decent gun. Hid the backpack near the Duty base. I'll pick it up later.</text></string>
-<string id="bar_secret_0000_desc2"><text>Семён [TERM?] said he stashed a decent suit at the Bar, a trophy from one of the raids.</text></string>
+<string id="bar_secret_0000_desc2"><text>Semyon said he stashed a decent suit at the Bar, a trophy from one of the raids.</text></string>
 <string id="bar_secret_0000_desc3"><text>Hid a backpack by the Duty base. I'll pick it up later.</text></string>
 
 <string id="bar_secret_0001_name"><text>Abandoned Backpack</text></string>
 <string id="bar_secret_0001_desc1"><text>Damn dogs! If I hadn't dropped the backpack, I'd never have made it to the outpost. Hated leaving it. There's a battery and 3 armor repair kits in the backpack. But the main thing is a basic artifact.</text></string>
 <string id="bar_secret_0001_desc2"><text>A big pack of dogs chased me... if I hadn't dropped the backpack, I never would have made it to the outpost.</text></string>
-<string id="bar_secret_0001_desc3"><text>On the road to the Bar there's an old Москвич [TERM?] with a yellow roof; I left the backpack in it.</text></string>
+<string id="bar_secret_0001_desc3"><text>On the road to the Bar there's an old Moskvich with a yellow roof; I left the backpack in it.</text></string>
 
 <string id="bar_secret_0002_name"><text>Stash Under the Cross</text></string>
 <string id="bar_secret_0002_desc1"><text>Couldn't carry it all - took only the artifacts, left the ammo under the cross, 5.45 and shot.</text></string>
-<string id="bar_secret_0002_desc2"><text>Greetings from Стас [TERM?]. The cross with the gas cylinders is near the Duty checkpoint at the Bar.</text></string>
+<string id="bar_secret_0002_desc2"><text>Greetings from Stas. The cross with the gas cylinders is near the Duty checkpoint at the Bar.</text></string>
 <string id="bar_secret_0002_desc3"><text>Everything that was left got buried under the cross.</text></string>
 
 <string id="bar_secret_0003_name"><text>Backpack</text></string>
@@ -212,17 +212,17 @@
 <string id="bar_secret_0005_desc3"><text>Saw a Duty member shove something into the pipe near the outpost. Need to check.</text></string>
 
 <string id="bar_secret_0006_name"><text>Stash Under the Cross</text></string>
-<string id="bar_secret_0006_desc1"><text>Put all Серёга [TERM?]'s junk in the stash under the cross. We'll split it with the guys later.</text></string>
-<string id="bar_secret_0006_desc2"><text>Put all Серёга [TERM?]'s junk in the stash under the cross. We'll split it with the guys later.</text></string>
-<string id="bar_secret_0006_desc3"><text>Put all Серёга [TERM?]'s junk in the stash under the cross. We'll split it with the guys later.</text></string>
+<string id="bar_secret_0006_desc1"><text>Put all Seryoga's junk in the stash under the cross. We'll split it with the guys later.</text></string>
+<string id="bar_secret_0006_desc2"><text>Put all Seryoga's junk in the stash under the cross. We'll split it with the guys later.</text></string>
+<string id="bar_secret_0006_desc3"><text>Put all Seryoga's junk in the stash under the cross. We'll split it with the guys later.</text></string>
 
 <string id="bar_secret_0007_name"><text>Backpack</text></string>
 <string id="bar_secret_0007_desc1"><text>Left a backpack with food in the hangar. Need to pick it up.</text></string>
 <string id="bar_secret_0007_desc2"><text>I was walking to the Bar, left the backpack in the hangar.</text></string>
-<string id="bar_secret_0007_desc3"><text>Saw Перегруз [TERM?] duck into the hangar with a little backpack and come out without it. Once he leaves the Bar, I'll need to see what he hid there.</text></string>
+<string id="bar_secret_0007_desc3"><text>Saw Overload duck into the hangar with a little backpack and come out without it. Once he leaves the Bar, I'll need to see what he hid there.</text></string>
 
 <string id="bar_secret_0008_name"><text>Electrical Panel Stash</text></string>
-<string id="bar_secret_0008_desc1"><text>What Барагоз [TERM?] was blabbing about is on Duty territory, in the electrical panel.</text></string>
+<string id="bar_secret_0008_desc1"><text>What Baragoz was blabbing about is on Duty territory, in the electrical panel.</text></string>
 <string id="bar_secret_0008_desc2"><text>Set aside a stash in the hangar's electrical panel. </text></string>
 <string id="bar_secret_0008_desc3"><text>They say something valuable is lying on Duty territory, in the electrical panel.</text></string>
 
@@ -234,7 +234,7 @@
 <string id="bar_secret_0010_name"><text>Stash in the Tower</text></string>
 <string id="bar_secret_0010_desc1"><text>Ammo for the 47, three hundred rounds. Hid it in the pipe under the stairs.</text></string>
 <string id="bar_secret_0010_desc2"><text>Hid it in the pipe under the stairs.</text></string>
-<string id="bar_secret_0010_desc3"><text>Traded successfully for medicine with Сахар [TERM?] on the last run.</text></string>
+<string id="bar_secret_0010_desc3"><text>Traded successfully for medicine with Sakharov on the last run.</text></string>
 
 <string id="bar_secret_0011_name"><text>Arnie's Stash</text></string>
 <string id="bar_secret_0011_desc1"><text>Buried the goods not far from the bar, behind the anomalies. You need to pry the little door there, and it'll open right away.</text></string>
@@ -249,10 +249,10 @@
 <string id="bar_secret_0013_name"><text>Crate</text></string>
 <string id="bar_secret_0013_desc1"><text>In a crate near the Bar.</text></string>
 <string id="bar_secret_0013_desc2"><text>Left my goods in the crate next to the generator so the duty man would keep an eye on them.</text></string>
-<string id="bar_secret_0013_desc3"><text>In a crate near the bar. Зорька [TERM?] and a couple of batteries.</text></string>
+<string id="bar_secret_0013_desc3"><text>In a crate near the bar. Zorka and a couple of batteries.</text></string>
 
 <string id="bar_secret_0014_name"><text>Little Crate</text></string>
-<string id="bar_secret_0014_desc1"><text>Tomorrow Цыган [TERM?] and I are going to the Red Forest. Put my goods in a little crate for now.</text></string>
+<string id="bar_secret_0014_desc1"><text>Tomorrow Gypsy and I are going to the Red Forest. Put my goods in a little crate for now.</text></string>
 <string id="bar_secret_0014_desc2"><text>Hid a little crate in the alley near the Bar.</text></string>
 <string id="bar_secret_0014_desc3"><text>In the nook near the bar, I tucked my collection into a little crate.</text></string>
 
@@ -299,7 +299,7 @@
 <string id="esc_secret_0002_desc3"><text>Scammed a sucker out of some artifacts. Let them lie there until we move out.</text></string>
 
 <string id="esc_secret_0003_name"><text>Bandit Stockpile</text></string>
-<string id="esc_secret_0003_desc1"><text>Swiped loot from Митяй [TERM?]. Until they catch on, I decided to hide it...</text></string>
+<string id="esc_secret_0003_desc1"><text>Swiped loot from Mityay. Until they catch on, I decided to hide it...</text></string>
 <string id="esc_secret_0003_desc2"><text>A crate intercepted by bandits was found in the attic of the central building. Need to prepare a squad and take it back.</text></string>
 <string id="esc_secret_0003_desc3"><text>Tomorrow the boss comes for the common fund. He's not getting my artifact.</text></string>
 
@@ -320,12 +320,12 @@
 
 <string id="esc_secret_0007_name"><text>Container in the Railcar</text></string>
 <string id="esc_secret_0007_desc1"><text>The boys whispered that someone hides something in the railcar on the bridge; need to look on the way back. Only it's scary, there are Jelly anomalies all over...</text></string>
-<string id="esc_secret_0007_desc2"><text>Yesterday I was talking life with Хобот [TERM?], and that sucker slipped up, blurted about gear on the Cordon, in the railcar. Kept quiet about the Jelly anomalies, the little bastard.</text></string>
-<string id="esc_secret_0007_desc3"><text>Беня [TERM?] got drunk and slipped up, blurted about his stash on the Cordon. Guess he knows no one will go in there because of the Jelly anomalies...</text></string>
+<string id="esc_secret_0007_desc2"><text>Yesterday I was talking life with Trunk, and that sucker slipped up, blurted about gear on the Cordon, in the railcar. Kept quiet about the Jelly anomalies, the little bastard.</text></string>
+<string id="esc_secret_0007_desc3"><text>Benya got drunk and slipped up, blurted about his stash on the Cordon. Guess he knows no one will go in there because of the Jelly anomalies...</text></string>
 
 <string id="esc_secret_0008_name"><text>Stalker's Goods</text></string>
 <string id="esc_secret_0008_desc1"><text>Hid the goods right under the roof, in the little house by the bridge.</text></string>
-<string id="esc_secret_0008_desc2"><text>Hid everything I agreed on with Кирюха [TERM?] in the little house by the bridge, right under the roof. An artifact and a bit of ammo.</text></string>
+<string id="esc_secret_0008_desc2"><text>Hid everything I agreed on with Kiryukha in the little house by the bridge, right under the roof. An artifact and a bit of ammo.</text></string>
 <string id="esc_secret_0008_desc3"><text>The soldiers have completely lost it. Had to run from the raid. Left all the profit on the roof.</text></string>
 
 <string id="esc_secret_0009_name"><text>Things Near the Bridge</text></string>
@@ -335,23 +335,23 @@
 
 <string id="esc_secret_0010_name"><text>Backpack Near the Village</text></string>
 <string id="esc_secret_0010_desc1"><text>Not far from the rookie camp, some stalker vanished; I should check his goods. They say he was hauling them back from a raid.</text></string>
-<string id="esc_secret_0010_desc2"><text>Some Вася [TERM?] gave me a little lead here on a backpack. Said it was cursed, so not many people want to take it. What's so valuable in it, I don't know.</text></string>
+<string id="esc_secret_0010_desc2"><text>Some guy gave me a little lead here on a backpack. Said it was cursed, so not many people want to take it. What's so valuable in it, I don't know.</text></string>
 <string id="esc_secret_0010_desc3"><text>Not far from the rookie camp, some stalker died... I should check his goods.</text></string>
 
 <string id="esc_secret_0011_name"><text>Attic in the Village</text></string>
-<string id="esc_secret_0011_desc1"><text>There's a stash in the attic; I learned about it from Лихой [TERM?]. He ran his mouth too much, so we stitched him up.</text></string>
+<string id="esc_secret_0011_desc1"><text>There's a stash in the attic; I learned about it from Daring. He ran his mouth too much, so we stitched him up.</text></string>
 <string id="esc_secret_0011_desc2"><text>Set up an emergency reserve for a rainy day in the attic, in Vergas's house.</text></string>
-<string id="esc_secret_0011_desc3"><text>Found out from Лихой [TERM?] about a stash in the attic. Supposedly there's a brand-new armor vest there.</text></string>
+<string id="esc_secret_0011_desc3"><text>Found out from Daring about a stash in the attic. Supposedly there's a brand-new armor vest there.</text></string>
 
 <string id="esc_secret_0012_name"><text>Convenient Spot</text></string>
 <string id="esc_secret_0012_desc1"><text>Spotted a sweet little place for a stash in the attic. People have already crawled around there so many times they probably won't search it. Put a bit of junk there as a test. If it gets stolen, no big loss.</text></string>
 <string id="esc_secret_0012_desc2"><text>Spotted a sweet little place for a stash in the attic. People have already crawled around there so many times they probably won't search it. Put a bit of junk there as a test. If it gets stolen, no big loss.</text></string>
 <string id="esc_secret_0012_desc3"><text>Spotted a sweet little place for a stash in the attic. People have already crawled around there so many times they probably won't search it. Put a bit of junk there as a test. If it gets stolen, no big loss.</text></string>
 
-<string id="esc_secret_0013_name"><text>Ворпал [TERM?]'s Stash</text></string>
-<string id="esc_secret_0013_desc1"><text>There's a stalker stash in the attic; learned about it from Ворпал [TERM?]. Our boys were scouting the area. We'll check it.</text></string>
+<string id="esc_secret_0013_name"><text>Vorpal's Stash</text></string>
+<string id="esc_secret_0013_desc1"><text>There's a stalker stash in the attic; learned about it from Vorpal. Our boys were scouting the area. We'll check it.</text></string>
 <string id="esc_secret_0013_desc2"><text>I was gathering it for Kuznetsov, but it never came in handy.</text></string>
-<string id="esc_secret_0013_desc3"><text>There's a stash in the attic; learned about it from Ворпал [TERM?]. Our boys were scouting the area. We'll check it.</text></string>
+<string id="esc_secret_0013_desc3"><text>There's a stash in the attic; learned about it from Vorpal. Our boys were scouting the area. We'll check it.</text></string>
 
 <string id="esc_secret_0014_name"><text>Commander's Valuables</text></string>
 <string id="esc_secret_0014_desc1"><text>They say the commander has a clever drawer in his office, and it's packed with valuable goods!</text></string>
@@ -361,11 +361,11 @@
 <string id="esc_secret_0015_name"><text>By the Country Road</text></string>
 <string id="esc_secret_0015_desc1"><text>Kovalchuk said yesterday that a stalker got taken out near the rookie camp; he was bragging about good loot under the bridge.</text></string>
 <string id="esc_secret_0015_desc2"><text>Not far from the rookie camp, some stalker died; I should check what he was carrying. Who even lets people like that in here?</text></string>
-<string id="esc_secret_0015_desc3"><text>Витюня [TERM?] said some smartass set up a stash beyond the road, among the rocks. Probably skimmed the loot, the rat.</text></string>
+<string id="esc_secret_0015_desc3"><text>Vityunya said some smartass set up a stash beyond the road, among the rocks. Probably skimmed the loot, the rat.</text></string>
 
 <string id="esc_secret_0016_name"><text>Thieves' Attic</text></string>
 <string id="esc_secret_0016_desc1"><text>Damn bandits showed up. Had to hide the loot in the attic. Now I just need to find the right moment and pick it up.</text></string>
-<string id="esc_secret_0016_desc2"><text>Lifted a little device from Вялый [TERM?]; I'll unload it on some outsider.</text></string>
+<string id="esc_secret_0016_desc2"><text>Lifted a little device from Limp; I'll unload it on some outsider.</text></string>
 <string id="esc_secret_0016_desc3"><text>Hid the loot in the bandits' attic while they were gone. Now I just need to choose the moment and take it back.</text></string>
 
 <string id="esc_secret_0017_name"><text>Gas Pipe</text></string>
@@ -906,9 +906,9 @@
 <string id="val_secret_0009_desc3"><text>Thieves everywhere, already stealing from their own, but they won't find my little chest, he-e-ey, they won't find it!</text></string>
 
 <string id="val_secret_0010_name"><text>Stash in the Hatch</text></string>
-<string id="val_secret_0010_desc1"><text>I copied from Андрюха [TERM?]'s PDA that he hid his loot in a hatch before heading North. I'll pay it a visit; maybe something is still left.</text></string>
-<string id="val_secret_0010_desc2"><text>I copied from Андрюха [TERM?]'s PDA that he hid his loot in a hatch before heading North. I'll pay it a visit; maybe something is still left.</text></string>
-<string id="val_secret_0010_desc3"><text>I copied from Андрюха [TERM?]'s PDA that he hid his loot in a hatch before heading North. I'll pay it a visit; maybe something is still left.</text></string>
+<string id="val_secret_0010_desc1"><text>I copied from Andryukha's PDA that he hid his loot in a hatch before heading North. I'll pay it a visit; maybe something is still left.</text></string>
+<string id="val_secret_0010_desc2"><text>I copied from Andryukha's PDA that he hid his loot in a hatch before heading North. I'll pay it a visit; maybe something is still left.</text></string>
+<string id="val_secret_0010_desc3"><text>I copied from Andryukha's PDA that he hid his loot in a hatch before heading North. I'll pay it a visit; maybe something is still left.</text></string>
 
 <string id="val_secret_0011_name"><text>Stalker's Backpack</text></string>
 <string id="val_secret_0011_desc1"><text>Dropped the backpack under a tree; otherwise I would not have gotten away from the bandits. Lost an artifact, ammo, and a few little things. Maybe I can get back for it later?!</text></string>
