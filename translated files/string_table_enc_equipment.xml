@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-#include "text\rus\string_table_amk_metka.xml"
-#include "text\rus\string_table_vergas.xml"
+#include "text\eng\string_table_amk_metka.xml"
+#include "text\eng\string_table_vergas.xml"
 <string id="enc_kamaz_accum"><text>Some kind of experimental device. It looks very similar to a car starter battery.</text></string>
 <string id="kamaz_accum"><text>Something resembling a battery</text></string>
 <string id="lot_many"><text>A bit of cash</text></string>

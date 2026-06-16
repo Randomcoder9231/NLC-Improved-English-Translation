@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-#include "text\rus\string_table_tasks_standart.xml"
+#include "text\eng\string_table_tasks_standart.xml"
 <string id="tm_find_artefact_1"><text>Find two "Jellyfish" artifacts</text></string>
 <string id="tm_find_artefact_1_descr"><text>Need to find two "Jellyfish" artifacts for Sidorovich within two days. Must be in good condition.</text></string>
 <string id="tm_find_artefact_1_text"><text>A guy from the Mainland ordered a couple of "Jellyfish" from me. It's an easy job and the money isn't huge, but it's reliable, and you'll be back in no time. Granted, there's a small catch - the artifacts must be in good condition. Let's see... what's today's date? Aha... You need to get the job done in two days. So, just agree to it! Don't worry about the reward. If you manage to bring them first, you can get:</text></string>

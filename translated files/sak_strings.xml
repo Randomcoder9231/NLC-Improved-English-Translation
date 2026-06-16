@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-#include "text\rus\arc_string_table.xml"
-#include "text\rus\sak_strings_trade.xml"
-#include "text\rus\sak_strings_treasure.xml"
-#include "text\rus\sak_strings_six.xml"
-#include "text\rus\sak_strings_six2.xml"
-#include "text\rus\sak_strings_attention.xml"
-#include "text\rus\string_actor_bio.xml"
-#include "text\rus\string_news_mikelik.xml"
-#include "text\rus\mike_strings.xml"
-#include "text\rus\doc_dialogs.xml"
-#include "text\rus\story_dialogs.xml"
+#include "text\eng\arc_string_table.xml"
+#include "text\eng\sak_strings_trade.xml"
+#include "text\eng\sak_strings_treasure.xml"
+#include "text\eng\sak_strings_six.xml"
+#include "text\eng\sak_strings_six2.xml"
+#include "text\eng\sak_strings_attention.xml"
+#include "text\eng\string_actor_bio.xml"
+#include "text\eng\string_news_mikelik.xml"
+#include "text\eng\mike_strings.xml"
+#include "text\eng\doc_dialogs.xml"
+#include "text\eng\story_dialogs.xml"
 
 <string id="remembers"><text>Memories</text></string>
 <string id="news"><text>Found information</text></string>

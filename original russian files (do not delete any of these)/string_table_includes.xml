@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <string_table>
 <!-- ПРИ ЛОКАЛИЗАЦИИ НЕ ЗАБЫТЬ ИЗМЕНИТЬ ПУТЬ -->
-#include "text\rus\string_table_tips.xml"
-#include "text\rus\stable_storyline_info_pda.xml"
-#include "text\rus\stable_generate_fnames.xml"
-#include "text\rus\stable_generate_snames.xml"
-#include "text\rus\stable_bio_name.xml"
-#include "text\rus\stable_statistic_caption.xml"
+#include "text\eng\string_table_tips.xml"
+#include "text\eng\stable_storyline_info_pda.xml"
+#include "text\eng\stable_generate_fnames.xml"
+#include "text\eng\stable_generate_snames.xml"
+#include "text\eng\stable_bio_name.xml"
+#include "text\eng\stable_statistic_caption.xml"
 </string_table>

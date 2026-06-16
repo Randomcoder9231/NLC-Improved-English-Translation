@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-#include "text\rus\string_table_amk_metka.xml"
-#include "text\rus\string_table_vergas.xml"
+#include "text\eng\string_table_amk_metka.xml"
+#include "text\eng\string_table_vergas.xml"
 <string id="enc_kamaz_accum"><text>Какое-то экспериментальное устройство. С виду очень похожее на стартерный аккумулятор от машины.</text></string>
 <string id="kamaz_accum"><text>Что-то похожее на аккумулятор</text></string>
 <string id="lot_many"><text>Немного наличных</text></string>

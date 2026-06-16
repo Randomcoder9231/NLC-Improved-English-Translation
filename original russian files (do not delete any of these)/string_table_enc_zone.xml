@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-#include "text\rus\string_table_amk_arts_desc.xml"
+#include "text\eng\string_table_amk_arts_desc.xml"
 <string id="af_dummy_black_tip"><text>"Чёрная метка"</text></string>
 <string id="af-ameba-mica"><text>"Слюда"</text></string>
 <string id="af-ameba-slime"><text>"Слизь"</text></string>

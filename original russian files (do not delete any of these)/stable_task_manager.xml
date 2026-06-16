@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-#include "text\rus\string_table_tasks_standart.xml"
+#include "text\eng\string_table_tasks_standart.xml"
 <string id="tm_find_artefact_1"><text>Найти два артефакта "Медуза"</text></string>
 <string id="tm_find_artefact_1_descr"><text>Нужно за два дня найти артефакты "Медуза" в количестве двух штук для Сидоровича. Обязательно в хорошем состоянии.</text></string>
 <string id="tm_find_artefact_1_text"><text>Мне тут один человек с Большой земли заказал пару "Медуз". Работа не пыльная и деньги небольшие, зато верные, да и обернёшься быстро. Правда, есть маленький нюанс - артефакты должны быть в хорошем состоянии. Так... сегодня у нас какое? Ага... Нужно управиться с делом за два дня. Соглашайся, в общем! О награде не беспокойся. Если успеешь первым принести, сможешь получить:</text></string>

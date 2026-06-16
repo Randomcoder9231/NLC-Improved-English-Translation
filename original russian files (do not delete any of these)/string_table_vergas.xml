@@ -1,12 +1,12 @@
 <!-- ;Vergas  © NLC 7 ============================ -->
 
-#include "text\rus\string_table_pda_stalker.xml"
-#include "text\rus\string_table_pda_bandit.xml"
-#include "text\rus\string_table_pda_dolg.xml"
-#include "text\rus\string_table_pda_freedom.xml"
-#include "text\rus\string_table_pda_killer.xml"
-#include "text\rus\string_table_pda_ecolog.xml"
-#include "text\rus\string_table_pda_treasure.xml"
+#include "text\eng\string_table_pda_stalker.xml"
+#include "text\eng\string_table_pda_bandit.xml"
+#include "text\eng\string_table_pda_dolg.xml"
+#include "text\eng\string_table_pda_freedom.xml"
+#include "text\eng\string_table_pda_killer.xml"
+#include "text\eng\string_table_pda_ecolog.xml"
+#include "text\eng\string_table_pda_treasure.xml"
 
 <string id="razgruzka_name"><text>Армейская разгрузка</text></string>
 <string id="razgruzka_new_name"><text>Разгрузка</text></string>
