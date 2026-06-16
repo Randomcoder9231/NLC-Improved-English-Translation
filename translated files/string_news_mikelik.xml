@@ -1020,23 +1020,23 @@
 <string id="klr_171"><text>Hello. I'm listening.</text></string>
 <string id="klr_172"><text>Starting tomorrow, we are beginning \nthe operation for the mass purchase of artifacts.</text></string>
 <string id="klr_173"><text>Our task?</text></string>
-<string id="klr_174"><text>First, it is necessary \nto eliminate the possibility of selling to Шинкарь [TERM?], \nso that artifacts flow only through us.</text></string>
+<string id="klr_174"><text>First, it is necessary \nto eliminate the possibility of selling to the Barkeep, \nso that artifacts flow only through us.</text></string>
 <string id="klr_175"><text>Are we starting a mess?</text></string>
-<string id="klr_176"><text>Yes. But don't overdo it. \nYour task: to observe and intervene in critical situations. \nЧереп [TERM?] and his psychos will do the fighting.</text></string>
+<string id="klr_176"><text>Yes. But don't overdo it. \nYour task: to observe and intervene in critical situations. \nSkull and his psychos will do the fighting.</text></string>
 <string id="klr_177"><text>Duration of the operation?</text></string>
 <string id="klr_178"><text>About two or three weeks. \nWe believe that during this time we'll manage to crash the market \nand have time to buy artifacts from stalkers at prices that suit us.</text></string>
 <string id="klr_179"><text>Aren't you afraid that new buyers \nwill appear instead of the neutralized ones?</text></string>
-<string id="klr_1710"><text>That is not your concern. \nDo your job. Neither side must win. \nEspecially Череп [TERM?]. But it must be dangerous at the Warehouses, very dangerous.</text></string>
-<string id="klr_1711"><text>And if Череп [TERM?] gets the upper hand?</text></string>
-<string id="klr_1712"><text>Under no circumstances! \nWe need Freedom here to maintain stability in the area. \nIf the need arises - eliminate Череп [TERM?]'s guys!</text></string>
+<string id="klr_1710"><text>That is not your concern. \nDo your job. Neither side must win. \nEspecially Skull. But it must be dangerous at the Warehouses, very dangerous.</text></string>
+<string id="klr_1711"><text>And if Skull gets the upper hand?</text></string>
+<string id="klr_1712"><text>Under no circumstances! \nWe need Freedom here to maintain stability in the area. \nIf the need arises - eliminate Skull's guys!</text></string>
 <string id="klr_1713"><text>Understood.</text></string>
 <string id="klr_1714"><text>Loners will start passing through your checkpoint en masse. \nDo not interfere. Spread a rumor that the road to our bunker is scouted and safe.</text></string>
 <string id="klr_1715"><text>And what should we do with the rest?</text></string>
 <string id="klr_1716"><text>It is most likely \nthat Borov's people and envoys from Barkeep himself might reach out to you \nwith a proposal to let their artifact courier through to us. Do not agree.</text></string>
 <string id="klr_1717"><text>Elimination?</text></string>
 <string id="klr_1718"><text>No. \nSuggest that they sell the artifacts to you. \nSet a reasonable price, you won't lose your cut anyway.</text></string>
-<string id="klr_1719"><text>Who starts first: us or Череп [TERM?]'s people? \nAnd how to coordinate actions?</text></string>
-<string id="klr_1720"><text>We don't. We're playing Череп [TERM?] in the dark. \nDisinformation was planted that Lukash is planning an attack on the farmstead. \nSo, expect the mess to start tomorrow by noon.</text></string>
+<string id="klr_1719"><text>Who starts first: us or Skull's people? \nAnd how to coordinate actions?</text></string>
+<string id="klr_1720"><text>We don't. We're playing Skull in the dark. \nDisinformation was planted that Lukash is planning an attack on the farmstead. \nSo, expect the mess to start tomorrow by noon.</text></string>
 <string id="klr_1721"><text>Understood, we are preparing for the operation.</text></string>
 <string id="klr_1722"><text>I wish you success! \nCommunicate on this channel, but only in an extreme case.</text></string>
 
@@ -1090,14 +1090,14 @@
 <string id="grn_153"><text>The boars smash foreheads and drop dead. \nAnd one flies off about 10 meters from where he was running. First time I've seen such a thing.</text></string>
 <string id="grn_154"><text>Funny... \nIf only we could teach the cats to swim too, they're annoying, honestly.</text></string>
 
-<string id="grn_160"><text>At the abandoned vehicle parking lot I was in shock, \nwhen after shooting at some tushkanos, I hit a Тарзанка [TERM?].</text></string>
+<string id="grn_160"><text>At the abandoned vehicle parking lot I was in shock, \nwhen after shooting at some tushkanos, I hit a Bungee anomaly.</text></string>
 <string id="grn_161"><text>The stalkers are yelling: "Come over to us!". \nAnd I'm swallowing medkits, trying to figure out where to head so I don't die.</text></string>
 <string id="grn_162"><text>So what?</text></string>
 <string id="grn_163"><text>Nothing. Full of adrenaline! \nPerked me right up.</text></string>
 <string id="grn_164"><text>Zip over to the Radar, shoot some dogs there, \nif you're such a thrill-seeker.</text></string>
 
 <string id="grn_170"><text>...By the way, \nmy Winchester only fell out of my hands once - \na boar knocked it out in the Swamps...</text></string>
-<string id="grn_171"><text>I picked it up and still won the fight. \nBut neither Вергас [TERM?] nor I could fix it with repair kits later. \nOnly the four-eyes chipped in for pennies, I was even surprised, thought he'd refuse too... </text></string>
+<string id="grn_171"><text>I picked it up and still won the fight. \nBut neither Vergas nor I could fix it with repair kits later. \nOnly the four-eyes chipped in for pennies, I was even surprised, thought he'd refuse too... </text></string>
 
 <string id="grn_180"><text>People, folks... \nTell me, where is the kill spot for the piglets in the Dark Valley? \nThe creatures just won't die, I shoot strictly for the eyes and barely...</text></string>
 <string id="grn_181"><text>Three hundred rounds - two piglets. \nWell, you can't just blast them with grenades.</text></string>
@@ -1109,12 +1109,12 @@
 <string id="grn_190"><text>Has anyone fought the burer in the Sanatorium? \nHow do you put it down?</text></string>
 <string id="grn_191"><text>Point-blank at the bastard, point-blank, \nor try sneaking up on it with a knife, with a stabbing blow.</text></string>
 <string id="grn_192"><text>Hm... I chased a flesh with a knife, \nnever did kill it, had to shoot it. \nBut going against a burer - it's a bit scary.</text></string>
-<string id="grn_193"><text>Regarding the burers... \nThey are gorgeously destroyed by a Saiga, like the one Крот [TERM?] wanders around with at Agroprom. \nOne shot of buckshot to the head and that's it...</text></string>
+<string id="grn_193"><text>Regarding the burers... \nThey are gorgeously destroyed by a Saiga, like the one Mole wanders around with at Agroprom. \nOne shot of buckshot to the head and that's it...</text></string>
 <string id="grn_194"><text>In the Sanatorium I wasted that filth with an assault Abakan. \nSpent 3 magazines, fired into its back and head from the second floor (it kept running back and forth downstairs).</text></string>
 <string id="grn_195"><text>Mother of God! A broad, or what? "Wasted", "spent"...</text></string>
 <string id="grn_196"><text>Well if you're "scared" to go after a burer, \nthen take a look in your pants: maybe you're my girlfriend?</text></string>
 
-<string id="bndt_100"><text>'Sup, Кабан [TERM?].</text></string>
+<string id="bndt_100"><text>'Sup, Boar.</text></string>
 <string id="bndt_101"><text>We already said hi, \nwhat do ya want, make it quick.</text></string>
 <string id="bndt_102"><text>Just don't get all puffed up, aight? \nI'm here on business. And not on my own behalf, by the way.</text></string>
 <string id="bndt_103"><text>Cut your cheap talk. \nGet to the point.</text></string>
@@ -1138,9 +1138,9 @@
 <string id="bndt_110"><text>Eh... Hello! What's your name? \nWhen's the cash comin'?</text></string>
 <string id="bndt_111"><text>Are you talkin' to me? \nI don't know about any cash...</text></string>
 <string id="bndt_112"><text>Why ya actin' tough here? \nYou were given a deadline...</text></string>
-<string id="bndt_113"><text>Deadline? \nJust make sure you guys don't croak by this deadline... \nDo you know Кочерга [TERM?]? Talk to him.</text></string>
-<string id="bndt_114"><text>What the hell do I care about Кочерга [TERM?]. Where is he? \nAnd who is he - piece of shit. \nAnd Косой [TERM?] gets real offended when people throw shit at him.</text></string>
-<string id="bndt_115"><text>Don't strain yourselves, boys. \nКочерга [TERM?] will be back in business soon and sort things out. \nIf ya don't believe me, ask Borov, he knows me too.</text></string>
+<string id="bndt_113"><text>Deadline? \nJust make sure you guys don't croak by this deadline... \nDo you know Poker? Talk to him.</text></string>
+<string id="bndt_114"><text>What the hell do I care about Poker. Where is he? \nAnd who is he - piece of shit. \nAnd Squinty gets real offended when people throw shit at him.</text></string>
+<string id="bndt_115"><text>Don't strain yourselves, boys. \nPoker will be back in business soon and sort things out. \nIf ya don't believe me, ask Borov, he knows me too.</text></string>
 <string id="bndt_116"><text>Why didn't ya say right away, you bastard, \nthat you got a roof?</text></string>
 <string id="bndt_117"><text>What, do I gotta explain myself \nto every asshole?</text></string>
 <string id="bndt_118"><text>Alright, we'll meet again... \nAnd you'll answer for the asshole.</text></string>
@@ -1166,7 +1166,7 @@
 <string id="bndt_134"><text>And that's it. Well tell me somethin', it's interestin' ya know. \nIt's borin', honestly, we're already bettin' here on how long you guys will last.</text></string>
 <string id="bndt_135"><text>Ah, go to hell! There ain't no anomaly.</text></string>
 <string id="bndt_136"><text>C'mon really, tell me what's goin' on there, if it ain't an anomaly? \nYou ain't crazy yet, it seems.</text></string>
-<string id="bndt_137"><text>Ah, don't listen to him! It's all empty talk. \nSanya Шныря [TERM?] just found some boulder...</text></string>
+<string id="bndt_137"><text>Ah, don't listen to him! It's all empty talk. \nSanya Snooper just found some boulder...</text></string>
 <string id="bndt_138"><text>Well, he sat with it, locked himself away from us, \nrubbed it in the corner like a chick... And well, lost his mind a little...</text></string>
 <string id="bndt_139"><text>Only he was already a bit screwed up in the head before that. :)) \nAnd he lost this stone and finally went completely nuts. That's all.</text></string>
 <string id="bndt_1310"><text>And that's all? That's not interestin'... \nI was hopin' to hear a story, and you give me "there's nothin'"... Disappointed me.</text></string>
@@ -1174,20 +1174,20 @@
 <string id="bndt_1312"><text>So he's gotten weird now - \nstares off into the distance somewhere, says they're waitin' for him... Long story short, it's already started.</text></string>
 <string id="bndt_1313"><text>Don't you touch Mishanya!</text></string>
 <string id="bndt_1314"><text>And what about me, if he's already started talkin' like this: \nwe are scum, he says, and he is a man. \nThey're waitin' for him alone somewhere. He's got some kind of mission...</text></string>
-<string id="bndt_1315"><text>Well, fo' real, I ain't lyin'. \nAsk Дохлый [TERM?], he heard it too. \nЩербатый [TERM?] already smashed his mug for talkin' like that, only he didn't calm down.</text></string>
+<string id="bndt_1315"><text>Well, fo' real, I ain't lyin'. \nAsk Deadman, he heard it too. \nGap-tooth already smashed his mug for talkin' like that, only he didn't calm down.</text></string>
 <string id="bndt_1316"><text>Bad... And what kind of stone is it? \nDid you see it?</text></string>
 <string id="bndt_1317"><text>Nobody saw it. \nI think it ain't there and he never had it. \nIt's just the vodka doin' all this. The DTs.</text></string>
 <string id="bndt_1318"><text>Alright. \nI'll talk to Mishanya myself, ask him about the stone.</text></string>
 <string id="bndt_1319"><text>Well, go ahead... \nthen you can tell me too, 'cause all you do is ask.</text></string>
 
-<string id="bndt_140"><text>'Sup, Длинный [TERM?].</text></string>
+<string id="bndt_140"><text>'Sup, Lanky.</text></string>
 <string id="bndt_141"><text>Who are you?</text></string>
-<string id="bndt_142"><text>Yeah, it's me... Remember Самара [TERM?].</text></string>
+<string id="bndt_142"><text>Yeah, it's me... Remember Samara.</text></string>
 <string id="bndt_143"><text>Ah... and why are you keepin' a low profile?</text></string>
 <string id="bndt_144"><text>Long story short. Here's the deal: \nI grabbed a stalker today, \nand he had some kind of gizmo on him, whether a boulder or an artifact...</text></string>
 <string id="bndt_145"><text>This stalker was walkin', well, like a zombie - \nand no resistance, like a kitten. And started whinin' right away: \nhe says he'll give everything, rat everyone out, whatever you want, just give this shard back - that's what he called the stone...</text></string>
 <string id="bndt_146"><text>Droolin' like some retard. \nSo I figured this out and took so many orders for this boulder that I'll be rollin' in it soon...</text></string>
-<string id="bndt_147"><text>He already handed over two "Wrenched" to me \nand ran off for a Цветок [TERM?], he's got it in a stash somewhere. \nCome here quick, otherwise I won't be able to carry it all alone.</text></string>
+<string id="bndt_147"><text>He already handed over two "Wrenched" to me \nand ran off for a "Stone Flower", he's got it in a stash somewhere. \nCome here quick, otherwise I won't be able to carry it all alone.</text></string>
 <string id="bndt_148"><text>Well... So what if you let a whiner go... \nHe might not even come back to you anymore.</text></string>
 <string id="bndt_149"><text>Nah, you didn't get it. \nThis whiner is like "hooked" on this stone, you know? \nHe's ready to do anything for it now. You can milk him with this stone as much as you want now...</text></string>
 <string id="bndt_1410"><text>And I'm keepin' a low profile so you don't blab, \nI'm only tellin' you. And another thing: the stone is definitely unusual. \nI held it for a bit myself, and I feel like it gives me strength...</text></string>
@@ -1248,8 +1248,8 @@
 <string id="bndt_1910"><text>Yeah my PDA is actin' up or somethin'... \nI remember. You'll get it all... tomorrow mornin'.</text></string>
 <string id="bndt_1911"><text>Look, sucker, you've tired me out... \nWanna slip away, and you're feedin' me bullshit? \nThey'll find ya now and tie your tired little legs in a bow around your neck. Hold on a bit...</text></string>
 
-<string id="bndt_200"><text>Лось [TERM?], did you see the thieves' notes?</text></string>
-<string id="bndt_201"><text>Yeah, I did. \nЧирка [TERM?] was yellin' that the thieves from the mainland sent us a decree, \nlike, we gotta share and pushed some other bullshit.</text></string>
+<string id="bndt_200"><text>Moose, did you see the thieves' notes?</text></string>
+<string id="bndt_201"><text>Yeah, I did. \nTeal was yellin' that the thieves from the mainland sent us a decree, \nlike, we gotta share and pushed some other bullshit.</text></string>
 <string id="bndt_202"><text>Your word?</text></string>
 <string id="bndt_203"><text>Soon as we stepped up, \nhere they show up with their rules. \nPay up, mutts, they say, we explained the real deal to ya. As if!..</text></string>
 <string id="bndt_204"><text>This ain't blowin' snot bubbles behind the fence, \nthey pop a cap in the bushes once a year, and act like - we all walk under death, we know the price...</text></string>
@@ -1267,11 +1267,11 @@
 <string id="bndt_217"><text>And what did ya answer?</text></string>
 <string id="bndt_218"><text>They weren't waitin' for an answer. \nStarted cleanin' my snout again.</text></string>
 <string id="bndt_219"><text>Sold me out, you scum?</text></string>
-<string id="bndt_2110"><text>I didn't sell ya out, \nbut you really owe Косой [TERM?] for my black eyes now. \nКосой [TERM?] doesn't like it when his people get beat up...</text></string>
+<string id="bndt_2110"><text>I didn't sell ya out, \nbut you really owe Squinty for my black eyes now. \nSquinty doesn't like it when his people get beat up...</text></string>
 <string id="bndt_2111"><text>And you owe me, \nI don't like my mug ruined either.</text></string>
 <string id="bndt_2112"><text>And what makes ya think they're cops?</text></string>
 <string id="bndt_2113"><text>It definitely ain't the brotherhood, a hundred percent dogs - \nthey got cop talk. And they told me to pass on that you're a dead man walkin'.</text></string>
-<string id="bndt_2114"><text>Alright, we're even. \nTell Косой [TERM?] that I'll give him two suckers. They'll be returnin' from a hike soon, \nand they should have good swag. Sorry, bro, shit happens.</text></string>
+<string id="bndt_2114"><text>Alright, we're even. \nTell Squinty that I'll give him two suckers. They'll be returnin' from a hike soon, \nand they should have good swag. Sorry, bro, shit happens.</text></string>
 <string id="bndt_2115"><text>Yeah?! Shit happens? \nThe swamp doc told me I gotta lie still like a corpse for a week, \nor I might not get up at all, I'll stay a paralytic!</text></string>
 <string id="bndt_2116"><text>Alright, stop whinin'! \nYou came to the Zone, not to girls for some cheap wine.</text></string>
 <string id="bndt_2117"><text>You louse. \nYou really owe me now, got it?!</text></string>
@@ -1297,7 +1297,7 @@
 <string id="bndt_242"><text>And without showin' off, \njust sayin' where, you scared?</text></string>
 <string id="bndt_243"><text>And tossin' a tiny little artifact \nas a present, you scared?</text></string>
 
-<string id="bndt_250"><text>Промокашка [TERM?], get over here and help. \nOr I'm gonna lose my mind completely...</text></string>
+<string id="bndt_250"><text>Blotter, get over here and help. \nOr I'm gonna lose my mind completely...</text></string>
 <string id="bndt_251"><text>Yeah, what happened? And where are ya?</text></string>
 <string id="bndt_252"><text>Droppin' the coordinates.\n And here's what's up with me: got crazy lucky! \nFound a stalker stash in the Garbage, in the little forest...</text></string>
 <string id="bndt_253"><text>And inside there are cans of NATO ammo. \nMore than three thousand of 'em. And a tube for a flamethrower. \nAnd all sorts of grub. Long story short, I was happy as a kid.</text></string>
